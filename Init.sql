@@ -1,11 +1,11 @@
 --Creacion de las tablas
 
-CREATE TABLE Fabricantes (
+CREATE TABLE IF NOT EXISTS Fabricantes (
     nombre_fabricante VARCHAR(50) PRIMARY KEY,
     pais VARCHAR(60) NOT NULL
 );
 
-CREATE TABLE Estancos (
+CREATE TABLE IF NOT EXISTS Estancos (
     nif_estanco VARCHAR(20) PRIMARY KEY,
     num_expendeduria INTEGER NOT NULL,
     cp_estanco VARCHAR(10) NOT NULL,
@@ -15,7 +15,7 @@ CREATE TABLE Estancos (
     provincia_estanco VARCHAR(80) NOT NULL
 );
 
-CREATE TABLE Cigarrillos (
+CREATE TABLE IF NOT EXISTS Cigarrillos (
     marca VARCHAR(50) NOT NULL,
     filtro VARCHAR(20) NOT NULL,
     color VARCHAR(40) NOT NULL,
@@ -32,7 +32,7 @@ CREATE TABLE Cigarrillos (
     FOREIGN KEY (nombre_fabricante) REFERENCES Fabricantes(nombre_fabricante)
 );
 
-CREATE TABLE Almacenes (
+CREATE TABLE IF NOT EXISTS Almacenes (
     nif_estanco VARCHAR(20) NOT NULL,
     marca VARCHAR(50) NOT NULL,
     filtro VARCHAR(20) NOT NULL,
@@ -45,7 +45,7 @@ CREATE TABLE Almacenes (
     FOREIGN KEY (marca, filtro, color, clase, mentol) REFERENCES Cigarrillos(marca, filtro, color, clase, mentol)
 );
 
-CREATE TABLE Compras (
+CREATE TABLE IF NOT EXISTS Compras (
     nif_estanco VARCHAR(20) NOT NULL,
     marca VARCHAR(50) NOT NULL,
     filtro VARCHAR(20) NOT NULL,
@@ -57,9 +57,10 @@ CREATE TABLE Compras (
     precio_compra DECIMAL(10,2) NOT NULL,
     PRIMARY KEY (nif_estanco, marca, filtro, color, clase, mentol, fecha_compra),
     FOREIGN KEY (nif_estanco, marca, filtro, color, clase, mentol) REFERENCES Almacenes(nif_estanco, marca, filtro, color, clase, mentol)
-);
+); 
+-- HOLA
 
-CREATE TABLE Ventas (
+CREATE TABLE IF NOT EXISTS Ventas (
     nif_estanco VARCHAR(20) NOT NULL,
     marca VARCHAR(50) NOT NULL,
     filtro VARCHAR(20) NOT NULL,
