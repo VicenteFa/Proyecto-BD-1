@@ -1,29 +1,11 @@
 import csv
 import random
 from datetime import date, timedelta
-import os
 
-# --- CONFIGURACIÓN DE DATOS REALISTAS ---
+# --- CONFIGURACIÓN DE DATOS ---
 PAISES = ["Chile", "Argentina", "Reino Unido", "Alemania", "Japon"]
-GEOGRAFIA = {
-    "Chile": {"Metropolitana": ["Santiago", "Puente Alto", "Maipú", "La Florida", "Las Condes"], "Valparaíso": ["Viña del Mar", "Valparaíso", "Quilpué", "Villa Alemana", "San Antonio"]},
-    "Argentina": {"Buenos Aires": ["La Plata", "Mar del Plata", "Quilmes", "Avellaneda", "Lanús"], "Córdoba": ["Rio Cuarto", "Villa María", "Carlos Paz", "Alta Gracia", "Jesús María"]},
-    "Reino Unido": {"Greater London": ["Croydon", "Barnet", "Ealing", "Bromley", "Enfield"], "West Midlands": ["Coventry", "Wolverhampton", "Solihull", "Sutton Coldfield", "Dudley"]},
-    "Alemania": {"Baviera": ["Munich", "Nuremberg", "Augsburg", "Regensburg", "Ingolstadt"], "Hamburgo": ["Altona", "Bergedorf", "Eimsbüttel", "Harburg", "Nord"]},
-    "Japon": {"Tokyo": ["Shinjuku", "Shibuya", "Minato", "Chiyoda", "Taito"], "Osaka": ["Sakai", "Higashiosaka", "Toyonaka", "Hirakata", "Suita"]}
-}
-CALLES = {
-    "Chile": ["Av. Providencia", "Calle Bandera", "Av. Libertador B. O'Higgins", "Calle Ahumada", "Av. Apoquindo"],
-    "Argentina": ["Av. Corrientes", "Calle Florida", "Av. Santa Fe", "Av. de Mayo", "Calle Lavalle"],
-    "Reino Unido": ["Oxford Street", "Baker Street", "Abbey Road", "High Street", "Regent Street"],
-    "Alemania": ["Unter den Linden", "Kurfürstendamm", "Reeperbahn", "Maximilianstraße", "Königsallee"],
-    "Japon": ["Takeshita-dori", "Omotesando", "Dotonbori", "Ginza", "Nakamise-dori"]
-}
-MARCAS_BASE = ["Gold Leaf", "Royal Blend", "Mountain Mist", "Ocean Breeze", "Urban Classic", "Midnight Silk", "Highland Peak", "Silver Lining", "Amber Haze", "Pure Essence"]
-
-# --- PARÁMETROS DEL PROYECTO ---
+# 3 años exactos hacia atrás
 FECHA_INICIO = date.today() - timedelta(days=3 * 365) 
-DIAS_ENTRE_COMPRAS = 15 
 
 def generar_datos():
     print("Iniciando generación de datos...")
@@ -32,66 +14,119 @@ def generar_datos():
     def b_to_pg(val):
         return 't' if val else 'f'
     
-    # 1. Fabricantes
+    # 1. Fabricantes (10 fabricantes por país -> 50 total)
     fabricantes_list = []
     with open('fabricantes.csv', 'w', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
         for pais in PAISES:
             for i in range(1, 11):
-                nombre = f"{pais} Tabacco Co. {i}"
-                fabricantes_list.append((nombre, pais))
+                nombre = f"{pais} Tabacco Co {i}"
+                fabricantes_list.append(nombre)
                 writer.writerow([nombre, pais])
 
-    # 2. Cigarrillos
+    # 2. Cigarrillos (10 tipos distintos por fabricante -> 500 total)
     cigarrillos = []
+    cig_pk_set = set() # Set para evitar colisiones en la Clave Primaria
+    
     with open('cigarrillos.csv', 'w', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
-        for fab_nombre, pais in fabricantes_list:
-            for m in MARCAS_BASE:
-                marca = f"{m} {fab_nombre.split()[0]}"
+        for fab in fabricantes_list:
+            # Para asegurar que la marca es única por fabricante, la incrustamos en el nombre
+            marcas_base = [f"Gold {fab.replace(' ', '')}", f"Silver {fab.replace(' ', '')}"]
+            
+            tipos_generados = 0
+            while tipos_generados < 10:
+                marca = random.choice(marcas_base)
                 filtro = random.choice(['Con Filtro', 'Sin Filtro'])
                 color = random.choice(['Rubio', 'Negro'])
                 mentol = random.choice([True, False])
-                clase = 'Normal' if (filtro == 'Sin Filtro' or mentol) else random.choice(['Normal', 'Light', 'SuperLight', 'UltraLight'])
                 
-                # Guardamos mentol como bool en la lista, pero escribimos 't'/'f' en el CSV
-                cig = (marca, filtro, color, clase, mentol)
-                cigarrillos.append(cig + (round(random.uniform(1.0, 3.0), 2), round(random.uniform(5.0, 8.0), 2), fab_nombre))
-                writer.writerow([marca, filtro, color, clase, b_to_pg(mentol), round(random.uniform(0.1, 1.5), 2), round(random.uniform(1.0, 14.0), 2), fab_nombre, 6.5, 2.0, 10, 20])
+                # Supuestos 8 y 9: Sin filtro o mentolados siempre son clase Normal
+                if mentol or filtro == 'Sin Filtro':
+                    clase = 'Normal'
+                else:
+                    clase = random.choice(['Normal', 'Light', 'SuperLight', 'UltraLight'])
+                
+                # Definición estricta de la PK
+                pk = (marca, filtro, color, clase, mentol)
+                
+                if pk not in cig_pk_set:
+                    cig_pk_set.add(pk)
+                    nicotina = round(random.uniform(0.1, 1.5), 2)
+                    alquitran = round(random.uniform(1.0, 14.0), 2)
+                    p_venta = round(random.uniform(4.0, 9.0), 2)
+                    p_costo = round(p_venta * 0.6, 2) # Costo coherente
+                    
+                    # Guardamos la tupla base para usarla en almacenes/compras/ventas
+                    cigarrillos.append(pk)
+                    writer.writerow([marca, filtro, color, clase, b_to_pg(mentol), nicotina, alquitran, fab, p_venta, p_costo, 10, 20])
+                    tipos_generados += 1
 
-    # 3. Estancos
+    # 3. Estancos (10 provincias, 10-15 localidades/provincia, 15 estancos/localidad)
     estancos = []
     with open('estancos.csv', 'w', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
-        for pais, provs in GEOGRAFIA.items():
-            for prov_nombre, locs in provs.items():
-                for loc_nombre in locs:
-                    for i in range(1, 16):
-                        nif = f"NIF-{pais[:3].upper()}-{loc_nombre[:3].upper()}-{i}"
+        estanco_id = 1
+        
+        # Distribuimos 10 provincias entre los 5 países (2 por país)
+        for pais in PAISES:
+            for prov_idx in range(1, 3):
+                prov_nombre = f"Provincia {prov_idx} {pais}"
+                num_localidades = random.randint(10, 15)
+                
+                for loc_idx in range(1, num_localidades + 1):
+                    loc_nombre = f"Localidad {loc_idx} {prov_nombre}"
+                    
+                    for _ in range(15): # Exactamente 15 estancos por localidad
+                        nif = f"NIF-{estanco_id:06d}" # NIF garantizado único
                         estancos.append(nif)
-                        direccion = f"{random.choice(CALLES[pais])} {random.randint(1, 2000)}"
-                        writer.writerow([nif, random.randint(1000, 9999), f"CP-{random.randint(1000, 9999)}", f"Estanco {loc_nombre} {i}", direccion, loc_nombre, prov_nombre])
+                        num_exp = random.randint(100, 999) # Puede repetirse
+                        cp = f"CP-{random.randint(1000, 9999)}"
+                        nombre_estanco = f"Estanco {estanco_id}"
+                        direccion = f"Calle Comercial {random.randint(1, 1000)}"
+                        
+                        writer.writerow([nif, num_exp, cp, nombre_estanco, direccion, loc_nombre, prov_nombre])
+                        estanco_id += 1
 
     # 4. Almacenes, Compras y Ventas
     with open('almacenes.csv', 'w', newline='', encoding='utf-8') as f_alm, \
          open('compras.csv', 'w', newline='', encoding='utf-8') as f_comp, \
          open('ventas.csv', 'w', newline='', encoding='utf-8') as f_vent:
+        
         w_alm, w_comp, w_vent = csv.writer(f_alm), csv.writer(f_comp), csv.writer(f_vent)
         
         for nif in estancos:
-            for cig in random.sample(cigarrillos, random.randint(10, 30)):
-                # Convertir mentol a 't'/'f' para el CSV
-                row_base = list(cig[:5])
-                row_base[4] = b_to_pg(row_base[4])
+            # 10 a 30 almacenes (tipos de cigarrillos) por estanco
+            num_almacenes = random.randint(10, 30)
+            
+            # random.sample garantiza no escoger el mismo cigarrillo 2 veces para el mismo estanco
+            cigs_seleccionados = random.sample(cigarrillos, num_almacenes)
+            
+            for cig in cigs_seleccionados:
+                row_base = list(cig)
+                row_base[4] = b_to_pg(row_base[4]) # mentol bool a string 't'/'f'
                 
-                w_alm.writerow([nif] + row_base + [random.randint(50, 500)])
+                stock_inicial = random.randint(50, 500)
+                w_alm.writerow([nif] + row_base + [stock_inicial])
                 
-                for i in range(72):
-                    fecha = FECHA_INICIO + timedelta(days=i * DIAS_ENTRE_COMPRAS)
-                    w_comp.writerow([nif] + row_base + [fecha, random.randint(10, 50), 20.0])
-                    w_vent.writerow([nif] + row_base + [fecha + timedelta(days=5), random.randint(1, 8), 6.5])
+                # 3 años, promedio 2 al mes = 72 iteraciones separadas por 15 días
+                for iteracion in range(72):
+                    fecha_c = FECHA_INICIO + timedelta(days=iteracion * 15)
+                    # La venta ocurre unos días después para evitar colisión de fecha con la compra,
+                    # aunque están en tablas distintas, ayuda a la línea temporal lógica.
+                    fecha_v = fecha_c + timedelta(days=5) 
+                    
+                    c_comp = random.randint(10, 50)
+                    p_comp = round(random.uniform(2.0, 5.0), 2)
+                    w_comp.writerow([nif] + row_base + [fecha_c, c_comp, p_comp])
+                    
+                    # Ventas al detalle: Coherencia de volumen (no vende más del lote de compra)
+                    c_vend = random.randint(1, c_comp) 
+                    p_vend = round(p_comp * 1.5, 2)
+                    w_vent.writerow([nif] + row_base + [fecha_v, c_vend, p_vend])
 
-    print("Archivos CSV generados con éxito. Ahora usan 't'/'f' para booleanos.")
+    print("Archivos CSV generados con éxito.")
+    print(f"Total de Estancos generados: {len(estancos)}")
 
 if __name__ == "__main__":
     generar_datos()

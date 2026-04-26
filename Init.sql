@@ -72,3 +72,64 @@ CREATE TABLE IF NOT EXISTS Ventas (
     PRIMARY KEY (nif_estanco, marca, filtro, color, clase, mentol, fecha_venta),
     FOREIGN KEY (nif_estanco, marca, filtro, color, clase, mentol) REFERENCES Almacenes(nif_estanco, marca, filtro, color, clase, mentol)
 );
+
+-- Consultas
+
+-- 1. Caracteristicas de los cigarrilos que se estan comprando
+SELECT 
+    c.fecha_compra, 
+    c.c_comprada, 
+    c.precio_compra,
+    cig.marca, 
+    cig.clase, 
+    cig.mentol
+FROM Compras c, Cigarrillos cig
+WHERE c.marca = cig.marca 
+  AND c.filtro = cig.filtro 
+  AND c.color = cig.color 
+  AND c.clase = cig.clase 
+  AND c.mentol = cig.mentol;
+
+-- 2. Caracteristicas de los cigarrillos que se estan vendidos dentro de una fecha acotada
+SELECT 
+    v.fecha_venta, 
+    v.c_vendida, 
+    v.precio_venta,
+    cig.marca, 
+    cig.clase, 
+    cig.mentol
+FROM Ventas v, Cigarrillos cig
+WHERE v.marca = cig.marca 
+  AND v.filtro = cig.filtro 
+  AND v.color = cig.color 
+  AND v.clase = cig.clase 
+  AND v.mentol = cig.mentol
+  AND v.fecha_venta BETWEEN '2024-03-01' AND '2024-03-31';
+
+-- 3. Fabricantes y paises que se les esta comprando los cigarrillos
+SELECT 
+    c.fecha_compra, 
+    c.c_comprada, 
+    cig.marca, 
+    f.nombre_fabricante, 
+    f.pais
+FROM Compras c, Cigarrillos cig, Fabricantes f
+WHERE c.marca = cig.marca 
+  AND c.filtro = cig.filtro 
+  AND c.color = cig.color 
+  AND c.clase = cig.clase 
+  AND c.mentol = cig.mentol
+  AND cig.nombre_fabricante = f.nombre_fabricante;
+
+-- 4. Cantidad de stock que tienen los estancos en el almacen de la pronvincia 'Provincia 1 Chile'
+SELECT 
+    e.nombre_estanco, 
+    e.localidad_estanco, 
+    e.provincia_estanco,
+    a.marca, 
+    a.unidades
+FROM Almacenes a, Estancos e
+WHERE a.nif_estanco = e.nif_estanco
+  AND e.provincia_estanco = 'Provincia 1 Chile';
+
+-- Metodos de optimizacion, indice y otras alternativas. Punto 3 
