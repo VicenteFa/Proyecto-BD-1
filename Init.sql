@@ -58,7 +58,6 @@ CREATE TABLE IF NOT EXISTS Compras (
     PRIMARY KEY (nif_estanco, marca, filtro, color, clase, mentol, fecha_compra),
     FOREIGN KEY (nif_estanco, marca, filtro, color, clase, mentol) REFERENCES Almacenes(nif_estanco, marca, filtro, color, clase, mentol)
 ); 
--- HOLA
 
 CREATE TABLE IF NOT EXISTS Ventas (
     nif_estanco VARCHAR(20) NOT NULL,
