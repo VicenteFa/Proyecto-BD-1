@@ -1,750 +1,750 @@
-NIF-CHI-SAN-1,3728,CP-6323,Estanco Santiago 1,Av. Providencia 274,Santiago,Metropolitana
-NIF-CHI-SAN-2,3456,CP-8599,Estanco Santiago 2,Av. Providencia 1828,Santiago,Metropolitana
-NIF-CHI-SAN-3,3407,CP-8374,Estanco Santiago 3,Calle Ahumada 1382,Santiago,Metropolitana
-NIF-CHI-SAN-4,2035,CP-9908,Estanco Santiago 4,Av. Apoquindo 1284,Santiago,Metropolitana
-NIF-CHI-SAN-5,3075,CP-2849,Estanco Santiago 5,Av. Providencia 1566,Santiago,Metropolitana
-NIF-CHI-SAN-6,4419,CP-2898,Estanco Santiago 6,Av. Providencia 288,Santiago,Metropolitana
-NIF-CHI-SAN-7,9450,CP-1947,Estanco Santiago 7,Av. Libertador B. O'Higgins 1429,Santiago,Metropolitana
-NIF-CHI-SAN-8,8772,CP-7981,Estanco Santiago 8,Calle Ahumada 1543,Santiago,Metropolitana
-NIF-CHI-SAN-9,6405,CP-8621,Estanco Santiago 9,Av. Libertador B. O'Higgins 106,Santiago,Metropolitana
-NIF-CHI-SAN-10,9952,CP-9843,Estanco Santiago 10,Av. Libertador B. O'Higgins 1595,Santiago,Metropolitana
-NIF-CHI-SAN-11,1375,CP-8083,Estanco Santiago 11,Calle Bandera 1440,Santiago,Metropolitana
-NIF-CHI-SAN-12,7302,CP-6859,Estanco Santiago 12,Calle Ahumada 1227,Santiago,Metropolitana
-NIF-CHI-SAN-13,9219,CP-7160,Estanco Santiago 13,Calle Ahumada 754,Santiago,Metropolitana
-NIF-CHI-SAN-14,3016,CP-1354,Estanco Santiago 14,Av. Apoquindo 1592,Santiago,Metropolitana
-NIF-CHI-SAN-15,2064,CP-4184,Estanco Santiago 15,Av. Providencia 1536,Santiago,Metropolitana
-NIF-CHI-PUE-1,1992,CP-3068,Estanco Puente Alto 1,Av. Libertador B. O'Higgins 4,Puente Alto,Metropolitana
-NIF-CHI-PUE-2,3267,CP-6353,Estanco Puente Alto 2,Calle Ahumada 1947,Puente Alto,Metropolitana
-NIF-CHI-PUE-3,8282,CP-8676,Estanco Puente Alto 3,Calle Bandera 327,Puente Alto,Metropolitana
-NIF-CHI-PUE-4,7995,CP-4288,Estanco Puente Alto 4,Calle Bandera 1844,Puente Alto,Metropolitana
-NIF-CHI-PUE-5,6452,CP-3361,Estanco Puente Alto 5,Av. Libertador B. O'Higgins 1852,Puente Alto,Metropolitana
-NIF-CHI-PUE-6,8696,CP-6269,Estanco Puente Alto 6,Av. Providencia 744,Puente Alto,Metropolitana
-NIF-CHI-PUE-7,7643,CP-2252,Estanco Puente Alto 7,Av. Providencia 474,Puente Alto,Metropolitana
-NIF-CHI-PUE-8,2953,CP-1587,Estanco Puente Alto 8,Calle Ahumada 1905,Puente Alto,Metropolitana
-NIF-CHI-PUE-9,5179,CP-4468,Estanco Puente Alto 9,Av. Libertador B. O'Higgins 11,Puente Alto,Metropolitana
-NIF-CHI-PUE-10,8200,CP-6978,Estanco Puente Alto 10,Av. Providencia 1587,Puente Alto,Metropolitana
-NIF-CHI-PUE-11,7422,CP-7391,Estanco Puente Alto 11,Calle Bandera 54,Puente Alto,Metropolitana
-NIF-CHI-PUE-12,4974,CP-9996,Estanco Puente Alto 12,Calle Bandera 1988,Puente Alto,Metropolitana
-NIF-CHI-PUE-13,1587,CP-3388,Estanco Puente Alto 13,Av. Providencia 1595,Puente Alto,Metropolitana
-NIF-CHI-PUE-14,7900,CP-3779,Estanco Puente Alto 14,Av. Apoquindo 1839,Puente Alto,Metropolitana
-NIF-CHI-PUE-15,6191,CP-4186,Estanco Puente Alto 15,Calle Ahumada 1388,Puente Alto,Metropolitana
-NIF-CHI-MAI-1,5895,CP-2008,Estanco Maipú 1,Av. Apoquindo 698,Maipú,Metropolitana
-NIF-CHI-MAI-2,6781,CP-6393,Estanco Maipú 2,Calle Bandera 1097,Maipú,Metropolitana
-NIF-CHI-MAI-3,4099,CP-6067,Estanco Maipú 3,Av. Libertador B. O'Higgins 580,Maipú,Metropolitana
-NIF-CHI-MAI-4,9236,CP-4949,Estanco Maipú 4,Calle Bandera 939,Maipú,Metropolitana
-NIF-CHI-MAI-5,4910,CP-5627,Estanco Maipú 5,Av. Providencia 516,Maipú,Metropolitana
-NIF-CHI-MAI-6,3489,CP-6503,Estanco Maipú 6,Av. Providencia 1768,Maipú,Metropolitana
-NIF-CHI-MAI-7,7773,CP-1884,Estanco Maipú 7,Calle Ahumada 381,Maipú,Metropolitana
-NIF-CHI-MAI-8,8665,CP-5801,Estanco Maipú 8,Av. Apoquindo 1983,Maipú,Metropolitana
-NIF-CHI-MAI-9,7705,CP-9904,Estanco Maipú 9,Calle Ahumada 1629,Maipú,Metropolitana
-NIF-CHI-MAI-10,7965,CP-7723,Estanco Maipú 10,Av. Apoquindo 1624,Maipú,Metropolitana
-NIF-CHI-MAI-11,6010,CP-1154,Estanco Maipú 11,Av. Libertador B. O'Higgins 937,Maipú,Metropolitana
-NIF-CHI-MAI-12,6415,CP-2761,Estanco Maipú 12,Av. Providencia 780,Maipú,Metropolitana
-NIF-CHI-MAI-13,1370,CP-7430,Estanco Maipú 13,Av. Providencia 617,Maipú,Metropolitana
-NIF-CHI-MAI-14,4721,CP-8289,Estanco Maipú 14,Av. Providencia 628,Maipú,Metropolitana
-NIF-CHI-MAI-15,2317,CP-3935,Estanco Maipú 15,Av. Apoquindo 1931,Maipú,Metropolitana
-NIF-CHI-LA -1,8328,CP-3386,Estanco La Florida 1,Av. Apoquindo 41,La Florida,Metropolitana
-NIF-CHI-LA -2,4599,CP-9094,Estanco La Florida 2,Calle Ahumada 449,La Florida,Metropolitana
-NIF-CHI-LA -3,2213,CP-3169,Estanco La Florida 3,Av. Providencia 1415,La Florida,Metropolitana
-NIF-CHI-LA -4,2156,CP-9667,Estanco La Florida 4,Av. Providencia 528,La Florida,Metropolitana
-NIF-CHI-LA -5,4628,CP-8124,Estanco La Florida 5,Av. Libertador B. O'Higgins 1927,La Florida,Metropolitana
-NIF-CHI-LA -6,3876,CP-2631,Estanco La Florida 6,Av. Libertador B. O'Higgins 760,La Florida,Metropolitana
-NIF-CHI-LA -7,6060,CP-4951,Estanco La Florida 7,Av. Providencia 844,La Florida,Metropolitana
-NIF-CHI-LA -8,9824,CP-3651,Estanco La Florida 8,Calle Bandera 1312,La Florida,Metropolitana
-NIF-CHI-LA -9,8438,CP-1973,Estanco La Florida 9,Av. Providencia 1203,La Florida,Metropolitana
-NIF-CHI-LA -10,3581,CP-2958,Estanco La Florida 10,Av. Providencia 950,La Florida,Metropolitana
-NIF-CHI-LA -11,4163,CP-7651,Estanco La Florida 11,Av. Apoquindo 123,La Florida,Metropolitana
-NIF-CHI-LA -12,8008,CP-8571,Estanco La Florida 12,Av. Apoquindo 803,La Florida,Metropolitana
-NIF-CHI-LA -13,5638,CP-3335,Estanco La Florida 13,Av. Providencia 1618,La Florida,Metropolitana
-NIF-CHI-LA -14,1643,CP-5777,Estanco La Florida 14,Calle Ahumada 96,La Florida,Metropolitana
-NIF-CHI-LA -15,7085,CP-9879,Estanco La Florida 15,Av. Providencia 1587,La Florida,Metropolitana
-NIF-CHI-LAS-1,3988,CP-4743,Estanco Las Condes 1,Calle Bandera 984,Las Condes,Metropolitana
-NIF-CHI-LAS-2,6647,CP-8138,Estanco Las Condes 2,Calle Bandera 320,Las Condes,Metropolitana
-NIF-CHI-LAS-3,1886,CP-7028,Estanco Las Condes 3,Av. Providencia 1617,Las Condes,Metropolitana
-NIF-CHI-LAS-4,2144,CP-6957,Estanco Las Condes 4,Av. Providencia 828,Las Condes,Metropolitana
-NIF-CHI-LAS-5,7013,CP-7810,Estanco Las Condes 5,Av. Apoquindo 1824,Las Condes,Metropolitana
-NIF-CHI-LAS-6,4977,CP-9905,Estanco Las Condes 6,Av. Providencia 526,Las Condes,Metropolitana
-NIF-CHI-LAS-7,8739,CP-8726,Estanco Las Condes 7,Calle Bandera 665,Las Condes,Metropolitana
-NIF-CHI-LAS-8,7508,CP-6707,Estanco Las Condes 8,Calle Bandera 1201,Las Condes,Metropolitana
-NIF-CHI-LAS-9,9078,CP-5552,Estanco Las Condes 9,Av. Providencia 793,Las Condes,Metropolitana
-NIF-CHI-LAS-10,8610,CP-6427,Estanco Las Condes 10,Av. Libertador B. O'Higgins 1806,Las Condes,Metropolitana
-NIF-CHI-LAS-11,5365,CP-5681,Estanco Las Condes 11,Av. Libertador B. O'Higgins 784,Las Condes,Metropolitana
-NIF-CHI-LAS-12,3621,CP-7366,Estanco Las Condes 12,Calle Ahumada 399,Las Condes,Metropolitana
-NIF-CHI-LAS-13,6393,CP-8678,Estanco Las Condes 13,Av. Apoquindo 1714,Las Condes,Metropolitana
-NIF-CHI-LAS-14,1730,CP-5549,Estanco Las Condes 14,Calle Ahumada 1374,Las Condes,Metropolitana
-NIF-CHI-LAS-15,4257,CP-4317,Estanco Las Condes 15,Av. Libertador B. O'Higgins 625,Las Condes,Metropolitana
-NIF-CHI-VIÑ-1,4239,CP-1888,Estanco Viña del Mar 1,Av. Libertador B. O'Higgins 1845,Viña del Mar,Valparaíso
-NIF-CHI-VIÑ-2,9012,CP-1648,Estanco Viña del Mar 2,Av. Apoquindo 1572,Viña del Mar,Valparaíso
-NIF-CHI-VIÑ-3,6450,CP-6400,Estanco Viña del Mar 3,Calle Ahumada 594,Viña del Mar,Valparaíso
-NIF-CHI-VIÑ-4,5043,CP-5233,Estanco Viña del Mar 4,Av. Apoquindo 515,Viña del Mar,Valparaíso
-NIF-CHI-VIÑ-5,7403,CP-9977,Estanco Viña del Mar 5,Av. Libertador B. O'Higgins 20,Viña del Mar,Valparaíso
-NIF-CHI-VIÑ-6,3045,CP-4193,Estanco Viña del Mar 6,Av. Apoquindo 813,Viña del Mar,Valparaíso
-NIF-CHI-VIÑ-7,3386,CP-9977,Estanco Viña del Mar 7,Av. Apoquindo 581,Viña del Mar,Valparaíso
-NIF-CHI-VIÑ-8,1004,CP-9019,Estanco Viña del Mar 8,Calle Bandera 575,Viña del Mar,Valparaíso
-NIF-CHI-VIÑ-9,2848,CP-9012,Estanco Viña del Mar 9,Av. Providencia 269,Viña del Mar,Valparaíso
-NIF-CHI-VIÑ-10,4825,CP-5878,Estanco Viña del Mar 10,Calle Ahumada 1507,Viña del Mar,Valparaíso
-NIF-CHI-VIÑ-11,8568,CP-4586,Estanco Viña del Mar 11,Av. Apoquindo 1675,Viña del Mar,Valparaíso
-NIF-CHI-VIÑ-12,6722,CP-8690,Estanco Viña del Mar 12,Av. Providencia 1952,Viña del Mar,Valparaíso
-NIF-CHI-VIÑ-13,4432,CP-9185,Estanco Viña del Mar 13,Calle Ahumada 540,Viña del Mar,Valparaíso
-NIF-CHI-VIÑ-14,3583,CP-1033,Estanco Viña del Mar 14,Av. Libertador B. O'Higgins 1528,Viña del Mar,Valparaíso
-NIF-CHI-VIÑ-15,9677,CP-7248,Estanco Viña del Mar 15,Av. Providencia 1720,Viña del Mar,Valparaíso
-NIF-CHI-VAL-1,1524,CP-4922,Estanco Valparaíso 1,Av. Libertador B. O'Higgins 1710,Valparaíso,Valparaíso
-NIF-CHI-VAL-2,1081,CP-5887,Estanco Valparaíso 2,Av. Providencia 951,Valparaíso,Valparaíso
-NIF-CHI-VAL-3,7512,CP-9585,Estanco Valparaíso 3,Av. Providencia 1852,Valparaíso,Valparaíso
-NIF-CHI-VAL-4,6003,CP-7516,Estanco Valparaíso 4,Av. Providencia 213,Valparaíso,Valparaíso
-NIF-CHI-VAL-5,2285,CP-3536,Estanco Valparaíso 5,Av. Apoquindo 1042,Valparaíso,Valparaíso
-NIF-CHI-VAL-6,9447,CP-9756,Estanco Valparaíso 6,Av. Providencia 232,Valparaíso,Valparaíso
-NIF-CHI-VAL-7,8800,CP-2824,Estanco Valparaíso 7,Av. Libertador B. O'Higgins 578,Valparaíso,Valparaíso
-NIF-CHI-VAL-8,1084,CP-5670,Estanco Valparaíso 8,Av. Libertador B. O'Higgins 904,Valparaíso,Valparaíso
-NIF-CHI-VAL-9,3759,CP-1618,Estanco Valparaíso 9,Calle Bandera 1036,Valparaíso,Valparaíso
-NIF-CHI-VAL-10,8515,CP-3810,Estanco Valparaíso 10,Calle Ahumada 1521,Valparaíso,Valparaíso
-NIF-CHI-VAL-11,4012,CP-9544,Estanco Valparaíso 11,Calle Bandera 1162,Valparaíso,Valparaíso
-NIF-CHI-VAL-12,2175,CP-4440,Estanco Valparaíso 12,Calle Ahumada 577,Valparaíso,Valparaíso
-NIF-CHI-VAL-13,2989,CP-2534,Estanco Valparaíso 13,Calle Bandera 1,Valparaíso,Valparaíso
-NIF-CHI-VAL-14,6218,CP-5457,Estanco Valparaíso 14,Calle Bandera 1346,Valparaíso,Valparaíso
-NIF-CHI-VAL-15,7501,CP-8048,Estanco Valparaíso 15,Av. Apoquindo 1420,Valparaíso,Valparaíso
-NIF-CHI-QUI-1,4595,CP-6662,Estanco Quilpué 1,Av. Libertador B. O'Higgins 1215,Quilpué,Valparaíso
-NIF-CHI-QUI-2,3118,CP-2278,Estanco Quilpué 2,Calle Ahumada 259,Quilpué,Valparaíso
-NIF-CHI-QUI-3,8434,CP-6617,Estanco Quilpué 3,Calle Bandera 562,Quilpué,Valparaíso
-NIF-CHI-QUI-4,2215,CP-4605,Estanco Quilpué 4,Av. Libertador B. O'Higgins 965,Quilpué,Valparaíso
-NIF-CHI-QUI-5,9154,CP-1054,Estanco Quilpué 5,Av. Providencia 1527,Quilpué,Valparaíso
-NIF-CHI-QUI-6,7053,CP-8082,Estanco Quilpué 6,Calle Bandera 1383,Quilpué,Valparaíso
-NIF-CHI-QUI-7,8733,CP-8627,Estanco Quilpué 7,Calle Bandera 517,Quilpué,Valparaíso
-NIF-CHI-QUI-8,2955,CP-1971,Estanco Quilpué 8,Calle Ahumada 1896,Quilpué,Valparaíso
-NIF-CHI-QUI-9,7131,CP-3178,Estanco Quilpué 9,Calle Bandera 1256,Quilpué,Valparaíso
-NIF-CHI-QUI-10,2740,CP-7374,Estanco Quilpué 10,Av. Libertador B. O'Higgins 15,Quilpué,Valparaíso
-NIF-CHI-QUI-11,3614,CP-2618,Estanco Quilpué 11,Av. Providencia 1437,Quilpué,Valparaíso
-NIF-CHI-QUI-12,5393,CP-7947,Estanco Quilpué 12,Calle Ahumada 292,Quilpué,Valparaíso
-NIF-CHI-QUI-13,4046,CP-7480,Estanco Quilpué 13,Calle Bandera 1442,Quilpué,Valparaíso
-NIF-CHI-QUI-14,3467,CP-4575,Estanco Quilpué 14,Calle Bandera 156,Quilpué,Valparaíso
-NIF-CHI-QUI-15,3017,CP-2566,Estanco Quilpué 15,Calle Bandera 63,Quilpué,Valparaíso
-NIF-CHI-VIL-1,2307,CP-4136,Estanco Villa Alemana 1,Calle Bandera 733,Villa Alemana,Valparaíso
-NIF-CHI-VIL-2,1799,CP-8337,Estanco Villa Alemana 2,Av. Providencia 1845,Villa Alemana,Valparaíso
-NIF-CHI-VIL-3,8052,CP-8740,Estanco Villa Alemana 3,Calle Ahumada 517,Villa Alemana,Valparaíso
-NIF-CHI-VIL-4,2757,CP-9905,Estanco Villa Alemana 4,Calle Ahumada 174,Villa Alemana,Valparaíso
-NIF-CHI-VIL-5,8082,CP-2824,Estanco Villa Alemana 5,Calle Bandera 1157,Villa Alemana,Valparaíso
-NIF-CHI-VIL-6,9217,CP-5064,Estanco Villa Alemana 6,Av. Libertador B. O'Higgins 570,Villa Alemana,Valparaíso
-NIF-CHI-VIL-7,4571,CP-2574,Estanco Villa Alemana 7,Calle Bandera 196,Villa Alemana,Valparaíso
-NIF-CHI-VIL-8,7954,CP-9128,Estanco Villa Alemana 8,Calle Ahumada 1187,Villa Alemana,Valparaíso
-NIF-CHI-VIL-9,6490,CP-4175,Estanco Villa Alemana 9,Calle Bandera 1569,Villa Alemana,Valparaíso
-NIF-CHI-VIL-10,4953,CP-5111,Estanco Villa Alemana 10,Calle Ahumada 441,Villa Alemana,Valparaíso
-NIF-CHI-VIL-11,7067,CP-5470,Estanco Villa Alemana 11,Av. Apoquindo 1198,Villa Alemana,Valparaíso
-NIF-CHI-VIL-12,5489,CP-3190,Estanco Villa Alemana 12,Calle Bandera 458,Villa Alemana,Valparaíso
-NIF-CHI-VIL-13,6078,CP-8295,Estanco Villa Alemana 13,Calle Ahumada 1686,Villa Alemana,Valparaíso
-NIF-CHI-VIL-14,5654,CP-9236,Estanco Villa Alemana 14,Calle Ahumada 213,Villa Alemana,Valparaíso
-NIF-CHI-VIL-15,4173,CP-4258,Estanco Villa Alemana 15,Av. Libertador B. O'Higgins 1716,Villa Alemana,Valparaíso
-NIF-CHI-SAN-1,1035,CP-3264,Estanco San Antonio 1,Av. Libertador B. O'Higgins 505,San Antonio,Valparaíso
-NIF-CHI-SAN-2,1124,CP-7331,Estanco San Antonio 2,Av. Apoquindo 485,San Antonio,Valparaíso
-NIF-CHI-SAN-3,6106,CP-3096,Estanco San Antonio 3,Av. Apoquindo 1908,San Antonio,Valparaíso
-NIF-CHI-SAN-4,2488,CP-4533,Estanco San Antonio 4,Av. Providencia 1065,San Antonio,Valparaíso
-NIF-CHI-SAN-5,4964,CP-4127,Estanco San Antonio 5,Calle Bandera 257,San Antonio,Valparaíso
-NIF-CHI-SAN-6,4519,CP-4482,Estanco San Antonio 6,Calle Bandera 1130,San Antonio,Valparaíso
-NIF-CHI-SAN-7,2400,CP-1872,Estanco San Antonio 7,Av. Apoquindo 1443,San Antonio,Valparaíso
-NIF-CHI-SAN-8,9623,CP-4431,Estanco San Antonio 8,Av. Apoquindo 1135,San Antonio,Valparaíso
-NIF-CHI-SAN-9,6917,CP-7062,Estanco San Antonio 9,Calle Ahumada 1843,San Antonio,Valparaíso
-NIF-CHI-SAN-10,5856,CP-3020,Estanco San Antonio 10,Calle Bandera 1793,San Antonio,Valparaíso
-NIF-CHI-SAN-11,8732,CP-6484,Estanco San Antonio 11,Calle Ahumada 1832,San Antonio,Valparaíso
-NIF-CHI-SAN-12,6257,CP-2959,Estanco San Antonio 12,Av. Providencia 1547,San Antonio,Valparaíso
-NIF-CHI-SAN-13,8698,CP-8708,Estanco San Antonio 13,Av. Apoquindo 1412,San Antonio,Valparaíso
-NIF-CHI-SAN-14,4619,CP-3047,Estanco San Antonio 14,Calle Bandera 1430,San Antonio,Valparaíso
-NIF-CHI-SAN-15,3961,CP-7944,Estanco San Antonio 15,Av. Apoquindo 1930,San Antonio,Valparaíso
-NIF-ARG-LA -1,7415,CP-5661,Estanco La Plata 1,Av. de Mayo 503,La Plata,Buenos Aires
-NIF-ARG-LA -2,7423,CP-6389,Estanco La Plata 2,Av. Corrientes 1060,La Plata,Buenos Aires
-NIF-ARG-LA -3,4521,CP-6840,Estanco La Plata 3,Calle Lavalle 1974,La Plata,Buenos Aires
-NIF-ARG-LA -4,3716,CP-1019,Estanco La Plata 4,Av. Santa Fe 1874,La Plata,Buenos Aires
-NIF-ARG-LA -5,1491,CP-5408,Estanco La Plata 5,Av. Santa Fe 171,La Plata,Buenos Aires
-NIF-ARG-LA -6,8886,CP-7837,Estanco La Plata 6,Av. Corrientes 320,La Plata,Buenos Aires
-NIF-ARG-LA -7,3481,CP-6148,Estanco La Plata 7,Av. Corrientes 316,La Plata,Buenos Aires
-NIF-ARG-LA -8,7882,CP-3708,Estanco La Plata 8,Calle Lavalle 1253,La Plata,Buenos Aires
-NIF-ARG-LA -9,4676,CP-4761,Estanco La Plata 9,Calle Lavalle 1140,La Plata,Buenos Aires
-NIF-ARG-LA -10,8231,CP-8490,Estanco La Plata 10,Av. de Mayo 1924,La Plata,Buenos Aires
-NIF-ARG-LA -11,7540,CP-2786,Estanco La Plata 11,Av. de Mayo 98,La Plata,Buenos Aires
-NIF-ARG-LA -12,4218,CP-1080,Estanco La Plata 12,Av. de Mayo 576,La Plata,Buenos Aires
-NIF-ARG-LA -13,2226,CP-5004,Estanco La Plata 13,Av. Corrientes 1174,La Plata,Buenos Aires
-NIF-ARG-LA -14,3561,CP-2562,Estanco La Plata 14,Av. Santa Fe 311,La Plata,Buenos Aires
-NIF-ARG-LA -15,2733,CP-4742,Estanco La Plata 15,Calle Lavalle 1998,La Plata,Buenos Aires
-NIF-ARG-MAR-1,6239,CP-9975,Estanco Mar del Plata 1,Calle Florida 25,Mar del Plata,Buenos Aires
-NIF-ARG-MAR-2,7480,CP-3087,Estanco Mar del Plata 2,Av. Corrientes 1663,Mar del Plata,Buenos Aires
-NIF-ARG-MAR-3,8766,CP-2593,Estanco Mar del Plata 3,Calle Lavalle 19,Mar del Plata,Buenos Aires
-NIF-ARG-MAR-4,9549,CP-3860,Estanco Mar del Plata 4,Av. de Mayo 732,Mar del Plata,Buenos Aires
-NIF-ARG-MAR-5,1468,CP-9866,Estanco Mar del Plata 5,Av. de Mayo 760,Mar del Plata,Buenos Aires
-NIF-ARG-MAR-6,4050,CP-2014,Estanco Mar del Plata 6,Av. Corrientes 1722,Mar del Plata,Buenos Aires
-NIF-ARG-MAR-7,7938,CP-6000,Estanco Mar del Plata 7,Av. de Mayo 1681,Mar del Plata,Buenos Aires
-NIF-ARG-MAR-8,3949,CP-4265,Estanco Mar del Plata 8,Calle Lavalle 57,Mar del Plata,Buenos Aires
-NIF-ARG-MAR-9,3799,CP-7769,Estanco Mar del Plata 9,Av. de Mayo 827,Mar del Plata,Buenos Aires
-NIF-ARG-MAR-10,8900,CP-6701,Estanco Mar del Plata 10,Calle Florida 1297,Mar del Plata,Buenos Aires
-NIF-ARG-MAR-11,1223,CP-4433,Estanco Mar del Plata 11,Calle Florida 1576,Mar del Plata,Buenos Aires
-NIF-ARG-MAR-12,5862,CP-5115,Estanco Mar del Plata 12,Av. Corrientes 1676,Mar del Plata,Buenos Aires
-NIF-ARG-MAR-13,2918,CP-1985,Estanco Mar del Plata 13,Calle Florida 722,Mar del Plata,Buenos Aires
-NIF-ARG-MAR-14,8738,CP-7496,Estanco Mar del Plata 14,Av. Corrientes 1572,Mar del Plata,Buenos Aires
-NIF-ARG-MAR-15,3890,CP-9771,Estanco Mar del Plata 15,Calle Lavalle 221,Mar del Plata,Buenos Aires
-NIF-ARG-QUI-1,9781,CP-7704,Estanco Quilmes 1,Calle Florida 1099,Quilmes,Buenos Aires
-NIF-ARG-QUI-2,7481,CP-8615,Estanco Quilmes 2,Calle Lavalle 506,Quilmes,Buenos Aires
-NIF-ARG-QUI-3,5803,CP-4597,Estanco Quilmes 3,Calle Lavalle 1472,Quilmes,Buenos Aires
-NIF-ARG-QUI-4,2772,CP-5685,Estanco Quilmes 4,Calle Lavalle 975,Quilmes,Buenos Aires
-NIF-ARG-QUI-5,3918,CP-5971,Estanco Quilmes 5,Calle Florida 1493,Quilmes,Buenos Aires
-NIF-ARG-QUI-6,4108,CP-1078,Estanco Quilmes 6,Av. Corrientes 1636,Quilmes,Buenos Aires
-NIF-ARG-QUI-7,5873,CP-2249,Estanco Quilmes 7,Av. de Mayo 1357,Quilmes,Buenos Aires
-NIF-ARG-QUI-8,4566,CP-8178,Estanco Quilmes 8,Calle Lavalle 622,Quilmes,Buenos Aires
-NIF-ARG-QUI-9,4058,CP-6837,Estanco Quilmes 9,Av. Corrientes 1947,Quilmes,Buenos Aires
-NIF-ARG-QUI-10,6196,CP-7425,Estanco Quilmes 10,Av. Corrientes 188,Quilmes,Buenos Aires
-NIF-ARG-QUI-11,1739,CP-8059,Estanco Quilmes 11,Calle Lavalle 929,Quilmes,Buenos Aires
-NIF-ARG-QUI-12,6035,CP-1117,Estanco Quilmes 12,Av. Corrientes 913,Quilmes,Buenos Aires
-NIF-ARG-QUI-13,4134,CP-9340,Estanco Quilmes 13,Av. de Mayo 134,Quilmes,Buenos Aires
-NIF-ARG-QUI-14,5504,CP-3514,Estanco Quilmes 14,Av. de Mayo 1777,Quilmes,Buenos Aires
-NIF-ARG-QUI-15,8806,CP-5793,Estanco Quilmes 15,Av. Santa Fe 966,Quilmes,Buenos Aires
-NIF-ARG-AVE-1,8968,CP-1170,Estanco Avellaneda 1,Av. de Mayo 1796,Avellaneda,Buenos Aires
-NIF-ARG-AVE-2,3414,CP-4631,Estanco Avellaneda 2,Av. de Mayo 307,Avellaneda,Buenos Aires
-NIF-ARG-AVE-3,5605,CP-7861,Estanco Avellaneda 3,Calle Lavalle 414,Avellaneda,Buenos Aires
-NIF-ARG-AVE-4,8902,CP-3484,Estanco Avellaneda 4,Av. de Mayo 1779,Avellaneda,Buenos Aires
-NIF-ARG-AVE-5,5687,CP-4332,Estanco Avellaneda 5,Av. Santa Fe 935,Avellaneda,Buenos Aires
-NIF-ARG-AVE-6,5467,CP-4585,Estanco Avellaneda 6,Calle Florida 554,Avellaneda,Buenos Aires
-NIF-ARG-AVE-7,5448,CP-3409,Estanco Avellaneda 7,Av. Santa Fe 881,Avellaneda,Buenos Aires
-NIF-ARG-AVE-8,8787,CP-1867,Estanco Avellaneda 8,Av. Santa Fe 622,Avellaneda,Buenos Aires
-NIF-ARG-AVE-9,1704,CP-5534,Estanco Avellaneda 9,Av. Corrientes 1390,Avellaneda,Buenos Aires
-NIF-ARG-AVE-10,1564,CP-6392,Estanco Avellaneda 10,Av. de Mayo 422,Avellaneda,Buenos Aires
-NIF-ARG-AVE-11,5828,CP-3399,Estanco Avellaneda 11,Calle Florida 1594,Avellaneda,Buenos Aires
-NIF-ARG-AVE-12,3258,CP-5742,Estanco Avellaneda 12,Av. Santa Fe 1297,Avellaneda,Buenos Aires
-NIF-ARG-AVE-13,8885,CP-2011,Estanco Avellaneda 13,Calle Lavalle 883,Avellaneda,Buenos Aires
-NIF-ARG-AVE-14,9274,CP-2417,Estanco Avellaneda 14,Calle Lavalle 1111,Avellaneda,Buenos Aires
-NIF-ARG-AVE-15,7613,CP-3718,Estanco Avellaneda 15,Calle Lavalle 735,Avellaneda,Buenos Aires
-NIF-ARG-LAN-1,2887,CP-5349,Estanco Lanús 1,Av. Santa Fe 273,Lanús,Buenos Aires
-NIF-ARG-LAN-2,3715,CP-2915,Estanco Lanús 2,Av. Corrientes 708,Lanús,Buenos Aires
-NIF-ARG-LAN-3,4035,CP-9264,Estanco Lanús 3,Calle Lavalle 513,Lanús,Buenos Aires
-NIF-ARG-LAN-4,5893,CP-4039,Estanco Lanús 4,Calle Lavalle 1016,Lanús,Buenos Aires
-NIF-ARG-LAN-5,6786,CP-6843,Estanco Lanús 5,Av. Corrientes 1101,Lanús,Buenos Aires
-NIF-ARG-LAN-6,7611,CP-5658,Estanco Lanús 6,Av. de Mayo 1793,Lanús,Buenos Aires
-NIF-ARG-LAN-7,1835,CP-8733,Estanco Lanús 7,Av. Santa Fe 419,Lanús,Buenos Aires
-NIF-ARG-LAN-8,2085,CP-4377,Estanco Lanús 8,Calle Florida 1303,Lanús,Buenos Aires
-NIF-ARG-LAN-9,5324,CP-5181,Estanco Lanús 9,Calle Florida 991,Lanús,Buenos Aires
-NIF-ARG-LAN-10,5617,CP-5206,Estanco Lanús 10,Av. Santa Fe 405,Lanús,Buenos Aires
-NIF-ARG-LAN-11,3895,CP-8569,Estanco Lanús 11,Av. Corrientes 1763,Lanús,Buenos Aires
-NIF-ARG-LAN-12,9377,CP-6006,Estanco Lanús 12,Av. Santa Fe 609,Lanús,Buenos Aires
-NIF-ARG-LAN-13,4366,CP-6106,Estanco Lanús 13,Av. Santa Fe 1233,Lanús,Buenos Aires
-NIF-ARG-LAN-14,4432,CP-7237,Estanco Lanús 14,Av. de Mayo 366,Lanús,Buenos Aires
-NIF-ARG-LAN-15,9452,CP-2087,Estanco Lanús 15,Av. de Mayo 201,Lanús,Buenos Aires
-NIF-ARG-RIO-1,1891,CP-8875,Estanco Rio Cuarto 1,Calle Lavalle 1299,Rio Cuarto,Córdoba
-NIF-ARG-RIO-2,9779,CP-8945,Estanco Rio Cuarto 2,Av. Santa Fe 1526,Rio Cuarto,Córdoba
-NIF-ARG-RIO-3,7124,CP-8316,Estanco Rio Cuarto 3,Calle Lavalle 1714,Rio Cuarto,Córdoba
-NIF-ARG-RIO-4,7834,CP-8880,Estanco Rio Cuarto 4,Calle Lavalle 69,Rio Cuarto,Córdoba
-NIF-ARG-RIO-5,6359,CP-2584,Estanco Rio Cuarto 5,Av. de Mayo 1144,Rio Cuarto,Córdoba
-NIF-ARG-RIO-6,5088,CP-1735,Estanco Rio Cuarto 6,Av. Corrientes 263,Rio Cuarto,Córdoba
-NIF-ARG-RIO-7,4940,CP-1908,Estanco Rio Cuarto 7,Av. Santa Fe 1790,Rio Cuarto,Córdoba
-NIF-ARG-RIO-8,7946,CP-1784,Estanco Rio Cuarto 8,Av. Corrientes 836,Rio Cuarto,Córdoba
-NIF-ARG-RIO-9,4994,CP-1486,Estanco Rio Cuarto 9,Calle Lavalle 502,Rio Cuarto,Córdoba
-NIF-ARG-RIO-10,7966,CP-4453,Estanco Rio Cuarto 10,Calle Florida 1811,Rio Cuarto,Córdoba
-NIF-ARG-RIO-11,6620,CP-5271,Estanco Rio Cuarto 11,Calle Florida 1702,Rio Cuarto,Córdoba
-NIF-ARG-RIO-12,8681,CP-6086,Estanco Rio Cuarto 12,Av. Santa Fe 1117,Rio Cuarto,Córdoba
-NIF-ARG-RIO-13,3414,CP-7258,Estanco Rio Cuarto 13,Calle Lavalle 265,Rio Cuarto,Córdoba
-NIF-ARG-RIO-14,4334,CP-6294,Estanco Rio Cuarto 14,Av. Corrientes 1363,Rio Cuarto,Córdoba
-NIF-ARG-RIO-15,1676,CP-2377,Estanco Rio Cuarto 15,Av. Corrientes 1981,Rio Cuarto,Córdoba
-NIF-ARG-VIL-1,5243,CP-5151,Estanco Villa María 1,Av. Corrientes 1240,Villa María,Córdoba
-NIF-ARG-VIL-2,6760,CP-5367,Estanco Villa María 2,Av. Corrientes 1147,Villa María,Córdoba
-NIF-ARG-VIL-3,8994,CP-1989,Estanco Villa María 3,Av. Corrientes 1391,Villa María,Córdoba
-NIF-ARG-VIL-4,9237,CP-2146,Estanco Villa María 4,Av. Corrientes 208,Villa María,Córdoba
-NIF-ARG-VIL-5,3082,CP-9162,Estanco Villa María 5,Av. de Mayo 1550,Villa María,Córdoba
-NIF-ARG-VIL-6,6351,CP-6136,Estanco Villa María 6,Av. Corrientes 1100,Villa María,Córdoba
-NIF-ARG-VIL-7,3962,CP-9292,Estanco Villa María 7,Calle Lavalle 1195,Villa María,Córdoba
-NIF-ARG-VIL-8,9729,CP-7185,Estanco Villa María 8,Calle Florida 1131,Villa María,Córdoba
-NIF-ARG-VIL-9,5722,CP-5198,Estanco Villa María 9,Av. Corrientes 1729,Villa María,Córdoba
-NIF-ARG-VIL-10,7092,CP-3904,Estanco Villa María 10,Calle Lavalle 1194,Villa María,Córdoba
-NIF-ARG-VIL-11,5108,CP-8143,Estanco Villa María 11,Av. de Mayo 20,Villa María,Córdoba
-NIF-ARG-VIL-12,8381,CP-3065,Estanco Villa María 12,Av. de Mayo 330,Villa María,Córdoba
-NIF-ARG-VIL-13,9750,CP-7002,Estanco Villa María 13,Av. de Mayo 666,Villa María,Córdoba
-NIF-ARG-VIL-14,9909,CP-7855,Estanco Villa María 14,Calle Lavalle 843,Villa María,Córdoba
-NIF-ARG-VIL-15,6352,CP-6258,Estanco Villa María 15,Av. de Mayo 1266,Villa María,Córdoba
-NIF-ARG-CAR-1,2584,CP-9150,Estanco Carlos Paz 1,Calle Lavalle 1746,Carlos Paz,Córdoba
-NIF-ARG-CAR-2,7332,CP-6887,Estanco Carlos Paz 2,Av. Corrientes 365,Carlos Paz,Córdoba
-NIF-ARG-CAR-3,9954,CP-6272,Estanco Carlos Paz 3,Calle Lavalle 1263,Carlos Paz,Córdoba
-NIF-ARG-CAR-4,3164,CP-2481,Estanco Carlos Paz 4,Av. de Mayo 256,Carlos Paz,Córdoba
-NIF-ARG-CAR-5,3998,CP-3773,Estanco Carlos Paz 5,Av. Santa Fe 1790,Carlos Paz,Córdoba
-NIF-ARG-CAR-6,5652,CP-1637,Estanco Carlos Paz 6,Calle Florida 1116,Carlos Paz,Córdoba
-NIF-ARG-CAR-7,6159,CP-4070,Estanco Carlos Paz 7,Av. Corrientes 604,Carlos Paz,Córdoba
-NIF-ARG-CAR-8,5345,CP-5531,Estanco Carlos Paz 8,Calle Florida 1555,Carlos Paz,Córdoba
-NIF-ARG-CAR-9,8144,CP-1009,Estanco Carlos Paz 9,Calle Florida 972,Carlos Paz,Córdoba
-NIF-ARG-CAR-10,3589,CP-1737,Estanco Carlos Paz 10,Av. Corrientes 447,Carlos Paz,Córdoba
-NIF-ARG-CAR-11,4816,CP-8838,Estanco Carlos Paz 11,Av. Santa Fe 50,Carlos Paz,Córdoba
-NIF-ARG-CAR-12,9987,CP-1328,Estanco Carlos Paz 12,Av. Santa Fe 28,Carlos Paz,Córdoba
-NIF-ARG-CAR-13,7567,CP-5017,Estanco Carlos Paz 13,Calle Lavalle 1208,Carlos Paz,Córdoba
-NIF-ARG-CAR-14,7821,CP-2393,Estanco Carlos Paz 14,Calle Florida 1248,Carlos Paz,Córdoba
-NIF-ARG-CAR-15,1279,CP-6003,Estanco Carlos Paz 15,Calle Lavalle 1031,Carlos Paz,Córdoba
-NIF-ARG-ALT-1,4480,CP-7958,Estanco Alta Gracia 1,Calle Lavalle 617,Alta Gracia,Córdoba
-NIF-ARG-ALT-2,4677,CP-1324,Estanco Alta Gracia 2,Av. Corrientes 1064,Alta Gracia,Córdoba
-NIF-ARG-ALT-3,9747,CP-6348,Estanco Alta Gracia 3,Calle Lavalle 300,Alta Gracia,Córdoba
-NIF-ARG-ALT-4,9032,CP-1342,Estanco Alta Gracia 4,Av. Corrientes 598,Alta Gracia,Córdoba
-NIF-ARG-ALT-5,8014,CP-7021,Estanco Alta Gracia 5,Calle Florida 95,Alta Gracia,Córdoba
-NIF-ARG-ALT-6,2255,CP-3244,Estanco Alta Gracia 6,Av. de Mayo 1720,Alta Gracia,Córdoba
-NIF-ARG-ALT-7,7940,CP-2836,Estanco Alta Gracia 7,Calle Lavalle 1424,Alta Gracia,Córdoba
-NIF-ARG-ALT-8,2352,CP-5415,Estanco Alta Gracia 8,Av. de Mayo 281,Alta Gracia,Córdoba
-NIF-ARG-ALT-9,2057,CP-8474,Estanco Alta Gracia 9,Av. Corrientes 762,Alta Gracia,Córdoba
-NIF-ARG-ALT-10,4812,CP-2797,Estanco Alta Gracia 10,Av. Corrientes 973,Alta Gracia,Córdoba
-NIF-ARG-ALT-11,7017,CP-2023,Estanco Alta Gracia 11,Calle Lavalle 693,Alta Gracia,Córdoba
-NIF-ARG-ALT-12,2963,CP-3248,Estanco Alta Gracia 12,Calle Florida 1176,Alta Gracia,Córdoba
-NIF-ARG-ALT-13,3147,CP-1831,Estanco Alta Gracia 13,Av. de Mayo 1134,Alta Gracia,Córdoba
-NIF-ARG-ALT-14,9964,CP-8622,Estanco Alta Gracia 14,Av. Corrientes 320,Alta Gracia,Córdoba
-NIF-ARG-ALT-15,6560,CP-6922,Estanco Alta Gracia 15,Calle Lavalle 522,Alta Gracia,Córdoba
-NIF-ARG-JES-1,7248,CP-7097,Estanco Jesús María 1,Av. de Mayo 1321,Jesús María,Córdoba
-NIF-ARG-JES-2,6855,CP-9964,Estanco Jesús María 2,Av. Corrientes 1320,Jesús María,Córdoba
-NIF-ARG-JES-3,9757,CP-3354,Estanco Jesús María 3,Av. de Mayo 170,Jesús María,Córdoba
-NIF-ARG-JES-4,3819,CP-7011,Estanco Jesús María 4,Av. de Mayo 678,Jesús María,Córdoba
-NIF-ARG-JES-5,9161,CP-8213,Estanco Jesús María 5,Av. de Mayo 1807,Jesús María,Córdoba
-NIF-ARG-JES-6,2398,CP-6559,Estanco Jesús María 6,Av. de Mayo 1468,Jesús María,Córdoba
-NIF-ARG-JES-7,3155,CP-3150,Estanco Jesús María 7,Av. Santa Fe 1204,Jesús María,Córdoba
-NIF-ARG-JES-8,1665,CP-6620,Estanco Jesús María 8,Av. de Mayo 1880,Jesús María,Córdoba
-NIF-ARG-JES-9,2053,CP-4421,Estanco Jesús María 9,Av. de Mayo 660,Jesús María,Córdoba
-NIF-ARG-JES-10,5988,CP-2423,Estanco Jesús María 10,Calle Florida 997,Jesús María,Córdoba
-NIF-ARG-JES-11,7527,CP-1207,Estanco Jesús María 11,Calle Florida 110,Jesús María,Córdoba
-NIF-ARG-JES-12,8872,CP-6783,Estanco Jesús María 12,Av. de Mayo 1886,Jesús María,Córdoba
-NIF-ARG-JES-13,5300,CP-1691,Estanco Jesús María 13,Calle Florida 1017,Jesús María,Córdoba
-NIF-ARG-JES-14,9685,CP-4847,Estanco Jesús María 14,Av. Santa Fe 1189,Jesús María,Córdoba
-NIF-ARG-JES-15,3770,CP-5641,Estanco Jesús María 15,Calle Lavalle 207,Jesús María,Córdoba
-NIF-REI-CRO-1,4459,CP-7788,Estanco Croydon 1,Baker Street 1443,Croydon,Greater London
-NIF-REI-CRO-2,5665,CP-9886,Estanco Croydon 2,Oxford Street 1320,Croydon,Greater London
-NIF-REI-CRO-3,9325,CP-5013,Estanco Croydon 3,Abbey Road 1772,Croydon,Greater London
-NIF-REI-CRO-4,3298,CP-5738,Estanco Croydon 4,Abbey Road 673,Croydon,Greater London
-NIF-REI-CRO-5,7290,CP-9083,Estanco Croydon 5,Baker Street 637,Croydon,Greater London
-NIF-REI-CRO-6,3850,CP-5788,Estanco Croydon 6,Regent Street 1760,Croydon,Greater London
-NIF-REI-CRO-7,3761,CP-8221,Estanco Croydon 7,Oxford Street 965,Croydon,Greater London
-NIF-REI-CRO-8,1266,CP-3608,Estanco Croydon 8,Oxford Street 1665,Croydon,Greater London
-NIF-REI-CRO-9,4945,CP-7461,Estanco Croydon 9,Regent Street 1300,Croydon,Greater London
-NIF-REI-CRO-10,6316,CP-7778,Estanco Croydon 10,Baker Street 1814,Croydon,Greater London
-NIF-REI-CRO-11,7043,CP-5425,Estanco Croydon 11,Oxford Street 440,Croydon,Greater London
-NIF-REI-CRO-12,3641,CP-9918,Estanco Croydon 12,Abbey Road 614,Croydon,Greater London
-NIF-REI-CRO-13,5739,CP-1564,Estanco Croydon 13,High Street 1993,Croydon,Greater London
-NIF-REI-CRO-14,4141,CP-3653,Estanco Croydon 14,High Street 1290,Croydon,Greater London
-NIF-REI-CRO-15,5644,CP-8654,Estanco Croydon 15,Abbey Road 1528,Croydon,Greater London
-NIF-REI-BAR-1,6912,CP-7112,Estanco Barnet 1,Oxford Street 1263,Barnet,Greater London
-NIF-REI-BAR-2,4511,CP-4911,Estanco Barnet 2,Oxford Street 802,Barnet,Greater London
-NIF-REI-BAR-3,4944,CP-9302,Estanco Barnet 3,Regent Street 1411,Barnet,Greater London
-NIF-REI-BAR-4,7696,CP-8310,Estanco Barnet 4,Regent Street 679,Barnet,Greater London
-NIF-REI-BAR-5,7424,CP-5011,Estanco Barnet 5,Baker Street 1377,Barnet,Greater London
-NIF-REI-BAR-6,9789,CP-7887,Estanco Barnet 6,Baker Street 1925,Barnet,Greater London
-NIF-REI-BAR-7,3789,CP-9150,Estanco Barnet 7,Regent Street 420,Barnet,Greater London
-NIF-REI-BAR-8,9138,CP-8801,Estanco Barnet 8,Regent Street 1031,Barnet,Greater London
-NIF-REI-BAR-9,9253,CP-2557,Estanco Barnet 9,Oxford Street 1715,Barnet,Greater London
-NIF-REI-BAR-10,5801,CP-6085,Estanco Barnet 10,Baker Street 140,Barnet,Greater London
-NIF-REI-BAR-11,8129,CP-5732,Estanco Barnet 11,Regent Street 1025,Barnet,Greater London
-NIF-REI-BAR-12,9048,CP-1539,Estanco Barnet 12,Regent Street 572,Barnet,Greater London
-NIF-REI-BAR-13,4593,CP-6509,Estanco Barnet 13,Regent Street 1531,Barnet,Greater London
-NIF-REI-BAR-14,4530,CP-4295,Estanco Barnet 14,Oxford Street 1656,Barnet,Greater London
-NIF-REI-BAR-15,1791,CP-8998,Estanco Barnet 15,Abbey Road 1428,Barnet,Greater London
-NIF-REI-EAL-1,4172,CP-2027,Estanco Ealing 1,Oxford Street 1936,Ealing,Greater London
-NIF-REI-EAL-2,6409,CP-5973,Estanco Ealing 2,Oxford Street 1316,Ealing,Greater London
-NIF-REI-EAL-3,5051,CP-3126,Estanco Ealing 3,Oxford Street 139,Ealing,Greater London
-NIF-REI-EAL-4,6495,CP-4902,Estanco Ealing 4,Regent Street 1304,Ealing,Greater London
-NIF-REI-EAL-5,8913,CP-3765,Estanco Ealing 5,Regent Street 547,Ealing,Greater London
-NIF-REI-EAL-6,2856,CP-8190,Estanco Ealing 6,Abbey Road 1709,Ealing,Greater London
-NIF-REI-EAL-7,2883,CP-6009,Estanco Ealing 7,High Street 1632,Ealing,Greater London
-NIF-REI-EAL-8,7916,CP-1049,Estanco Ealing 8,Oxford Street 380,Ealing,Greater London
-NIF-REI-EAL-9,2421,CP-9273,Estanco Ealing 9,Regent Street 1455,Ealing,Greater London
-NIF-REI-EAL-10,6433,CP-1251,Estanco Ealing 10,Abbey Road 1247,Ealing,Greater London
-NIF-REI-EAL-11,5161,CP-5747,Estanco Ealing 11,High Street 1654,Ealing,Greater London
-NIF-REI-EAL-12,6548,CP-7001,Estanco Ealing 12,Baker Street 1147,Ealing,Greater London
-NIF-REI-EAL-13,6749,CP-3756,Estanco Ealing 13,Regent Street 1530,Ealing,Greater London
-NIF-REI-EAL-14,9887,CP-1357,Estanco Ealing 14,Regent Street 1022,Ealing,Greater London
-NIF-REI-EAL-15,8028,CP-6978,Estanco Ealing 15,Regent Street 125,Ealing,Greater London
-NIF-REI-BRO-1,5665,CP-8810,Estanco Bromley 1,Baker Street 1051,Bromley,Greater London
-NIF-REI-BRO-2,8505,CP-5973,Estanco Bromley 2,Baker Street 1809,Bromley,Greater London
-NIF-REI-BRO-3,8690,CP-8708,Estanco Bromley 3,High Street 958,Bromley,Greater London
-NIF-REI-BRO-4,7062,CP-7518,Estanco Bromley 4,High Street 939,Bromley,Greater London
-NIF-REI-BRO-5,3114,CP-4850,Estanco Bromley 5,High Street 1200,Bromley,Greater London
-NIF-REI-BRO-6,8963,CP-3819,Estanco Bromley 6,Baker Street 1459,Bromley,Greater London
-NIF-REI-BRO-7,1000,CP-4214,Estanco Bromley 7,Oxford Street 31,Bromley,Greater London
-NIF-REI-BRO-8,4108,CP-1982,Estanco Bromley 8,Baker Street 1862,Bromley,Greater London
-NIF-REI-BRO-9,9567,CP-9924,Estanco Bromley 9,Regent Street 622,Bromley,Greater London
-NIF-REI-BRO-10,8616,CP-2848,Estanco Bromley 10,Regent Street 1389,Bromley,Greater London
-NIF-REI-BRO-11,6524,CP-8069,Estanco Bromley 11,Baker Street 1970,Bromley,Greater London
-NIF-REI-BRO-12,1076,CP-7337,Estanco Bromley 12,High Street 1023,Bromley,Greater London
-NIF-REI-BRO-13,5513,CP-5780,Estanco Bromley 13,High Street 193,Bromley,Greater London
-NIF-REI-BRO-14,7388,CP-9039,Estanco Bromley 14,Oxford Street 1654,Bromley,Greater London
-NIF-REI-BRO-15,2542,CP-1149,Estanco Bromley 15,Abbey Road 1168,Bromley,Greater London
-NIF-REI-ENF-1,7372,CP-4999,Estanco Enfield 1,High Street 546,Enfield,Greater London
-NIF-REI-ENF-2,5790,CP-2375,Estanco Enfield 2,Oxford Street 1618,Enfield,Greater London
-NIF-REI-ENF-3,6284,CP-3344,Estanco Enfield 3,Regent Street 442,Enfield,Greater London
-NIF-REI-ENF-4,8150,CP-6336,Estanco Enfield 4,Baker Street 1959,Enfield,Greater London
-NIF-REI-ENF-5,8872,CP-2496,Estanco Enfield 5,Regent Street 1461,Enfield,Greater London
-NIF-REI-ENF-6,9516,CP-2315,Estanco Enfield 6,Abbey Road 1583,Enfield,Greater London
-NIF-REI-ENF-7,8061,CP-3323,Estanco Enfield 7,Oxford Street 1236,Enfield,Greater London
-NIF-REI-ENF-8,7567,CP-1417,Estanco Enfield 8,Baker Street 771,Enfield,Greater London
-NIF-REI-ENF-9,7757,CP-7091,Estanco Enfield 9,Oxford Street 1697,Enfield,Greater London
-NIF-REI-ENF-10,5824,CP-1586,Estanco Enfield 10,High Street 1367,Enfield,Greater London
-NIF-REI-ENF-11,7698,CP-9693,Estanco Enfield 11,High Street 1714,Enfield,Greater London
-NIF-REI-ENF-12,9462,CP-7219,Estanco Enfield 12,Baker Street 710,Enfield,Greater London
-NIF-REI-ENF-13,1234,CP-5443,Estanco Enfield 13,Regent Street 1435,Enfield,Greater London
-NIF-REI-ENF-14,4423,CP-6228,Estanco Enfield 14,Abbey Road 789,Enfield,Greater London
-NIF-REI-ENF-15,4882,CP-9416,Estanco Enfield 15,Regent Street 1467,Enfield,Greater London
-NIF-REI-COV-1,2104,CP-2592,Estanco Coventry 1,Baker Street 1500,Coventry,West Midlands
-NIF-REI-COV-2,7009,CP-9466,Estanco Coventry 2,Regent Street 1864,Coventry,West Midlands
-NIF-REI-COV-3,3455,CP-3012,Estanco Coventry 3,Abbey Road 1360,Coventry,West Midlands
-NIF-REI-COV-4,2359,CP-5833,Estanco Coventry 4,Baker Street 1505,Coventry,West Midlands
-NIF-REI-COV-5,2521,CP-3355,Estanco Coventry 5,Abbey Road 1577,Coventry,West Midlands
-NIF-REI-COV-6,6374,CP-1910,Estanco Coventry 6,High Street 284,Coventry,West Midlands
-NIF-REI-COV-7,8263,CP-4268,Estanco Coventry 7,Oxford Street 296,Coventry,West Midlands
-NIF-REI-COV-8,4636,CP-2439,Estanco Coventry 8,Abbey Road 1071,Coventry,West Midlands
-NIF-REI-COV-9,1532,CP-3421,Estanco Coventry 9,Abbey Road 1569,Coventry,West Midlands
-NIF-REI-COV-10,7422,CP-8233,Estanco Coventry 10,Regent Street 405,Coventry,West Midlands
-NIF-REI-COV-11,4551,CP-5207,Estanco Coventry 11,Oxford Street 815,Coventry,West Midlands
-NIF-REI-COV-12,1768,CP-8000,Estanco Coventry 12,Abbey Road 348,Coventry,West Midlands
-NIF-REI-COV-13,1213,CP-8385,Estanco Coventry 13,Oxford Street 1886,Coventry,West Midlands
-NIF-REI-COV-14,1491,CP-6401,Estanco Coventry 14,Baker Street 694,Coventry,West Midlands
-NIF-REI-COV-15,4499,CP-6739,Estanco Coventry 15,High Street 376,Coventry,West Midlands
-NIF-REI-WOL-1,6262,CP-9907,Estanco Wolverhampton 1,Baker Street 1716,Wolverhampton,West Midlands
-NIF-REI-WOL-2,8410,CP-5290,Estanco Wolverhampton 2,Abbey Road 805,Wolverhampton,West Midlands
-NIF-REI-WOL-3,6502,CP-9051,Estanco Wolverhampton 3,High Street 1836,Wolverhampton,West Midlands
-NIF-REI-WOL-4,4490,CP-2537,Estanco Wolverhampton 4,Regent Street 2,Wolverhampton,West Midlands
-NIF-REI-WOL-5,4342,CP-1896,Estanco Wolverhampton 5,Abbey Road 621,Wolverhampton,West Midlands
-NIF-REI-WOL-6,4506,CP-1172,Estanco Wolverhampton 6,Baker Street 812,Wolverhampton,West Midlands
-NIF-REI-WOL-7,1294,CP-7932,Estanco Wolverhampton 7,Oxford Street 860,Wolverhampton,West Midlands
-NIF-REI-WOL-8,9965,CP-5573,Estanco Wolverhampton 8,High Street 1068,Wolverhampton,West Midlands
-NIF-REI-WOL-9,3775,CP-5065,Estanco Wolverhampton 9,Regent Street 511,Wolverhampton,West Midlands
-NIF-REI-WOL-10,9387,CP-3174,Estanco Wolverhampton 10,Abbey Road 395,Wolverhampton,West Midlands
-NIF-REI-WOL-11,4799,CP-4202,Estanco Wolverhampton 11,Oxford Street 593,Wolverhampton,West Midlands
-NIF-REI-WOL-12,7517,CP-8841,Estanco Wolverhampton 12,Oxford Street 394,Wolverhampton,West Midlands
-NIF-REI-WOL-13,5836,CP-7707,Estanco Wolverhampton 13,Baker Street 278,Wolverhampton,West Midlands
-NIF-REI-WOL-14,2596,CP-9695,Estanco Wolverhampton 14,Baker Street 1443,Wolverhampton,West Midlands
-NIF-REI-WOL-15,2724,CP-9524,Estanco Wolverhampton 15,Abbey Road 1441,Wolverhampton,West Midlands
-NIF-REI-SOL-1,3030,CP-6925,Estanco Solihull 1,Regent Street 795,Solihull,West Midlands
-NIF-REI-SOL-2,1887,CP-8422,Estanco Solihull 2,Baker Street 1318,Solihull,West Midlands
-NIF-REI-SOL-3,7756,CP-9331,Estanco Solihull 3,High Street 120,Solihull,West Midlands
-NIF-REI-SOL-4,9094,CP-5324,Estanco Solihull 4,Regent Street 1000,Solihull,West Midlands
-NIF-REI-SOL-5,9994,CP-5683,Estanco Solihull 5,Baker Street 362,Solihull,West Midlands
-NIF-REI-SOL-6,6144,CP-4102,Estanco Solihull 6,Regent Street 749,Solihull,West Midlands
-NIF-REI-SOL-7,5923,CP-2430,Estanco Solihull 7,Baker Street 1342,Solihull,West Midlands
-NIF-REI-SOL-8,7519,CP-7024,Estanco Solihull 8,Abbey Road 108,Solihull,West Midlands
-NIF-REI-SOL-9,8767,CP-6408,Estanco Solihull 9,High Street 1845,Solihull,West Midlands
-NIF-REI-SOL-10,5583,CP-9413,Estanco Solihull 10,Baker Street 1306,Solihull,West Midlands
-NIF-REI-SOL-11,4692,CP-3678,Estanco Solihull 11,Baker Street 854,Solihull,West Midlands
-NIF-REI-SOL-12,5730,CP-8654,Estanco Solihull 12,Regent Street 1664,Solihull,West Midlands
-NIF-REI-SOL-13,4592,CP-2332,Estanco Solihull 13,High Street 273,Solihull,West Midlands
-NIF-REI-SOL-14,4617,CP-7683,Estanco Solihull 14,Abbey Road 833,Solihull,West Midlands
-NIF-REI-SOL-15,7086,CP-5414,Estanco Solihull 15,High Street 473,Solihull,West Midlands
-NIF-REI-SUT-1,3366,CP-1701,Estanco Sutton Coldfield 1,Oxford Street 1799,Sutton Coldfield,West Midlands
-NIF-REI-SUT-2,7051,CP-8132,Estanco Sutton Coldfield 2,Baker Street 276,Sutton Coldfield,West Midlands
-NIF-REI-SUT-3,6708,CP-5082,Estanco Sutton Coldfield 3,Regent Street 1684,Sutton Coldfield,West Midlands
-NIF-REI-SUT-4,2282,CP-7695,Estanco Sutton Coldfield 4,Baker Street 747,Sutton Coldfield,West Midlands
-NIF-REI-SUT-5,4465,CP-6759,Estanco Sutton Coldfield 5,Abbey Road 88,Sutton Coldfield,West Midlands
-NIF-REI-SUT-6,7043,CP-7839,Estanco Sutton Coldfield 6,Baker Street 767,Sutton Coldfield,West Midlands
-NIF-REI-SUT-7,9377,CP-9344,Estanco Sutton Coldfield 7,Regent Street 1197,Sutton Coldfield,West Midlands
-NIF-REI-SUT-8,3458,CP-5225,Estanco Sutton Coldfield 8,Baker Street 811,Sutton Coldfield,West Midlands
-NIF-REI-SUT-9,9712,CP-5422,Estanco Sutton Coldfield 9,Regent Street 903,Sutton Coldfield,West Midlands
-NIF-REI-SUT-10,2570,CP-9359,Estanco Sutton Coldfield 10,Oxford Street 1710,Sutton Coldfield,West Midlands
-NIF-REI-SUT-11,5904,CP-8843,Estanco Sutton Coldfield 11,Regent Street 570,Sutton Coldfield,West Midlands
-NIF-REI-SUT-12,6770,CP-6155,Estanco Sutton Coldfield 12,Oxford Street 20,Sutton Coldfield,West Midlands
-NIF-REI-SUT-13,7749,CP-3421,Estanco Sutton Coldfield 13,Baker Street 1872,Sutton Coldfield,West Midlands
-NIF-REI-SUT-14,2009,CP-6304,Estanco Sutton Coldfield 14,Abbey Road 802,Sutton Coldfield,West Midlands
-NIF-REI-SUT-15,7440,CP-7874,Estanco Sutton Coldfield 15,Baker Street 1885,Sutton Coldfield,West Midlands
-NIF-REI-DUD-1,2783,CP-8956,Estanco Dudley 1,Abbey Road 1927,Dudley,West Midlands
-NIF-REI-DUD-2,3262,CP-7015,Estanco Dudley 2,Baker Street 1273,Dudley,West Midlands
-NIF-REI-DUD-3,5489,CP-2123,Estanco Dudley 3,High Street 1687,Dudley,West Midlands
-NIF-REI-DUD-4,3193,CP-7495,Estanco Dudley 4,Abbey Road 1198,Dudley,West Midlands
-NIF-REI-DUD-5,2810,CP-5194,Estanco Dudley 5,Baker Street 215,Dudley,West Midlands
-NIF-REI-DUD-6,4913,CP-3447,Estanco Dudley 6,High Street 1516,Dudley,West Midlands
-NIF-REI-DUD-7,3877,CP-5279,Estanco Dudley 7,High Street 281,Dudley,West Midlands
-NIF-REI-DUD-8,1056,CP-1274,Estanco Dudley 8,Oxford Street 148,Dudley,West Midlands
-NIF-REI-DUD-9,3068,CP-9204,Estanco Dudley 9,Oxford Street 1830,Dudley,West Midlands
-NIF-REI-DUD-10,3352,CP-1160,Estanco Dudley 10,High Street 1582,Dudley,West Midlands
-NIF-REI-DUD-11,8629,CP-5266,Estanco Dudley 11,Regent Street 1737,Dudley,West Midlands
-NIF-REI-DUD-12,2945,CP-4193,Estanco Dudley 12,Oxford Street 1005,Dudley,West Midlands
-NIF-REI-DUD-13,9848,CP-4317,Estanco Dudley 13,High Street 846,Dudley,West Midlands
-NIF-REI-DUD-14,1739,CP-5672,Estanco Dudley 14,Abbey Road 577,Dudley,West Midlands
-NIF-REI-DUD-15,2437,CP-3682,Estanco Dudley 15,High Street 1402,Dudley,West Midlands
-NIF-ALE-MUN-1,1930,CP-3793,Estanco Munich 1,Unter den Linden 1295,Munich,Baviera
-NIF-ALE-MUN-2,9789,CP-4987,Estanco Munich 2,Maximilianstraße 1536,Munich,Baviera
-NIF-ALE-MUN-3,2027,CP-1984,Estanco Munich 3,Unter den Linden 1490,Munich,Baviera
-NIF-ALE-MUN-4,7149,CP-3599,Estanco Munich 4,Unter den Linden 1095,Munich,Baviera
-NIF-ALE-MUN-5,6107,CP-1322,Estanco Munich 5,Unter den Linden 1630,Munich,Baviera
-NIF-ALE-MUN-6,9209,CP-6460,Estanco Munich 6,Maximilianstraße 772,Munich,Baviera
-NIF-ALE-MUN-7,3890,CP-3986,Estanco Munich 7,Kurfürstendamm 885,Munich,Baviera
-NIF-ALE-MUN-8,2053,CP-8107,Estanco Munich 8,Königsallee 953,Munich,Baviera
-NIF-ALE-MUN-9,6345,CP-1443,Estanco Munich 9,Königsallee 1607,Munich,Baviera
-NIF-ALE-MUN-10,6531,CP-8599,Estanco Munich 10,Königsallee 1667,Munich,Baviera
-NIF-ALE-MUN-11,5638,CP-2375,Estanco Munich 11,Reeperbahn 909,Munich,Baviera
-NIF-ALE-MUN-12,5713,CP-5398,Estanco Munich 12,Reeperbahn 1317,Munich,Baviera
-NIF-ALE-MUN-13,4303,CP-6224,Estanco Munich 13,Kurfürstendamm 1215,Munich,Baviera
-NIF-ALE-MUN-14,6781,CP-7574,Estanco Munich 14,Reeperbahn 1316,Munich,Baviera
-NIF-ALE-MUN-15,8304,CP-4918,Estanco Munich 15,Reeperbahn 741,Munich,Baviera
-NIF-ALE-NUR-1,9127,CP-1303,Estanco Nuremberg 1,Reeperbahn 798,Nuremberg,Baviera
-NIF-ALE-NUR-2,5637,CP-8305,Estanco Nuremberg 2,Unter den Linden 470,Nuremberg,Baviera
-NIF-ALE-NUR-3,5999,CP-6901,Estanco Nuremberg 3,Königsallee 207,Nuremberg,Baviera
-NIF-ALE-NUR-4,3681,CP-7718,Estanco Nuremberg 4,Kurfürstendamm 1869,Nuremberg,Baviera
-NIF-ALE-NUR-5,4851,CP-7055,Estanco Nuremberg 5,Unter den Linden 1618,Nuremberg,Baviera
-NIF-ALE-NUR-6,7041,CP-7844,Estanco Nuremberg 6,Maximilianstraße 1092,Nuremberg,Baviera
-NIF-ALE-NUR-7,9004,CP-4272,Estanco Nuremberg 7,Kurfürstendamm 1515,Nuremberg,Baviera
-NIF-ALE-NUR-8,4962,CP-2197,Estanco Nuremberg 8,Kurfürstendamm 493,Nuremberg,Baviera
-NIF-ALE-NUR-9,9840,CP-3436,Estanco Nuremberg 9,Reeperbahn 845,Nuremberg,Baviera
-NIF-ALE-NUR-10,4517,CP-7714,Estanco Nuremberg 10,Königsallee 1526,Nuremberg,Baviera
-NIF-ALE-NUR-11,2867,CP-1395,Estanco Nuremberg 11,Reeperbahn 1572,Nuremberg,Baviera
-NIF-ALE-NUR-12,6767,CP-3913,Estanco Nuremberg 12,Königsallee 14,Nuremberg,Baviera
-NIF-ALE-NUR-13,7505,CP-3965,Estanco Nuremberg 13,Königsallee 1436,Nuremberg,Baviera
-NIF-ALE-NUR-14,6117,CP-6110,Estanco Nuremberg 14,Königsallee 768,Nuremberg,Baviera
-NIF-ALE-NUR-15,2924,CP-5948,Estanco Nuremberg 15,Maximilianstraße 180,Nuremberg,Baviera
-NIF-ALE-AUG-1,2597,CP-3881,Estanco Augsburg 1,Reeperbahn 1880,Augsburg,Baviera
-NIF-ALE-AUG-2,6266,CP-6001,Estanco Augsburg 2,Maximilianstraße 795,Augsburg,Baviera
-NIF-ALE-AUG-3,6542,CP-5503,Estanco Augsburg 3,Kurfürstendamm 1878,Augsburg,Baviera
-NIF-ALE-AUG-4,9066,CP-2972,Estanco Augsburg 4,Reeperbahn 902,Augsburg,Baviera
-NIF-ALE-AUG-5,3874,CP-2140,Estanco Augsburg 5,Maximilianstraße 1311,Augsburg,Baviera
-NIF-ALE-AUG-6,9283,CP-7452,Estanco Augsburg 6,Reeperbahn 1675,Augsburg,Baviera
-NIF-ALE-AUG-7,4482,CP-1930,Estanco Augsburg 7,Königsallee 220,Augsburg,Baviera
-NIF-ALE-AUG-8,1892,CP-4790,Estanco Augsburg 8,Unter den Linden 1982,Augsburg,Baviera
-NIF-ALE-AUG-9,1060,CP-6398,Estanco Augsburg 9,Unter den Linden 1453,Augsburg,Baviera
-NIF-ALE-AUG-10,2645,CP-6245,Estanco Augsburg 10,Kurfürstendamm 1985,Augsburg,Baviera
-NIF-ALE-AUG-11,7809,CP-3651,Estanco Augsburg 11,Kurfürstendamm 1926,Augsburg,Baviera
-NIF-ALE-AUG-12,5187,CP-5751,Estanco Augsburg 12,Königsallee 169,Augsburg,Baviera
-NIF-ALE-AUG-13,9905,CP-5191,Estanco Augsburg 13,Unter den Linden 1570,Augsburg,Baviera
-NIF-ALE-AUG-14,1461,CP-7070,Estanco Augsburg 14,Unter den Linden 61,Augsburg,Baviera
-NIF-ALE-AUG-15,5787,CP-9596,Estanco Augsburg 15,Königsallee 1256,Augsburg,Baviera
-NIF-ALE-REG-1,6262,CP-2460,Estanco Regensburg 1,Maximilianstraße 102,Regensburg,Baviera
-NIF-ALE-REG-2,3935,CP-8576,Estanco Regensburg 2,Reeperbahn 36,Regensburg,Baviera
-NIF-ALE-REG-3,8041,CP-1158,Estanco Regensburg 3,Kurfürstendamm 1789,Regensburg,Baviera
-NIF-ALE-REG-4,1953,CP-7355,Estanco Regensburg 4,Königsallee 1736,Regensburg,Baviera
-NIF-ALE-REG-5,2022,CP-2553,Estanco Regensburg 5,Reeperbahn 1039,Regensburg,Baviera
-NIF-ALE-REG-6,7899,CP-4288,Estanco Regensburg 6,Königsallee 1926,Regensburg,Baviera
-NIF-ALE-REG-7,1136,CP-4560,Estanco Regensburg 7,Unter den Linden 1071,Regensburg,Baviera
-NIF-ALE-REG-8,9370,CP-6350,Estanco Regensburg 8,Unter den Linden 99,Regensburg,Baviera
-NIF-ALE-REG-9,3238,CP-3877,Estanco Regensburg 9,Maximilianstraße 66,Regensburg,Baviera
-NIF-ALE-REG-10,2748,CP-1066,Estanco Regensburg 10,Unter den Linden 775,Regensburg,Baviera
-NIF-ALE-REG-11,2578,CP-2230,Estanco Regensburg 11,Königsallee 968,Regensburg,Baviera
-NIF-ALE-REG-12,3664,CP-5855,Estanco Regensburg 12,Königsallee 674,Regensburg,Baviera
-NIF-ALE-REG-13,2968,CP-7431,Estanco Regensburg 13,Unter den Linden 715,Regensburg,Baviera
-NIF-ALE-REG-14,6325,CP-5080,Estanco Regensburg 14,Unter den Linden 1119,Regensburg,Baviera
-NIF-ALE-REG-15,8864,CP-9135,Estanco Regensburg 15,Maximilianstraße 412,Regensburg,Baviera
-NIF-ALE-ING-1,8287,CP-9011,Estanco Ingolstadt 1,Unter den Linden 1009,Ingolstadt,Baviera
-NIF-ALE-ING-2,8768,CP-9338,Estanco Ingolstadt 2,Reeperbahn 996,Ingolstadt,Baviera
-NIF-ALE-ING-3,4638,CP-2998,Estanco Ingolstadt 3,Reeperbahn 1171,Ingolstadt,Baviera
-NIF-ALE-ING-4,5025,CP-6907,Estanco Ingolstadt 4,Königsallee 1885,Ingolstadt,Baviera
-NIF-ALE-ING-5,5646,CP-1547,Estanco Ingolstadt 5,Maximilianstraße 312,Ingolstadt,Baviera
-NIF-ALE-ING-6,2490,CP-8141,Estanco Ingolstadt 6,Königsallee 993,Ingolstadt,Baviera
-NIF-ALE-ING-7,7582,CP-8981,Estanco Ingolstadt 7,Unter den Linden 1013,Ingolstadt,Baviera
-NIF-ALE-ING-8,8707,CP-7146,Estanco Ingolstadt 8,Reeperbahn 138,Ingolstadt,Baviera
-NIF-ALE-ING-9,4987,CP-3211,Estanco Ingolstadt 9,Unter den Linden 408,Ingolstadt,Baviera
-NIF-ALE-ING-10,5958,CP-5436,Estanco Ingolstadt 10,Reeperbahn 653,Ingolstadt,Baviera
-NIF-ALE-ING-11,1340,CP-5353,Estanco Ingolstadt 11,Reeperbahn 846,Ingolstadt,Baviera
-NIF-ALE-ING-12,5110,CP-8093,Estanco Ingolstadt 12,Kurfürstendamm 1225,Ingolstadt,Baviera
-NIF-ALE-ING-13,3358,CP-9495,Estanco Ingolstadt 13,Unter den Linden 550,Ingolstadt,Baviera
-NIF-ALE-ING-14,5914,CP-9371,Estanco Ingolstadt 14,Königsallee 1496,Ingolstadt,Baviera
-NIF-ALE-ING-15,7319,CP-4965,Estanco Ingolstadt 15,Königsallee 133,Ingolstadt,Baviera
-NIF-ALE-ALT-1,2883,CP-8285,Estanco Altona 1,Königsallee 707,Altona,Hamburgo
-NIF-ALE-ALT-2,5735,CP-7921,Estanco Altona 2,Kurfürstendamm 1640,Altona,Hamburgo
-NIF-ALE-ALT-3,7523,CP-2752,Estanco Altona 3,Maximilianstraße 381,Altona,Hamburgo
-NIF-ALE-ALT-4,1461,CP-4096,Estanco Altona 4,Königsallee 1296,Altona,Hamburgo
-NIF-ALE-ALT-5,8923,CP-9192,Estanco Altona 5,Unter den Linden 200,Altona,Hamburgo
-NIF-ALE-ALT-6,4695,CP-3189,Estanco Altona 6,Königsallee 612,Altona,Hamburgo
-NIF-ALE-ALT-7,3087,CP-8471,Estanco Altona 7,Maximilianstraße 1184,Altona,Hamburgo
-NIF-ALE-ALT-8,2809,CP-3818,Estanco Altona 8,Königsallee 1763,Altona,Hamburgo
-NIF-ALE-ALT-9,9361,CP-4041,Estanco Altona 9,Königsallee 1107,Altona,Hamburgo
-NIF-ALE-ALT-10,8605,CP-9875,Estanco Altona 10,Königsallee 628,Altona,Hamburgo
-NIF-ALE-ALT-11,7976,CP-4912,Estanco Altona 11,Königsallee 439,Altona,Hamburgo
-NIF-ALE-ALT-12,8121,CP-2441,Estanco Altona 12,Unter den Linden 740,Altona,Hamburgo
-NIF-ALE-ALT-13,2242,CP-5224,Estanco Altona 13,Königsallee 1039,Altona,Hamburgo
-NIF-ALE-ALT-14,7288,CP-3105,Estanco Altona 14,Königsallee 361,Altona,Hamburgo
-NIF-ALE-ALT-15,2910,CP-2350,Estanco Altona 15,Reeperbahn 1762,Altona,Hamburgo
-NIF-ALE-BER-1,7392,CP-9315,Estanco Bergedorf 1,Maximilianstraße 66,Bergedorf,Hamburgo
-NIF-ALE-BER-2,6267,CP-4983,Estanco Bergedorf 2,Königsallee 85,Bergedorf,Hamburgo
-NIF-ALE-BER-3,4408,CP-7804,Estanco Bergedorf 3,Unter den Linden 1059,Bergedorf,Hamburgo
-NIF-ALE-BER-4,2998,CP-6983,Estanco Bergedorf 4,Königsallee 1898,Bergedorf,Hamburgo
-NIF-ALE-BER-5,7818,CP-9603,Estanco Bergedorf 5,Königsallee 1713,Bergedorf,Hamburgo
-NIF-ALE-BER-6,2983,CP-7448,Estanco Bergedorf 6,Kurfürstendamm 147,Bergedorf,Hamburgo
-NIF-ALE-BER-7,1118,CP-6900,Estanco Bergedorf 7,Reeperbahn 1871,Bergedorf,Hamburgo
-NIF-ALE-BER-8,6468,CP-1871,Estanco Bergedorf 8,Maximilianstraße 339,Bergedorf,Hamburgo
-NIF-ALE-BER-9,1934,CP-5744,Estanco Bergedorf 9,Unter den Linden 877,Bergedorf,Hamburgo
-NIF-ALE-BER-10,4129,CP-4722,Estanco Bergedorf 10,Maximilianstraße 1287,Bergedorf,Hamburgo
-NIF-ALE-BER-11,1090,CP-6349,Estanco Bergedorf 11,Königsallee 1445,Bergedorf,Hamburgo
-NIF-ALE-BER-12,7788,CP-7266,Estanco Bergedorf 12,Kurfürstendamm 1792,Bergedorf,Hamburgo
-NIF-ALE-BER-13,7615,CP-9753,Estanco Bergedorf 13,Kurfürstendamm 1224,Bergedorf,Hamburgo
-NIF-ALE-BER-14,6079,CP-8390,Estanco Bergedorf 14,Kurfürstendamm 1589,Bergedorf,Hamburgo
-NIF-ALE-BER-15,6585,CP-6581,Estanco Bergedorf 15,Unter den Linden 57,Bergedorf,Hamburgo
-NIF-ALE-EIM-1,8054,CP-7494,Estanco Eimsbüttel 1,Reeperbahn 1465,Eimsbüttel,Hamburgo
-NIF-ALE-EIM-2,9969,CP-2185,Estanco Eimsbüttel 2,Reeperbahn 1780,Eimsbüttel,Hamburgo
-NIF-ALE-EIM-3,1724,CP-1799,Estanco Eimsbüttel 3,Königsallee 1003,Eimsbüttel,Hamburgo
-NIF-ALE-EIM-4,4569,CP-3218,Estanco Eimsbüttel 4,Maximilianstraße 270,Eimsbüttel,Hamburgo
-NIF-ALE-EIM-5,4776,CP-4698,Estanco Eimsbüttel 5,Maximilianstraße 712,Eimsbüttel,Hamburgo
-NIF-ALE-EIM-6,2648,CP-7594,Estanco Eimsbüttel 6,Reeperbahn 413,Eimsbüttel,Hamburgo
-NIF-ALE-EIM-7,2595,CP-9099,Estanco Eimsbüttel 7,Reeperbahn 1337,Eimsbüttel,Hamburgo
-NIF-ALE-EIM-8,9446,CP-6255,Estanco Eimsbüttel 8,Königsallee 1233,Eimsbüttel,Hamburgo
-NIF-ALE-EIM-9,8396,CP-9192,Estanco Eimsbüttel 9,Reeperbahn 1190,Eimsbüttel,Hamburgo
-NIF-ALE-EIM-10,4303,CP-7658,Estanco Eimsbüttel 10,Maximilianstraße 366,Eimsbüttel,Hamburgo
-NIF-ALE-EIM-11,2716,CP-5272,Estanco Eimsbüttel 11,Unter den Linden 1289,Eimsbüttel,Hamburgo
-NIF-ALE-EIM-12,5891,CP-4439,Estanco Eimsbüttel 12,Maximilianstraße 66,Eimsbüttel,Hamburgo
-NIF-ALE-EIM-13,2646,CP-8431,Estanco Eimsbüttel 13,Kurfürstendamm 1777,Eimsbüttel,Hamburgo
-NIF-ALE-EIM-14,9409,CP-9600,Estanco Eimsbüttel 14,Maximilianstraße 1350,Eimsbüttel,Hamburgo
-NIF-ALE-EIM-15,5040,CP-1130,Estanco Eimsbüttel 15,Kurfürstendamm 345,Eimsbüttel,Hamburgo
-NIF-ALE-HAR-1,9175,CP-4804,Estanco Harburg 1,Reeperbahn 241,Harburg,Hamburgo
-NIF-ALE-HAR-2,1152,CP-3168,Estanco Harburg 2,Unter den Linden 1168,Harburg,Hamburgo
-NIF-ALE-HAR-3,3295,CP-7271,Estanco Harburg 3,Unter den Linden 931,Harburg,Hamburgo
-NIF-ALE-HAR-4,5838,CP-2335,Estanco Harburg 4,Königsallee 311,Harburg,Hamburgo
-NIF-ALE-HAR-5,4732,CP-5524,Estanco Harburg 5,Unter den Linden 1060,Harburg,Hamburgo
-NIF-ALE-HAR-6,8916,CP-2491,Estanco Harburg 6,Reeperbahn 1628,Harburg,Hamburgo
-NIF-ALE-HAR-7,7645,CP-7073,Estanco Harburg 7,Reeperbahn 538,Harburg,Hamburgo
-NIF-ALE-HAR-8,9281,CP-3562,Estanco Harburg 8,Unter den Linden 111,Harburg,Hamburgo
-NIF-ALE-HAR-9,6860,CP-6022,Estanco Harburg 9,Unter den Linden 313,Harburg,Hamburgo
-NIF-ALE-HAR-10,1821,CP-6451,Estanco Harburg 10,Unter den Linden 1602,Harburg,Hamburgo
-NIF-ALE-HAR-11,9295,CP-7409,Estanco Harburg 11,Königsallee 1646,Harburg,Hamburgo
-NIF-ALE-HAR-12,6312,CP-6786,Estanco Harburg 12,Kurfürstendamm 396,Harburg,Hamburgo
-NIF-ALE-HAR-13,8137,CP-5055,Estanco Harburg 13,Maximilianstraße 364,Harburg,Hamburgo
-NIF-ALE-HAR-14,9103,CP-5612,Estanco Harburg 14,Maximilianstraße 662,Harburg,Hamburgo
-NIF-ALE-HAR-15,4375,CP-6904,Estanco Harburg 15,Maximilianstraße 1469,Harburg,Hamburgo
-NIF-ALE-NOR-1,5363,CP-2790,Estanco Nord 1,Reeperbahn 1258,Nord,Hamburgo
-NIF-ALE-NOR-2,1778,CP-9193,Estanco Nord 2,Kurfürstendamm 588,Nord,Hamburgo
-NIF-ALE-NOR-3,3377,CP-3300,Estanco Nord 3,Maximilianstraße 521,Nord,Hamburgo
-NIF-ALE-NOR-4,4689,CP-7613,Estanco Nord 4,Königsallee 215,Nord,Hamburgo
-NIF-ALE-NOR-5,8165,CP-2605,Estanco Nord 5,Reeperbahn 792,Nord,Hamburgo
-NIF-ALE-NOR-6,8087,CP-8810,Estanco Nord 6,Unter den Linden 829,Nord,Hamburgo
-NIF-ALE-NOR-7,1289,CP-8401,Estanco Nord 7,Königsallee 212,Nord,Hamburgo
-NIF-ALE-NOR-8,6591,CP-5609,Estanco Nord 8,Königsallee 1804,Nord,Hamburgo
-NIF-ALE-NOR-9,1107,CP-1701,Estanco Nord 9,Unter den Linden 744,Nord,Hamburgo
-NIF-ALE-NOR-10,9639,CP-2205,Estanco Nord 10,Unter den Linden 1755,Nord,Hamburgo
-NIF-ALE-NOR-11,1151,CP-8993,Estanco Nord 11,Reeperbahn 1325,Nord,Hamburgo
-NIF-ALE-NOR-12,9225,CP-9706,Estanco Nord 12,Maximilianstraße 1097,Nord,Hamburgo
-NIF-ALE-NOR-13,5373,CP-6979,Estanco Nord 13,Reeperbahn 2,Nord,Hamburgo
-NIF-ALE-NOR-14,3616,CP-7772,Estanco Nord 14,Maximilianstraße 70,Nord,Hamburgo
-NIF-ALE-NOR-15,8443,CP-9367,Estanco Nord 15,Königsallee 228,Nord,Hamburgo
-NIF-JAP-SHI-1,5327,CP-7607,Estanco Shinjuku 1,Ginza 1804,Shinjuku,Tokyo
-NIF-JAP-SHI-2,4342,CP-8678,Estanco Shinjuku 2,Omotesando 1426,Shinjuku,Tokyo
-NIF-JAP-SHI-3,9393,CP-1579,Estanco Shinjuku 3,Ginza 1109,Shinjuku,Tokyo
-NIF-JAP-SHI-4,2597,CP-2463,Estanco Shinjuku 4,Ginza 1425,Shinjuku,Tokyo
-NIF-JAP-SHI-5,4033,CP-3422,Estanco Shinjuku 5,Nakamise-dori 1342,Shinjuku,Tokyo
-NIF-JAP-SHI-6,2362,CP-8206,Estanco Shinjuku 6,Ginza 214,Shinjuku,Tokyo
-NIF-JAP-SHI-7,5754,CP-9104,Estanco Shinjuku 7,Nakamise-dori 778,Shinjuku,Tokyo
-NIF-JAP-SHI-8,7026,CP-7577,Estanco Shinjuku 8,Nakamise-dori 1028,Shinjuku,Tokyo
-NIF-JAP-SHI-9,4691,CP-5012,Estanco Shinjuku 9,Nakamise-dori 1113,Shinjuku,Tokyo
-NIF-JAP-SHI-10,7563,CP-7756,Estanco Shinjuku 10,Dotonbori 1202,Shinjuku,Tokyo
-NIF-JAP-SHI-11,7664,CP-6928,Estanco Shinjuku 11,Nakamise-dori 719,Shinjuku,Tokyo
-NIF-JAP-SHI-12,8147,CP-9812,Estanco Shinjuku 12,Ginza 1896,Shinjuku,Tokyo
-NIF-JAP-SHI-13,6477,CP-3099,Estanco Shinjuku 13,Ginza 168,Shinjuku,Tokyo
-NIF-JAP-SHI-14,8768,CP-7089,Estanco Shinjuku 14,Ginza 1511,Shinjuku,Tokyo
-NIF-JAP-SHI-15,1117,CP-7841,Estanco Shinjuku 15,Omotesando 1551,Shinjuku,Tokyo
-NIF-JAP-SHI-1,3467,CP-8194,Estanco Shibuya 1,Omotesando 304,Shibuya,Tokyo
-NIF-JAP-SHI-2,3708,CP-8051,Estanco Shibuya 2,Ginza 904,Shibuya,Tokyo
-NIF-JAP-SHI-3,3336,CP-9939,Estanco Shibuya 3,Dotonbori 902,Shibuya,Tokyo
-NIF-JAP-SHI-4,3394,CP-8246,Estanco Shibuya 4,Nakamise-dori 1078,Shibuya,Tokyo
-NIF-JAP-SHI-5,7885,CP-5168,Estanco Shibuya 5,Dotonbori 284,Shibuya,Tokyo
-NIF-JAP-SHI-6,3815,CP-6217,Estanco Shibuya 6,Dotonbori 442,Shibuya,Tokyo
-NIF-JAP-SHI-7,4850,CP-7349,Estanco Shibuya 7,Nakamise-dori 397,Shibuya,Tokyo
-NIF-JAP-SHI-8,9959,CP-1701,Estanco Shibuya 8,Dotonbori 991,Shibuya,Tokyo
-NIF-JAP-SHI-9,5468,CP-9635,Estanco Shibuya 9,Takeshita-dori 1613,Shibuya,Tokyo
-NIF-JAP-SHI-10,5676,CP-5532,Estanco Shibuya 10,Dotonbori 1429,Shibuya,Tokyo
-NIF-JAP-SHI-11,9002,CP-1014,Estanco Shibuya 11,Dotonbori 1526,Shibuya,Tokyo
-NIF-JAP-SHI-12,4419,CP-2851,Estanco Shibuya 12,Dotonbori 1583,Shibuya,Tokyo
-NIF-JAP-SHI-13,2402,CP-5173,Estanco Shibuya 13,Nakamise-dori 1826,Shibuya,Tokyo
-NIF-JAP-SHI-14,6569,CP-9159,Estanco Shibuya 14,Nakamise-dori 1293,Shibuya,Tokyo
-NIF-JAP-SHI-15,5286,CP-2439,Estanco Shibuya 15,Nakamise-dori 875,Shibuya,Tokyo
-NIF-JAP-MIN-1,9355,CP-6313,Estanco Minato 1,Omotesando 1392,Minato,Tokyo
-NIF-JAP-MIN-2,9359,CP-9185,Estanco Minato 2,Takeshita-dori 417,Minato,Tokyo
-NIF-JAP-MIN-3,3654,CP-8066,Estanco Minato 3,Nakamise-dori 169,Minato,Tokyo
-NIF-JAP-MIN-4,1455,CP-2694,Estanco Minato 4,Ginza 854,Minato,Tokyo
-NIF-JAP-MIN-5,3256,CP-8711,Estanco Minato 5,Dotonbori 165,Minato,Tokyo
-NIF-JAP-MIN-6,1502,CP-8783,Estanco Minato 6,Omotesando 1742,Minato,Tokyo
-NIF-JAP-MIN-7,1498,CP-3893,Estanco Minato 7,Dotonbori 196,Minato,Tokyo
-NIF-JAP-MIN-8,7381,CP-6319,Estanco Minato 8,Omotesando 1077,Minato,Tokyo
-NIF-JAP-MIN-9,8651,CP-9885,Estanco Minato 9,Dotonbori 585,Minato,Tokyo
-NIF-JAP-MIN-10,1718,CP-6699,Estanco Minato 10,Takeshita-dori 509,Minato,Tokyo
-NIF-JAP-MIN-11,8034,CP-3916,Estanco Minato 11,Dotonbori 699,Minato,Tokyo
-NIF-JAP-MIN-12,4556,CP-1770,Estanco Minato 12,Dotonbori 873,Minato,Tokyo
-NIF-JAP-MIN-13,8108,CP-8862,Estanco Minato 13,Nakamise-dori 183,Minato,Tokyo
-NIF-JAP-MIN-14,8035,CP-9335,Estanco Minato 14,Ginza 648,Minato,Tokyo
-NIF-JAP-MIN-15,8095,CP-6413,Estanco Minato 15,Omotesando 441,Minato,Tokyo
-NIF-JAP-CHI-1,3214,CP-5750,Estanco Chiyoda 1,Ginza 1042,Chiyoda,Tokyo
-NIF-JAP-CHI-2,7517,CP-5676,Estanco Chiyoda 2,Nakamise-dori 670,Chiyoda,Tokyo
-NIF-JAP-CHI-3,2197,CP-3366,Estanco Chiyoda 3,Omotesando 987,Chiyoda,Tokyo
-NIF-JAP-CHI-4,4343,CP-6882,Estanco Chiyoda 4,Takeshita-dori 1676,Chiyoda,Tokyo
-NIF-JAP-CHI-5,7586,CP-2377,Estanco Chiyoda 5,Omotesando 1305,Chiyoda,Tokyo
-NIF-JAP-CHI-6,3308,CP-4089,Estanco Chiyoda 6,Dotonbori 1093,Chiyoda,Tokyo
-NIF-JAP-CHI-7,2770,CP-9126,Estanco Chiyoda 7,Dotonbori 1843,Chiyoda,Tokyo
-NIF-JAP-CHI-8,4623,CP-3550,Estanco Chiyoda 8,Ginza 420,Chiyoda,Tokyo
-NIF-JAP-CHI-9,4440,CP-2811,Estanco Chiyoda 9,Ginza 1187,Chiyoda,Tokyo
-NIF-JAP-CHI-10,2508,CP-4644,Estanco Chiyoda 10,Dotonbori 1517,Chiyoda,Tokyo
-NIF-JAP-CHI-11,7971,CP-6844,Estanco Chiyoda 11,Omotesando 1959,Chiyoda,Tokyo
-NIF-JAP-CHI-12,3484,CP-2732,Estanco Chiyoda 12,Nakamise-dori 1771,Chiyoda,Tokyo
-NIF-JAP-CHI-13,3960,CP-6143,Estanco Chiyoda 13,Ginza 879,Chiyoda,Tokyo
-NIF-JAP-CHI-14,2768,CP-4236,Estanco Chiyoda 14,Takeshita-dori 521,Chiyoda,Tokyo
-NIF-JAP-CHI-15,1801,CP-7486,Estanco Chiyoda 15,Omotesando 1508,Chiyoda,Tokyo
-NIF-JAP-TAI-1,9981,CP-5981,Estanco Taito 1,Nakamise-dori 1086,Taito,Tokyo
-NIF-JAP-TAI-2,1659,CP-1699,Estanco Taito 2,Dotonbori 1258,Taito,Tokyo
-NIF-JAP-TAI-3,9817,CP-6782,Estanco Taito 3,Takeshita-dori 1692,Taito,Tokyo
-NIF-JAP-TAI-4,6047,CP-5124,Estanco Taito 4,Omotesando 1239,Taito,Tokyo
-NIF-JAP-TAI-5,4361,CP-4399,Estanco Taito 5,Dotonbori 536,Taito,Tokyo
-NIF-JAP-TAI-6,8924,CP-2271,Estanco Taito 6,Dotonbori 289,Taito,Tokyo
-NIF-JAP-TAI-7,5716,CP-7800,Estanco Taito 7,Nakamise-dori 950,Taito,Tokyo
-NIF-JAP-TAI-8,1750,CP-9279,Estanco Taito 8,Takeshita-dori 235,Taito,Tokyo
-NIF-JAP-TAI-9,3740,CP-8365,Estanco Taito 9,Omotesando 773,Taito,Tokyo
-NIF-JAP-TAI-10,7716,CP-3661,Estanco Taito 10,Takeshita-dori 1261,Taito,Tokyo
-NIF-JAP-TAI-11,8663,CP-5796,Estanco Taito 11,Ginza 1653,Taito,Tokyo
-NIF-JAP-TAI-12,4348,CP-5648,Estanco Taito 12,Ginza 1888,Taito,Tokyo
-NIF-JAP-TAI-13,6642,CP-1834,Estanco Taito 13,Omotesando 1183,Taito,Tokyo
-NIF-JAP-TAI-14,2898,CP-1847,Estanco Taito 14,Dotonbori 364,Taito,Tokyo
-NIF-JAP-TAI-15,1027,CP-6774,Estanco Taito 15,Dotonbori 1730,Taito,Tokyo
-NIF-JAP-SAK-1,8791,CP-6646,Estanco Sakai 1,Omotesando 57,Sakai,Osaka
-NIF-JAP-SAK-2,2210,CP-4880,Estanco Sakai 2,Dotonbori 341,Sakai,Osaka
-NIF-JAP-SAK-3,9275,CP-9645,Estanco Sakai 3,Takeshita-dori 980,Sakai,Osaka
-NIF-JAP-SAK-4,1325,CP-6024,Estanco Sakai 4,Nakamise-dori 1430,Sakai,Osaka
-NIF-JAP-SAK-5,6453,CP-6971,Estanco Sakai 5,Nakamise-dori 87,Sakai,Osaka
-NIF-JAP-SAK-6,3483,CP-1288,Estanco Sakai 6,Omotesando 691,Sakai,Osaka
-NIF-JAP-SAK-7,7093,CP-3019,Estanco Sakai 7,Takeshita-dori 912,Sakai,Osaka
-NIF-JAP-SAK-8,5176,CP-9533,Estanco Sakai 8,Nakamise-dori 1239,Sakai,Osaka
-NIF-JAP-SAK-9,5466,CP-6082,Estanco Sakai 9,Omotesando 794,Sakai,Osaka
-NIF-JAP-SAK-10,4398,CP-4170,Estanco Sakai 10,Nakamise-dori 1403,Sakai,Osaka
-NIF-JAP-SAK-11,8410,CP-4605,Estanco Sakai 11,Nakamise-dori 641,Sakai,Osaka
-NIF-JAP-SAK-12,8779,CP-7438,Estanco Sakai 12,Omotesando 222,Sakai,Osaka
-NIF-JAP-SAK-13,4988,CP-4470,Estanco Sakai 13,Dotonbori 1868,Sakai,Osaka
-NIF-JAP-SAK-14,6277,CP-5262,Estanco Sakai 14,Ginza 276,Sakai,Osaka
-NIF-JAP-SAK-15,1309,CP-4486,Estanco Sakai 15,Takeshita-dori 1139,Sakai,Osaka
-NIF-JAP-HIG-1,7912,CP-3245,Estanco Higashiosaka 1,Nakamise-dori 782,Higashiosaka,Osaka
-NIF-JAP-HIG-2,6018,CP-7974,Estanco Higashiosaka 2,Ginza 308,Higashiosaka,Osaka
-NIF-JAP-HIG-3,4394,CP-4601,Estanco Higashiosaka 3,Nakamise-dori 1998,Higashiosaka,Osaka
-NIF-JAP-HIG-4,1937,CP-1977,Estanco Higashiosaka 4,Takeshita-dori 247,Higashiosaka,Osaka
-NIF-JAP-HIG-5,7168,CP-1805,Estanco Higashiosaka 5,Ginza 525,Higashiosaka,Osaka
-NIF-JAP-HIG-6,3557,CP-8179,Estanco Higashiosaka 6,Dotonbori 1497,Higashiosaka,Osaka
-NIF-JAP-HIG-7,2033,CP-5210,Estanco Higashiosaka 7,Dotonbori 833,Higashiosaka,Osaka
-NIF-JAP-HIG-8,4072,CP-3160,Estanco Higashiosaka 8,Nakamise-dori 304,Higashiosaka,Osaka
-NIF-JAP-HIG-9,5763,CP-5023,Estanco Higashiosaka 9,Dotonbori 724,Higashiosaka,Osaka
-NIF-JAP-HIG-10,7211,CP-9852,Estanco Higashiosaka 10,Nakamise-dori 1624,Higashiosaka,Osaka
-NIF-JAP-HIG-11,7199,CP-5023,Estanco Higashiosaka 11,Nakamise-dori 1758,Higashiosaka,Osaka
-NIF-JAP-HIG-12,3453,CP-6166,Estanco Higashiosaka 12,Takeshita-dori 957,Higashiosaka,Osaka
-NIF-JAP-HIG-13,2349,CP-1905,Estanco Higashiosaka 13,Ginza 581,Higashiosaka,Osaka
-NIF-JAP-HIG-14,1035,CP-3730,Estanco Higashiosaka 14,Omotesando 635,Higashiosaka,Osaka
-NIF-JAP-HIG-15,6274,CP-1038,Estanco Higashiosaka 15,Nakamise-dori 298,Higashiosaka,Osaka
-NIF-JAP-TOY-1,3167,CP-8974,Estanco Toyonaka 1,Nakamise-dori 390,Toyonaka,Osaka
-NIF-JAP-TOY-2,3697,CP-1073,Estanco Toyonaka 2,Omotesando 1382,Toyonaka,Osaka
-NIF-JAP-TOY-3,3477,CP-2056,Estanco Toyonaka 3,Nakamise-dori 255,Toyonaka,Osaka
-NIF-JAP-TOY-4,7943,CP-3646,Estanco Toyonaka 4,Omotesando 1086,Toyonaka,Osaka
-NIF-JAP-TOY-5,1705,CP-7097,Estanco Toyonaka 5,Dotonbori 1619,Toyonaka,Osaka
-NIF-JAP-TOY-6,1910,CP-5122,Estanco Toyonaka 6,Ginza 1537,Toyonaka,Osaka
-NIF-JAP-TOY-7,3223,CP-8101,Estanco Toyonaka 7,Nakamise-dori 143,Toyonaka,Osaka
-NIF-JAP-TOY-8,2528,CP-5718,Estanco Toyonaka 8,Dotonbori 774,Toyonaka,Osaka
-NIF-JAP-TOY-9,7895,CP-3678,Estanco Toyonaka 9,Takeshita-dori 1589,Toyonaka,Osaka
-NIF-JAP-TOY-10,4908,CP-3199,Estanco Toyonaka 10,Nakamise-dori 1362,Toyonaka,Osaka
-NIF-JAP-TOY-11,8770,CP-6023,Estanco Toyonaka 11,Takeshita-dori 1608,Toyonaka,Osaka
-NIF-JAP-TOY-12,3135,CP-7340,Estanco Toyonaka 12,Takeshita-dori 1561,Toyonaka,Osaka
-NIF-JAP-TOY-13,5483,CP-1146,Estanco Toyonaka 13,Dotonbori 624,Toyonaka,Osaka
-NIF-JAP-TOY-14,9517,CP-4213,Estanco Toyonaka 14,Omotesando 1656,Toyonaka,Osaka
-NIF-JAP-TOY-15,5653,CP-3020,Estanco Toyonaka 15,Dotonbori 1809,Toyonaka,Osaka
-NIF-JAP-HIR-1,8898,CP-2899,Estanco Hirakata 1,Omotesando 979,Hirakata,Osaka
-NIF-JAP-HIR-2,3363,CP-6824,Estanco Hirakata 2,Dotonbori 1303,Hirakata,Osaka
-NIF-JAP-HIR-3,7713,CP-5130,Estanco Hirakata 3,Omotesando 87,Hirakata,Osaka
-NIF-JAP-HIR-4,4480,CP-2953,Estanco Hirakata 4,Ginza 1279,Hirakata,Osaka
-NIF-JAP-HIR-5,7605,CP-4157,Estanco Hirakata 5,Dotonbori 1739,Hirakata,Osaka
-NIF-JAP-HIR-6,5726,CP-4903,Estanco Hirakata 6,Nakamise-dori 1637,Hirakata,Osaka
-NIF-JAP-HIR-7,4970,CP-2369,Estanco Hirakata 7,Takeshita-dori 1059,Hirakata,Osaka
-NIF-JAP-HIR-8,1175,CP-1892,Estanco Hirakata 8,Dotonbori 1332,Hirakata,Osaka
-NIF-JAP-HIR-9,8419,CP-7994,Estanco Hirakata 9,Takeshita-dori 711,Hirakata,Osaka
-NIF-JAP-HIR-10,6472,CP-4082,Estanco Hirakata 10,Dotonbori 1558,Hirakata,Osaka
-NIF-JAP-HIR-11,5329,CP-9989,Estanco Hirakata 11,Ginza 521,Hirakata,Osaka
-NIF-JAP-HIR-12,5676,CP-9477,Estanco Hirakata 12,Omotesando 621,Hirakata,Osaka
-NIF-JAP-HIR-13,1164,CP-4832,Estanco Hirakata 13,Ginza 1278,Hirakata,Osaka
-NIF-JAP-HIR-14,3924,CP-8651,Estanco Hirakata 14,Nakamise-dori 778,Hirakata,Osaka
-NIF-JAP-HIR-15,1435,CP-3384,Estanco Hirakata 15,Ginza 189,Hirakata,Osaka
-NIF-JAP-SUI-1,3976,CP-9720,Estanco Suita 1,Dotonbori 665,Suita,Osaka
-NIF-JAP-SUI-2,4272,CP-4103,Estanco Suita 2,Dotonbori 1468,Suita,Osaka
-NIF-JAP-SUI-3,5640,CP-2565,Estanco Suita 3,Dotonbori 788,Suita,Osaka
-NIF-JAP-SUI-4,7187,CP-2103,Estanco Suita 4,Ginza 1927,Suita,Osaka
-NIF-JAP-SUI-5,2703,CP-3406,Estanco Suita 5,Nakamise-dori 716,Suita,Osaka
-NIF-JAP-SUI-6,4052,CP-6559,Estanco Suita 6,Dotonbori 120,Suita,Osaka
-NIF-JAP-SUI-7,2531,CP-8768,Estanco Suita 7,Ginza 447,Suita,Osaka
-NIF-JAP-SUI-8,3123,CP-5267,Estanco Suita 8,Nakamise-dori 1935,Suita,Osaka
-NIF-JAP-SUI-9,7966,CP-5727,Estanco Suita 9,Nakamise-dori 489,Suita,Osaka
-NIF-JAP-SUI-10,2654,CP-6361,Estanco Suita 10,Omotesando 1521,Suita,Osaka
-NIF-JAP-SUI-11,6570,CP-6193,Estanco Suita 11,Nakamise-dori 120,Suita,Osaka
-NIF-JAP-SUI-12,8047,CP-5018,Estanco Suita 12,Ginza 866,Suita,Osaka
-NIF-JAP-SUI-13,7766,CP-3602,Estanco Suita 13,Ginza 1031,Suita,Osaka
-NIF-JAP-SUI-14,3200,CP-9027,Estanco Suita 14,Nakamise-dori 477,Suita,Osaka
-NIF-JAP-SUI-15,5540,CP-9725,Estanco Suita 15,Omotesando 1979,Suita,Osaka
+NIF-CHI-SAN-1,9105,CP-1526,Estanco Santiago 1,Calle Bandera 1762,Santiago,Metropolitana
+NIF-CHI-SAN-2,6145,CP-6802,Estanco Santiago 2,Av. Apoquindo 148,Santiago,Metropolitana
+NIF-CHI-SAN-3,5928,CP-1144,Estanco Santiago 3,Av. Libertador B. O'Higgins 816,Santiago,Metropolitana
+NIF-CHI-SAN-4,6304,CP-4164,Estanco Santiago 4,Calle Ahumada 60,Santiago,Metropolitana
+NIF-CHI-SAN-5,4344,CP-8205,Estanco Santiago 5,Calle Bandera 184,Santiago,Metropolitana
+NIF-CHI-SAN-6,5446,CP-3203,Estanco Santiago 6,Av. Apoquindo 498,Santiago,Metropolitana
+NIF-CHI-SAN-7,9574,CP-5017,Estanco Santiago 7,Calle Ahumada 582,Santiago,Metropolitana
+NIF-CHI-SAN-8,5840,CP-2080,Estanco Santiago 8,Av. Apoquindo 779,Santiago,Metropolitana
+NIF-CHI-SAN-9,2446,CP-7312,Estanco Santiago 9,Av. Providencia 1768,Santiago,Metropolitana
+NIF-CHI-SAN-10,8844,CP-5647,Estanco Santiago 10,Av. Apoquindo 600,Santiago,Metropolitana
+NIF-CHI-SAN-11,5384,CP-9812,Estanco Santiago 11,Av. Apoquindo 1269,Santiago,Metropolitana
+NIF-CHI-SAN-12,8525,CP-2352,Estanco Santiago 12,Calle Ahumada 42,Santiago,Metropolitana
+NIF-CHI-SAN-13,6343,CP-7847,Estanco Santiago 13,Calle Ahumada 1154,Santiago,Metropolitana
+NIF-CHI-SAN-14,1669,CP-6817,Estanco Santiago 14,Calle Bandera 334,Santiago,Metropolitana
+NIF-CHI-SAN-15,6668,CP-7868,Estanco Santiago 15,Av. Providencia 803,Santiago,Metropolitana
+NIF-CHI-PUE-1,5288,CP-4791,Estanco Puente Alto 1,Calle Bandera 1441,Puente Alto,Metropolitana
+NIF-CHI-PUE-2,1006,CP-2382,Estanco Puente Alto 2,Av. Libertador B. O'Higgins 775,Puente Alto,Metropolitana
+NIF-CHI-PUE-3,7328,CP-8960,Estanco Puente Alto 3,Calle Ahumada 1388,Puente Alto,Metropolitana
+NIF-CHI-PUE-4,9887,CP-7586,Estanco Puente Alto 4,Calle Ahumada 664,Puente Alto,Metropolitana
+NIF-CHI-PUE-5,4696,CP-2028,Estanco Puente Alto 5,Av. Providencia 559,Puente Alto,Metropolitana
+NIF-CHI-PUE-6,3077,CP-1050,Estanco Puente Alto 6,Calle Ahumada 132,Puente Alto,Metropolitana
+NIF-CHI-PUE-7,9918,CP-4003,Estanco Puente Alto 7,Av. Apoquindo 1140,Puente Alto,Metropolitana
+NIF-CHI-PUE-8,1702,CP-6531,Estanco Puente Alto 8,Calle Bandera 203,Puente Alto,Metropolitana
+NIF-CHI-PUE-9,3827,CP-2565,Estanco Puente Alto 9,Av. Providencia 1235,Puente Alto,Metropolitana
+NIF-CHI-PUE-10,4788,CP-7859,Estanco Puente Alto 10,Calle Ahumada 1186,Puente Alto,Metropolitana
+NIF-CHI-PUE-11,6507,CP-5693,Estanco Puente Alto 11,Av. Libertador B. O'Higgins 1792,Puente Alto,Metropolitana
+NIF-CHI-PUE-12,7163,CP-7445,Estanco Puente Alto 12,Av. Apoquindo 966,Puente Alto,Metropolitana
+NIF-CHI-PUE-13,8142,CP-1264,Estanco Puente Alto 13,Calle Bandera 1791,Puente Alto,Metropolitana
+NIF-CHI-PUE-14,5874,CP-6601,Estanco Puente Alto 14,Av. Apoquindo 543,Puente Alto,Metropolitana
+NIF-CHI-PUE-15,1474,CP-1443,Estanco Puente Alto 15,Av. Libertador B. O'Higgins 350,Puente Alto,Metropolitana
+NIF-CHI-MAI-1,1824,CP-9972,Estanco Maipú 1,Calle Bandera 1212,Maipú,Metropolitana
+NIF-CHI-MAI-2,8619,CP-2511,Estanco Maipú 2,Av. Providencia 1535,Maipú,Metropolitana
+NIF-CHI-MAI-3,5754,CP-6857,Estanco Maipú 3,Calle Bandera 73,Maipú,Metropolitana
+NIF-CHI-MAI-4,3555,CP-1464,Estanco Maipú 4,Av. Libertador B. O'Higgins 1311,Maipú,Metropolitana
+NIF-CHI-MAI-5,7608,CP-7167,Estanco Maipú 5,Av. Providencia 583,Maipú,Metropolitana
+NIF-CHI-MAI-6,5654,CP-6949,Estanco Maipú 6,Av. Libertador B. O'Higgins 51,Maipú,Metropolitana
+NIF-CHI-MAI-7,8760,CP-2366,Estanco Maipú 7,Calle Ahumada 83,Maipú,Metropolitana
+NIF-CHI-MAI-8,1580,CP-3769,Estanco Maipú 8,Av. Libertador B. O'Higgins 479,Maipú,Metropolitana
+NIF-CHI-MAI-9,1447,CP-2648,Estanco Maipú 9,Calle Bandera 707,Maipú,Metropolitana
+NIF-CHI-MAI-10,2204,CP-1095,Estanco Maipú 10,Calle Bandera 836,Maipú,Metropolitana
+NIF-CHI-MAI-11,2022,CP-8728,Estanco Maipú 11,Av. Apoquindo 1516,Maipú,Metropolitana
+NIF-CHI-MAI-12,9846,CP-6841,Estanco Maipú 12,Av. Libertador B. O'Higgins 1422,Maipú,Metropolitana
+NIF-CHI-MAI-13,6669,CP-1329,Estanco Maipú 13,Av. Apoquindo 1287,Maipú,Metropolitana
+NIF-CHI-MAI-14,5013,CP-2711,Estanco Maipú 14,Av. Libertador B. O'Higgins 914,Maipú,Metropolitana
+NIF-CHI-MAI-15,7531,CP-7977,Estanco Maipú 15,Av. Libertador B. O'Higgins 79,Maipú,Metropolitana
+NIF-CHI-LA -1,3825,CP-2104,Estanco La Florida 1,Av. Providencia 925,La Florida,Metropolitana
+NIF-CHI-LA -2,5062,CP-4747,Estanco La Florida 2,Calle Ahumada 560,La Florida,Metropolitana
+NIF-CHI-LA -3,7987,CP-3072,Estanco La Florida 3,Av. Apoquindo 1735,La Florida,Metropolitana
+NIF-CHI-LA -4,3533,CP-4656,Estanco La Florida 4,Av. Libertador B. O'Higgins 1911,La Florida,Metropolitana
+NIF-CHI-LA -5,4060,CP-3506,Estanco La Florida 5,Av. Providencia 327,La Florida,Metropolitana
+NIF-CHI-LA -6,1986,CP-8180,Estanco La Florida 6,Av. Apoquindo 1636,La Florida,Metropolitana
+NIF-CHI-LA -7,1506,CP-1907,Estanco La Florida 7,Calle Bandera 38,La Florida,Metropolitana
+NIF-CHI-LA -8,7283,CP-6570,Estanco La Florida 8,Calle Ahumada 1431,La Florida,Metropolitana
+NIF-CHI-LA -9,2946,CP-3701,Estanco La Florida 9,Calle Bandera 1439,La Florida,Metropolitana
+NIF-CHI-LA -10,7060,CP-6082,Estanco La Florida 10,Av. Providencia 772,La Florida,Metropolitana
+NIF-CHI-LA -11,2406,CP-3109,Estanco La Florida 11,Av. Libertador B. O'Higgins 1893,La Florida,Metropolitana
+NIF-CHI-LA -12,5294,CP-5350,Estanco La Florida 12,Calle Ahumada 1688,La Florida,Metropolitana
+NIF-CHI-LA -13,2066,CP-6666,Estanco La Florida 13,Av. Providencia 491,La Florida,Metropolitana
+NIF-CHI-LA -14,1775,CP-1416,Estanco La Florida 14,Av. Libertador B. O'Higgins 955,La Florida,Metropolitana
+NIF-CHI-LA -15,9846,CP-7764,Estanco La Florida 15,Av. Providencia 1878,La Florida,Metropolitana
+NIF-CHI-LAS-1,1451,CP-5540,Estanco Las Condes 1,Av. Apoquindo 475,Las Condes,Metropolitana
+NIF-CHI-LAS-2,8928,CP-4021,Estanco Las Condes 2,Calle Bandera 1225,Las Condes,Metropolitana
+NIF-CHI-LAS-3,1425,CP-2109,Estanco Las Condes 3,Calle Bandera 695,Las Condes,Metropolitana
+NIF-CHI-LAS-4,9888,CP-4151,Estanco Las Condes 4,Calle Bandera 545,Las Condes,Metropolitana
+NIF-CHI-LAS-5,4047,CP-3313,Estanco Las Condes 5,Calle Bandera 1158,Las Condes,Metropolitana
+NIF-CHI-LAS-6,5679,CP-4165,Estanco Las Condes 6,Av. Libertador B. O'Higgins 656,Las Condes,Metropolitana
+NIF-CHI-LAS-7,7240,CP-9037,Estanco Las Condes 7,Av. Providencia 1206,Las Condes,Metropolitana
+NIF-CHI-LAS-8,8077,CP-4857,Estanco Las Condes 8,Calle Ahumada 1338,Las Condes,Metropolitana
+NIF-CHI-LAS-9,9453,CP-5014,Estanco Las Condes 9,Av. Apoquindo 1588,Las Condes,Metropolitana
+NIF-CHI-LAS-10,1449,CP-4511,Estanco Las Condes 10,Av. Apoquindo 658,Las Condes,Metropolitana
+NIF-CHI-LAS-11,5685,CP-1784,Estanco Las Condes 11,Av. Libertador B. O'Higgins 657,Las Condes,Metropolitana
+NIF-CHI-LAS-12,7822,CP-3311,Estanco Las Condes 12,Calle Ahumada 249,Las Condes,Metropolitana
+NIF-CHI-LAS-13,8304,CP-1843,Estanco Las Condes 13,Calle Ahumada 237,Las Condes,Metropolitana
+NIF-CHI-LAS-14,9121,CP-3339,Estanco Las Condes 14,Av. Providencia 1204,Las Condes,Metropolitana
+NIF-CHI-LAS-15,8241,CP-1225,Estanco Las Condes 15,Calle Bandera 992,Las Condes,Metropolitana
+NIF-CHI-VIÑ-1,4850,CP-7319,Estanco Viña del Mar 1,Calle Ahumada 1240,Viña del Mar,Valparaíso
+NIF-CHI-VIÑ-2,5143,CP-4303,Estanco Viña del Mar 2,Av. Apoquindo 1790,Viña del Mar,Valparaíso
+NIF-CHI-VIÑ-3,5013,CP-8583,Estanco Viña del Mar 3,Av. Apoquindo 1982,Viña del Mar,Valparaíso
+NIF-CHI-VIÑ-4,9378,CP-9858,Estanco Viña del Mar 4,Av. Providencia 244,Viña del Mar,Valparaíso
+NIF-CHI-VIÑ-5,9705,CP-3211,Estanco Viña del Mar 5,Calle Bandera 1260,Viña del Mar,Valparaíso
+NIF-CHI-VIÑ-6,9072,CP-4597,Estanco Viña del Mar 6,Av. Libertador B. O'Higgins 906,Viña del Mar,Valparaíso
+NIF-CHI-VIÑ-7,6411,CP-1163,Estanco Viña del Mar 7,Av. Apoquindo 565,Viña del Mar,Valparaíso
+NIF-CHI-VIÑ-8,8981,CP-5314,Estanco Viña del Mar 8,Av. Providencia 1014,Viña del Mar,Valparaíso
+NIF-CHI-VIÑ-9,2986,CP-2052,Estanco Viña del Mar 9,Av. Providencia 1874,Viña del Mar,Valparaíso
+NIF-CHI-VIÑ-10,5231,CP-2188,Estanco Viña del Mar 10,Calle Ahumada 507,Viña del Mar,Valparaíso
+NIF-CHI-VIÑ-11,5138,CP-8585,Estanco Viña del Mar 11,Av. Libertador B. O'Higgins 1562,Viña del Mar,Valparaíso
+NIF-CHI-VIÑ-12,1634,CP-6781,Estanco Viña del Mar 12,Av. Apoquindo 1898,Viña del Mar,Valparaíso
+NIF-CHI-VIÑ-13,8233,CP-8153,Estanco Viña del Mar 13,Av. Libertador B. O'Higgins 851,Viña del Mar,Valparaíso
+NIF-CHI-VIÑ-14,6336,CP-8805,Estanco Viña del Mar 14,Av. Libertador B. O'Higgins 1230,Viña del Mar,Valparaíso
+NIF-CHI-VIÑ-15,3430,CP-6988,Estanco Viña del Mar 15,Av. Providencia 135,Viña del Mar,Valparaíso
+NIF-CHI-VAL-1,1540,CP-3681,Estanco Valparaíso 1,Calle Bandera 1223,Valparaíso,Valparaíso
+NIF-CHI-VAL-2,7067,CP-7245,Estanco Valparaíso 2,Calle Bandera 1383,Valparaíso,Valparaíso
+NIF-CHI-VAL-3,1408,CP-9590,Estanco Valparaíso 3,Av. Libertador B. O'Higgins 768,Valparaíso,Valparaíso
+NIF-CHI-VAL-4,6086,CP-4655,Estanco Valparaíso 4,Av. Apoquindo 1919,Valparaíso,Valparaíso
+NIF-CHI-VAL-5,4837,CP-1328,Estanco Valparaíso 5,Av. Libertador B. O'Higgins 1787,Valparaíso,Valparaíso
+NIF-CHI-VAL-6,7857,CP-5273,Estanco Valparaíso 6,Av. Libertador B. O'Higgins 726,Valparaíso,Valparaíso
+NIF-CHI-VAL-7,6413,CP-7197,Estanco Valparaíso 7,Av. Providencia 744,Valparaíso,Valparaíso
+NIF-CHI-VAL-8,6375,CP-8913,Estanco Valparaíso 8,Av. Apoquindo 750,Valparaíso,Valparaíso
+NIF-CHI-VAL-9,7677,CP-6927,Estanco Valparaíso 9,Av. Apoquindo 660,Valparaíso,Valparaíso
+NIF-CHI-VAL-10,2879,CP-9582,Estanco Valparaíso 10,Av. Providencia 1238,Valparaíso,Valparaíso
+NIF-CHI-VAL-11,2416,CP-9340,Estanco Valparaíso 11,Calle Ahumada 67,Valparaíso,Valparaíso
+NIF-CHI-VAL-12,9229,CP-2328,Estanco Valparaíso 12,Av. Libertador B. O'Higgins 316,Valparaíso,Valparaíso
+NIF-CHI-VAL-13,9286,CP-8485,Estanco Valparaíso 13,Calle Bandera 1497,Valparaíso,Valparaíso
+NIF-CHI-VAL-14,6513,CP-2009,Estanco Valparaíso 14,Av. Libertador B. O'Higgins 1532,Valparaíso,Valparaíso
+NIF-CHI-VAL-15,9712,CP-3801,Estanco Valparaíso 15,Av. Providencia 239,Valparaíso,Valparaíso
+NIF-CHI-QUI-1,9935,CP-3374,Estanco Quilpué 1,Calle Ahumada 148,Quilpué,Valparaíso
+NIF-CHI-QUI-2,8780,CP-6916,Estanco Quilpué 2,Calle Ahumada 701,Quilpué,Valparaíso
+NIF-CHI-QUI-3,3325,CP-9522,Estanco Quilpué 3,Av. Libertador B. O'Higgins 1625,Quilpué,Valparaíso
+NIF-CHI-QUI-4,3425,CP-7349,Estanco Quilpué 4,Calle Ahumada 971,Quilpué,Valparaíso
+NIF-CHI-QUI-5,6471,CP-5540,Estanco Quilpué 5,Calle Ahumada 721,Quilpué,Valparaíso
+NIF-CHI-QUI-6,8637,CP-9972,Estanco Quilpué 6,Calle Bandera 1545,Quilpué,Valparaíso
+NIF-CHI-QUI-7,1081,CP-7690,Estanco Quilpué 7,Av. Apoquindo 1221,Quilpué,Valparaíso
+NIF-CHI-QUI-8,6067,CP-3902,Estanco Quilpué 8,Av. Providencia 1174,Quilpué,Valparaíso
+NIF-CHI-QUI-9,3130,CP-7559,Estanco Quilpué 9,Av. Providencia 1995,Quilpué,Valparaíso
+NIF-CHI-QUI-10,6654,CP-1153,Estanco Quilpué 10,Av. Apoquindo 312,Quilpué,Valparaíso
+NIF-CHI-QUI-11,8585,CP-5774,Estanco Quilpué 11,Av. Libertador B. O'Higgins 1933,Quilpué,Valparaíso
+NIF-CHI-QUI-12,5271,CP-6225,Estanco Quilpué 12,Calle Ahumada 1693,Quilpué,Valparaíso
+NIF-CHI-QUI-13,7059,CP-5148,Estanco Quilpué 13,Av. Libertador B. O'Higgins 781,Quilpué,Valparaíso
+NIF-CHI-QUI-14,8208,CP-4130,Estanco Quilpué 14,Av. Apoquindo 1236,Quilpué,Valparaíso
+NIF-CHI-QUI-15,9821,CP-8736,Estanco Quilpué 15,Calle Ahumada 308,Quilpué,Valparaíso
+NIF-CHI-VIL-1,3322,CP-4378,Estanco Villa Alemana 1,Av. Apoquindo 642,Villa Alemana,Valparaíso
+NIF-CHI-VIL-2,3042,CP-6846,Estanco Villa Alemana 2,Av. Apoquindo 1105,Villa Alemana,Valparaíso
+NIF-CHI-VIL-3,4545,CP-1153,Estanco Villa Alemana 3,Calle Ahumada 850,Villa Alemana,Valparaíso
+NIF-CHI-VIL-4,6767,CP-6949,Estanco Villa Alemana 4,Av. Apoquindo 1178,Villa Alemana,Valparaíso
+NIF-CHI-VIL-5,8323,CP-8143,Estanco Villa Alemana 5,Calle Ahumada 1816,Villa Alemana,Valparaíso
+NIF-CHI-VIL-6,4801,CP-1459,Estanco Villa Alemana 6,Calle Ahumada 473,Villa Alemana,Valparaíso
+NIF-CHI-VIL-7,3300,CP-1443,Estanco Villa Alemana 7,Calle Bandera 356,Villa Alemana,Valparaíso
+NIF-CHI-VIL-8,6112,CP-5716,Estanco Villa Alemana 8,Av. Apoquindo 905,Villa Alemana,Valparaíso
+NIF-CHI-VIL-9,6432,CP-2863,Estanco Villa Alemana 9,Av. Libertador B. O'Higgins 200,Villa Alemana,Valparaíso
+NIF-CHI-VIL-10,3484,CP-8901,Estanco Villa Alemana 10,Calle Bandera 486,Villa Alemana,Valparaíso
+NIF-CHI-VIL-11,4729,CP-6252,Estanco Villa Alemana 11,Calle Ahumada 917,Villa Alemana,Valparaíso
+NIF-CHI-VIL-12,3682,CP-2796,Estanco Villa Alemana 12,Calle Ahumada 541,Villa Alemana,Valparaíso
+NIF-CHI-VIL-13,2920,CP-2321,Estanco Villa Alemana 13,Av. Providencia 855,Villa Alemana,Valparaíso
+NIF-CHI-VIL-14,8654,CP-4860,Estanco Villa Alemana 14,Av. Libertador B. O'Higgins 241,Villa Alemana,Valparaíso
+NIF-CHI-VIL-15,4929,CP-1513,Estanco Villa Alemana 15,Av. Apoquindo 1010,Villa Alemana,Valparaíso
+NIF-CHI-SAN-1,9190,CP-2888,Estanco San Antonio 1,Calle Ahumada 1833,San Antonio,Valparaíso
+NIF-CHI-SAN-2,9757,CP-2422,Estanco San Antonio 2,Av. Apoquindo 639,San Antonio,Valparaíso
+NIF-CHI-SAN-3,5502,CP-9080,Estanco San Antonio 3,Av. Apoquindo 1667,San Antonio,Valparaíso
+NIF-CHI-SAN-4,1895,CP-6551,Estanco San Antonio 4,Av. Providencia 1495,San Antonio,Valparaíso
+NIF-CHI-SAN-5,3426,CP-1553,Estanco San Antonio 5,Av. Providencia 70,San Antonio,Valparaíso
+NIF-CHI-SAN-6,7882,CP-5983,Estanco San Antonio 6,Av. Libertador B. O'Higgins 1360,San Antonio,Valparaíso
+NIF-CHI-SAN-7,7078,CP-3057,Estanco San Antonio 7,Av. Apoquindo 905,San Antonio,Valparaíso
+NIF-CHI-SAN-8,2716,CP-2602,Estanco San Antonio 8,Av. Providencia 1168,San Antonio,Valparaíso
+NIF-CHI-SAN-9,8589,CP-3657,Estanco San Antonio 9,Calle Bandera 1882,San Antonio,Valparaíso
+NIF-CHI-SAN-10,3836,CP-6704,Estanco San Antonio 10,Av. Libertador B. O'Higgins 1218,San Antonio,Valparaíso
+NIF-CHI-SAN-11,9497,CP-3482,Estanco San Antonio 11,Av. Libertador B. O'Higgins 1927,San Antonio,Valparaíso
+NIF-CHI-SAN-12,2078,CP-5142,Estanco San Antonio 12,Calle Ahumada 118,San Antonio,Valparaíso
+NIF-CHI-SAN-13,8008,CP-4824,Estanco San Antonio 13,Av. Apoquindo 746,San Antonio,Valparaíso
+NIF-CHI-SAN-14,4365,CP-7626,Estanco San Antonio 14,Av. Libertador B. O'Higgins 1358,San Antonio,Valparaíso
+NIF-CHI-SAN-15,4956,CP-2279,Estanco San Antonio 15,Calle Ahumada 1788,San Antonio,Valparaíso
+NIF-ARG-LA -1,8348,CP-3676,Estanco La Plata 1,Av. de Mayo 672,La Plata,Buenos Aires
+NIF-ARG-LA -2,6347,CP-1279,Estanco La Plata 2,Av. de Mayo 706,La Plata,Buenos Aires
+NIF-ARG-LA -3,2824,CP-1109,Estanco La Plata 3,Av. Santa Fe 311,La Plata,Buenos Aires
+NIF-ARG-LA -4,4996,CP-9630,Estanco La Plata 4,Av. Santa Fe 787,La Plata,Buenos Aires
+NIF-ARG-LA -5,7098,CP-2358,Estanco La Plata 5,Calle Lavalle 1506,La Plata,Buenos Aires
+NIF-ARG-LA -6,5421,CP-5351,Estanco La Plata 6,Av. de Mayo 581,La Plata,Buenos Aires
+NIF-ARG-LA -7,4277,CP-1829,Estanco La Plata 7,Av. de Mayo 1072,La Plata,Buenos Aires
+NIF-ARG-LA -8,4875,CP-8380,Estanco La Plata 8,Av. Corrientes 776,La Plata,Buenos Aires
+NIF-ARG-LA -9,6118,CP-1277,Estanco La Plata 9,Av. Corrientes 600,La Plata,Buenos Aires
+NIF-ARG-LA -10,5491,CP-7616,Estanco La Plata 10,Av. Corrientes 662,La Plata,Buenos Aires
+NIF-ARG-LA -11,4224,CP-6627,Estanco La Plata 11,Calle Florida 959,La Plata,Buenos Aires
+NIF-ARG-LA -12,8542,CP-9094,Estanco La Plata 12,Calle Lavalle 236,La Plata,Buenos Aires
+NIF-ARG-LA -13,8845,CP-5856,Estanco La Plata 13,Av. Corrientes 1560,La Plata,Buenos Aires
+NIF-ARG-LA -14,5798,CP-3508,Estanco La Plata 14,Av. de Mayo 560,La Plata,Buenos Aires
+NIF-ARG-LA -15,3185,CP-7321,Estanco La Plata 15,Av. de Mayo 1163,La Plata,Buenos Aires
+NIF-ARG-MAR-1,3092,CP-8947,Estanco Mar del Plata 1,Av. de Mayo 1689,Mar del Plata,Buenos Aires
+NIF-ARG-MAR-2,9503,CP-8759,Estanco Mar del Plata 2,Calle Lavalle 195,Mar del Plata,Buenos Aires
+NIF-ARG-MAR-3,3641,CP-1259,Estanco Mar del Plata 3,Av. de Mayo 1072,Mar del Plata,Buenos Aires
+NIF-ARG-MAR-4,8579,CP-7825,Estanco Mar del Plata 4,Calle Lavalle 96,Mar del Plata,Buenos Aires
+NIF-ARG-MAR-5,4774,CP-9260,Estanco Mar del Plata 5,Av. de Mayo 656,Mar del Plata,Buenos Aires
+NIF-ARG-MAR-6,2374,CP-4059,Estanco Mar del Plata 6,Av. Santa Fe 70,Mar del Plata,Buenos Aires
+NIF-ARG-MAR-7,5725,CP-3540,Estanco Mar del Plata 7,Calle Lavalle 991,Mar del Plata,Buenos Aires
+NIF-ARG-MAR-8,3259,CP-4584,Estanco Mar del Plata 8,Calle Lavalle 1925,Mar del Plata,Buenos Aires
+NIF-ARG-MAR-9,1861,CP-5785,Estanco Mar del Plata 9,Av. Santa Fe 1553,Mar del Plata,Buenos Aires
+NIF-ARG-MAR-10,6437,CP-2018,Estanco Mar del Plata 10,Av. Santa Fe 1974,Mar del Plata,Buenos Aires
+NIF-ARG-MAR-11,3079,CP-9422,Estanco Mar del Plata 11,Calle Lavalle 511,Mar del Plata,Buenos Aires
+NIF-ARG-MAR-12,9680,CP-3129,Estanco Mar del Plata 12,Av. Corrientes 1341,Mar del Plata,Buenos Aires
+NIF-ARG-MAR-13,3537,CP-9051,Estanco Mar del Plata 13,Av. de Mayo 1514,Mar del Plata,Buenos Aires
+NIF-ARG-MAR-14,8219,CP-6862,Estanco Mar del Plata 14,Av. Corrientes 521,Mar del Plata,Buenos Aires
+NIF-ARG-MAR-15,5399,CP-9851,Estanco Mar del Plata 15,Av. de Mayo 620,Mar del Plata,Buenos Aires
+NIF-ARG-QUI-1,9695,CP-3299,Estanco Quilmes 1,Av. Corrientes 1285,Quilmes,Buenos Aires
+NIF-ARG-QUI-2,9607,CP-4676,Estanco Quilmes 2,Calle Florida 1172,Quilmes,Buenos Aires
+NIF-ARG-QUI-3,3340,CP-2702,Estanco Quilmes 3,Calle Florida 1730,Quilmes,Buenos Aires
+NIF-ARG-QUI-4,6272,CP-8907,Estanco Quilmes 4,Av. Santa Fe 889,Quilmes,Buenos Aires
+NIF-ARG-QUI-5,6465,CP-8185,Estanco Quilmes 5,Calle Lavalle 958,Quilmes,Buenos Aires
+NIF-ARG-QUI-6,4241,CP-4017,Estanco Quilmes 6,Av. Santa Fe 1325,Quilmes,Buenos Aires
+NIF-ARG-QUI-7,5781,CP-5099,Estanco Quilmes 7,Calle Lavalle 614,Quilmes,Buenos Aires
+NIF-ARG-QUI-8,9660,CP-6495,Estanco Quilmes 8,Calle Florida 177,Quilmes,Buenos Aires
+NIF-ARG-QUI-9,2553,CP-8971,Estanco Quilmes 9,Av. Santa Fe 711,Quilmes,Buenos Aires
+NIF-ARG-QUI-10,9454,CP-6910,Estanco Quilmes 10,Av. Corrientes 1213,Quilmes,Buenos Aires
+NIF-ARG-QUI-11,5704,CP-3307,Estanco Quilmes 11,Calle Florida 200,Quilmes,Buenos Aires
+NIF-ARG-QUI-12,3498,CP-8716,Estanco Quilmes 12,Av. Corrientes 1982,Quilmes,Buenos Aires
+NIF-ARG-QUI-13,2643,CP-6193,Estanco Quilmes 13,Av. Santa Fe 408,Quilmes,Buenos Aires
+NIF-ARG-QUI-14,2664,CP-1018,Estanco Quilmes 14,Av. Santa Fe 1717,Quilmes,Buenos Aires
+NIF-ARG-QUI-15,6661,CP-6461,Estanco Quilmes 15,Av. de Mayo 1263,Quilmes,Buenos Aires
+NIF-ARG-AVE-1,7204,CP-3507,Estanco Avellaneda 1,Av. Corrientes 681,Avellaneda,Buenos Aires
+NIF-ARG-AVE-2,7203,CP-4160,Estanco Avellaneda 2,Av. Corrientes 1226,Avellaneda,Buenos Aires
+NIF-ARG-AVE-3,7448,CP-7410,Estanco Avellaneda 3,Av. de Mayo 320,Avellaneda,Buenos Aires
+NIF-ARG-AVE-4,9025,CP-6295,Estanco Avellaneda 4,Calle Florida 1575,Avellaneda,Buenos Aires
+NIF-ARG-AVE-5,4554,CP-9686,Estanco Avellaneda 5,Calle Lavalle 195,Avellaneda,Buenos Aires
+NIF-ARG-AVE-6,3462,CP-3578,Estanco Avellaneda 6,Calle Lavalle 192,Avellaneda,Buenos Aires
+NIF-ARG-AVE-7,5389,CP-2272,Estanco Avellaneda 7,Calle Lavalle 868,Avellaneda,Buenos Aires
+NIF-ARG-AVE-8,1106,CP-5012,Estanco Avellaneda 8,Av. Corrientes 1771,Avellaneda,Buenos Aires
+NIF-ARG-AVE-9,1430,CP-4243,Estanco Avellaneda 9,Av. Corrientes 1858,Avellaneda,Buenos Aires
+NIF-ARG-AVE-10,4632,CP-3219,Estanco Avellaneda 10,Av. Santa Fe 1048,Avellaneda,Buenos Aires
+NIF-ARG-AVE-11,7371,CP-2939,Estanco Avellaneda 11,Av. Corrientes 1380,Avellaneda,Buenos Aires
+NIF-ARG-AVE-12,3564,CP-4263,Estanco Avellaneda 12,Av. de Mayo 983,Avellaneda,Buenos Aires
+NIF-ARG-AVE-13,3097,CP-7903,Estanco Avellaneda 13,Av. Corrientes 607,Avellaneda,Buenos Aires
+NIF-ARG-AVE-14,7512,CP-4865,Estanco Avellaneda 14,Av. Santa Fe 1060,Avellaneda,Buenos Aires
+NIF-ARG-AVE-15,1358,CP-7639,Estanco Avellaneda 15,Av. Corrientes 1973,Avellaneda,Buenos Aires
+NIF-ARG-LAN-1,6657,CP-8327,Estanco Lanús 1,Av. de Mayo 191,Lanús,Buenos Aires
+NIF-ARG-LAN-2,5190,CP-9862,Estanco Lanús 2,Calle Florida 970,Lanús,Buenos Aires
+NIF-ARG-LAN-3,5717,CP-7371,Estanco Lanús 3,Calle Florida 42,Lanús,Buenos Aires
+NIF-ARG-LAN-4,9817,CP-5639,Estanco Lanús 4,Calle Florida 1573,Lanús,Buenos Aires
+NIF-ARG-LAN-5,8027,CP-5326,Estanco Lanús 5,Calle Lavalle 212,Lanús,Buenos Aires
+NIF-ARG-LAN-6,5225,CP-2429,Estanco Lanús 6,Av. Santa Fe 1233,Lanús,Buenos Aires
+NIF-ARG-LAN-7,9627,CP-1832,Estanco Lanús 7,Av. de Mayo 334,Lanús,Buenos Aires
+NIF-ARG-LAN-8,5574,CP-7513,Estanco Lanús 8,Av. Corrientes 302,Lanús,Buenos Aires
+NIF-ARG-LAN-9,3842,CP-3574,Estanco Lanús 9,Calle Florida 1153,Lanús,Buenos Aires
+NIF-ARG-LAN-10,5948,CP-7083,Estanco Lanús 10,Calle Lavalle 521,Lanús,Buenos Aires
+NIF-ARG-LAN-11,6704,CP-8758,Estanco Lanús 11,Av. de Mayo 1868,Lanús,Buenos Aires
+NIF-ARG-LAN-12,5713,CP-3241,Estanco Lanús 12,Calle Lavalle 1380,Lanús,Buenos Aires
+NIF-ARG-LAN-13,8369,CP-7068,Estanco Lanús 13,Av. de Mayo 1119,Lanús,Buenos Aires
+NIF-ARG-LAN-14,4232,CP-5963,Estanco Lanús 14,Av. de Mayo 1806,Lanús,Buenos Aires
+NIF-ARG-LAN-15,7603,CP-3731,Estanco Lanús 15,Av. Corrientes 993,Lanús,Buenos Aires
+NIF-ARG-RIO-1,8422,CP-6506,Estanco Rio Cuarto 1,Av. de Mayo 934,Rio Cuarto,Córdoba
+NIF-ARG-RIO-2,6864,CP-4992,Estanco Rio Cuarto 2,Calle Florida 1767,Rio Cuarto,Córdoba
+NIF-ARG-RIO-3,3093,CP-6267,Estanco Rio Cuarto 3,Av. Santa Fe 830,Rio Cuarto,Córdoba
+NIF-ARG-RIO-4,9569,CP-5336,Estanco Rio Cuarto 4,Av. de Mayo 910,Rio Cuarto,Córdoba
+NIF-ARG-RIO-5,8162,CP-4975,Estanco Rio Cuarto 5,Av. Santa Fe 1817,Rio Cuarto,Córdoba
+NIF-ARG-RIO-6,6894,CP-8152,Estanco Rio Cuarto 6,Av. Santa Fe 1836,Rio Cuarto,Córdoba
+NIF-ARG-RIO-7,4439,CP-2072,Estanco Rio Cuarto 7,Calle Lavalle 1107,Rio Cuarto,Córdoba
+NIF-ARG-RIO-8,7832,CP-8244,Estanco Rio Cuarto 8,Calle Florida 1139,Rio Cuarto,Córdoba
+NIF-ARG-RIO-9,9164,CP-9085,Estanco Rio Cuarto 9,Av. Santa Fe 213,Rio Cuarto,Córdoba
+NIF-ARG-RIO-10,9924,CP-6145,Estanco Rio Cuarto 10,Calle Florida 804,Rio Cuarto,Córdoba
+NIF-ARG-RIO-11,9541,CP-4854,Estanco Rio Cuarto 11,Av. Santa Fe 255,Rio Cuarto,Córdoba
+NIF-ARG-RIO-12,5864,CP-1997,Estanco Rio Cuarto 12,Calle Florida 1687,Rio Cuarto,Córdoba
+NIF-ARG-RIO-13,3667,CP-7438,Estanco Rio Cuarto 13,Av. Corrientes 38,Rio Cuarto,Córdoba
+NIF-ARG-RIO-14,4763,CP-1488,Estanco Rio Cuarto 14,Calle Florida 1582,Rio Cuarto,Córdoba
+NIF-ARG-RIO-15,6459,CP-8123,Estanco Rio Cuarto 15,Calle Florida 1155,Rio Cuarto,Córdoba
+NIF-ARG-VIL-1,4155,CP-6877,Estanco Villa María 1,Av. Santa Fe 254,Villa María,Córdoba
+NIF-ARG-VIL-2,7751,CP-4663,Estanco Villa María 2,Av. Santa Fe 1346,Villa María,Córdoba
+NIF-ARG-VIL-3,7514,CP-6492,Estanco Villa María 3,Calle Lavalle 1208,Villa María,Córdoba
+NIF-ARG-VIL-4,8729,CP-7174,Estanco Villa María 4,Av. Santa Fe 360,Villa María,Córdoba
+NIF-ARG-VIL-5,5706,CP-1786,Estanco Villa María 5,Calle Florida 1570,Villa María,Córdoba
+NIF-ARG-VIL-6,9097,CP-1671,Estanco Villa María 6,Av. Santa Fe 1742,Villa María,Córdoba
+NIF-ARG-VIL-7,7695,CP-6275,Estanco Villa María 7,Calle Florida 278,Villa María,Córdoba
+NIF-ARG-VIL-8,2215,CP-4899,Estanco Villa María 8,Av. Santa Fe 418,Villa María,Córdoba
+NIF-ARG-VIL-9,3883,CP-5618,Estanco Villa María 9,Calle Lavalle 1555,Villa María,Córdoba
+NIF-ARG-VIL-10,5500,CP-7298,Estanco Villa María 10,Av. Corrientes 1935,Villa María,Córdoba
+NIF-ARG-VIL-11,2508,CP-4821,Estanco Villa María 11,Calle Florida 1455,Villa María,Córdoba
+NIF-ARG-VIL-12,1576,CP-4775,Estanco Villa María 12,Av. Santa Fe 1894,Villa María,Córdoba
+NIF-ARG-VIL-13,1056,CP-2774,Estanco Villa María 13,Calle Lavalle 640,Villa María,Córdoba
+NIF-ARG-VIL-14,9748,CP-3864,Estanco Villa María 14,Av. de Mayo 984,Villa María,Córdoba
+NIF-ARG-VIL-15,9955,CP-6444,Estanco Villa María 15,Av. de Mayo 994,Villa María,Córdoba
+NIF-ARG-CAR-1,1117,CP-1784,Estanco Carlos Paz 1,Av. Corrientes 1530,Carlos Paz,Córdoba
+NIF-ARG-CAR-2,5583,CP-7111,Estanco Carlos Paz 2,Calle Lavalle 1851,Carlos Paz,Córdoba
+NIF-ARG-CAR-3,9952,CP-8332,Estanco Carlos Paz 3,Calle Florida 249,Carlos Paz,Córdoba
+NIF-ARG-CAR-4,9601,CP-6739,Estanco Carlos Paz 4,Av. Santa Fe 1524,Carlos Paz,Córdoba
+NIF-ARG-CAR-5,7405,CP-9488,Estanco Carlos Paz 5,Calle Florida 971,Carlos Paz,Córdoba
+NIF-ARG-CAR-6,4013,CP-7428,Estanco Carlos Paz 6,Calle Lavalle 614,Carlos Paz,Córdoba
+NIF-ARG-CAR-7,9217,CP-8017,Estanco Carlos Paz 7,Av. de Mayo 1677,Carlos Paz,Córdoba
+NIF-ARG-CAR-8,1103,CP-2441,Estanco Carlos Paz 8,Calle Florida 811,Carlos Paz,Córdoba
+NIF-ARG-CAR-9,5813,CP-8601,Estanco Carlos Paz 9,Av. Corrientes 936,Carlos Paz,Córdoba
+NIF-ARG-CAR-10,7683,CP-5946,Estanco Carlos Paz 10,Av. de Mayo 60,Carlos Paz,Córdoba
+NIF-ARG-CAR-11,2090,CP-2891,Estanco Carlos Paz 11,Calle Florida 1164,Carlos Paz,Córdoba
+NIF-ARG-CAR-12,7808,CP-7618,Estanco Carlos Paz 12,Av. Corrientes 1708,Carlos Paz,Córdoba
+NIF-ARG-CAR-13,3362,CP-3409,Estanco Carlos Paz 13,Av. de Mayo 387,Carlos Paz,Córdoba
+NIF-ARG-CAR-14,5815,CP-8895,Estanco Carlos Paz 14,Av. Corrientes 1581,Carlos Paz,Córdoba
+NIF-ARG-CAR-15,1890,CP-3962,Estanco Carlos Paz 15,Av. Corrientes 1604,Carlos Paz,Córdoba
+NIF-ARG-ALT-1,2826,CP-6240,Estanco Alta Gracia 1,Av. Corrientes 1396,Alta Gracia,Córdoba
+NIF-ARG-ALT-2,2174,CP-6499,Estanco Alta Gracia 2,Av. Corrientes 603,Alta Gracia,Córdoba
+NIF-ARG-ALT-3,7426,CP-6813,Estanco Alta Gracia 3,Calle Lavalle 90,Alta Gracia,Córdoba
+NIF-ARG-ALT-4,9327,CP-6243,Estanco Alta Gracia 4,Calle Florida 1137,Alta Gracia,Córdoba
+NIF-ARG-ALT-5,4954,CP-2663,Estanco Alta Gracia 5,Av. de Mayo 925,Alta Gracia,Córdoba
+NIF-ARG-ALT-6,7599,CP-1788,Estanco Alta Gracia 6,Av. Santa Fe 1298,Alta Gracia,Córdoba
+NIF-ARG-ALT-7,6379,CP-5311,Estanco Alta Gracia 7,Calle Lavalle 1639,Alta Gracia,Córdoba
+NIF-ARG-ALT-8,5882,CP-3900,Estanco Alta Gracia 8,Av. Santa Fe 694,Alta Gracia,Córdoba
+NIF-ARG-ALT-9,5461,CP-7987,Estanco Alta Gracia 9,Av. Santa Fe 874,Alta Gracia,Córdoba
+NIF-ARG-ALT-10,5748,CP-2172,Estanco Alta Gracia 10,Av. Santa Fe 89,Alta Gracia,Córdoba
+NIF-ARG-ALT-11,9598,CP-7597,Estanco Alta Gracia 11,Av. de Mayo 1613,Alta Gracia,Córdoba
+NIF-ARG-ALT-12,8689,CP-2889,Estanco Alta Gracia 12,Calle Lavalle 994,Alta Gracia,Córdoba
+NIF-ARG-ALT-13,7418,CP-2303,Estanco Alta Gracia 13,Calle Lavalle 902,Alta Gracia,Córdoba
+NIF-ARG-ALT-14,7937,CP-7176,Estanco Alta Gracia 14,Av. Santa Fe 1830,Alta Gracia,Córdoba
+NIF-ARG-ALT-15,2762,CP-9739,Estanco Alta Gracia 15,Calle Florida 831,Alta Gracia,Córdoba
+NIF-ARG-JES-1,8849,CP-1922,Estanco Jesús María 1,Av. Santa Fe 329,Jesús María,Córdoba
+NIF-ARG-JES-2,5541,CP-4875,Estanco Jesús María 2,Calle Florida 854,Jesús María,Córdoba
+NIF-ARG-JES-3,9944,CP-9036,Estanco Jesús María 3,Calle Florida 797,Jesús María,Córdoba
+NIF-ARG-JES-4,3446,CP-6132,Estanco Jesús María 4,Calle Lavalle 254,Jesús María,Córdoba
+NIF-ARG-JES-5,3766,CP-1448,Estanco Jesús María 5,Calle Lavalle 1934,Jesús María,Córdoba
+NIF-ARG-JES-6,7865,CP-1189,Estanco Jesús María 6,Calle Florida 1336,Jesús María,Córdoba
+NIF-ARG-JES-7,3103,CP-4080,Estanco Jesús María 7,Av. Corrientes 74,Jesús María,Córdoba
+NIF-ARG-JES-8,4985,CP-1600,Estanco Jesús María 8,Calle Florida 821,Jesús María,Córdoba
+NIF-ARG-JES-9,2103,CP-4445,Estanco Jesús María 9,Av. Corrientes 1410,Jesús María,Córdoba
+NIF-ARG-JES-10,6294,CP-2791,Estanco Jesús María 10,Av. de Mayo 1567,Jesús María,Córdoba
+NIF-ARG-JES-11,4372,CP-5465,Estanco Jesús María 11,Av. Santa Fe 187,Jesús María,Córdoba
+NIF-ARG-JES-12,7260,CP-4880,Estanco Jesús María 12,Av. de Mayo 1536,Jesús María,Córdoba
+NIF-ARG-JES-13,2581,CP-6264,Estanco Jesús María 13,Calle Lavalle 406,Jesús María,Córdoba
+NIF-ARG-JES-14,9427,CP-7653,Estanco Jesús María 14,Av. de Mayo 543,Jesús María,Córdoba
+NIF-ARG-JES-15,8874,CP-7641,Estanco Jesús María 15,Calle Lavalle 1808,Jesús María,Córdoba
+NIF-REI-CRO-1,9394,CP-8929,Estanco Croydon 1,Abbey Road 380,Croydon,Greater London
+NIF-REI-CRO-2,7252,CP-9195,Estanco Croydon 2,Oxford Street 1799,Croydon,Greater London
+NIF-REI-CRO-3,4462,CP-7254,Estanco Croydon 3,Abbey Road 1037,Croydon,Greater London
+NIF-REI-CRO-4,7888,CP-2426,Estanco Croydon 4,Oxford Street 1804,Croydon,Greater London
+NIF-REI-CRO-5,1776,CP-6638,Estanco Croydon 5,High Street 494,Croydon,Greater London
+NIF-REI-CRO-6,2364,CP-3024,Estanco Croydon 6,Baker Street 1147,Croydon,Greater London
+NIF-REI-CRO-7,9552,CP-5832,Estanco Croydon 7,High Street 184,Croydon,Greater London
+NIF-REI-CRO-8,7209,CP-4008,Estanco Croydon 8,Baker Street 46,Croydon,Greater London
+NIF-REI-CRO-9,8284,CP-6479,Estanco Croydon 9,Baker Street 46,Croydon,Greater London
+NIF-REI-CRO-10,7288,CP-3701,Estanco Croydon 10,Oxford Street 1184,Croydon,Greater London
+NIF-REI-CRO-11,5093,CP-4896,Estanco Croydon 11,Oxford Street 393,Croydon,Greater London
+NIF-REI-CRO-12,7108,CP-8070,Estanco Croydon 12,Baker Street 616,Croydon,Greater London
+NIF-REI-CRO-13,7032,CP-2462,Estanco Croydon 13,High Street 1492,Croydon,Greater London
+NIF-REI-CRO-14,4652,CP-2727,Estanco Croydon 14,Abbey Road 1035,Croydon,Greater London
+NIF-REI-CRO-15,7149,CP-2257,Estanco Croydon 15,Abbey Road 723,Croydon,Greater London
+NIF-REI-BAR-1,2564,CP-9046,Estanco Barnet 1,High Street 511,Barnet,Greater London
+NIF-REI-BAR-2,6439,CP-3522,Estanco Barnet 2,Baker Street 1970,Barnet,Greater London
+NIF-REI-BAR-3,7947,CP-5648,Estanco Barnet 3,Oxford Street 475,Barnet,Greater London
+NIF-REI-BAR-4,1837,CP-4943,Estanco Barnet 4,Oxford Street 1393,Barnet,Greater London
+NIF-REI-BAR-5,2999,CP-6125,Estanco Barnet 5,Regent Street 1764,Barnet,Greater London
+NIF-REI-BAR-6,6378,CP-8510,Estanco Barnet 6,High Street 1262,Barnet,Greater London
+NIF-REI-BAR-7,7000,CP-2574,Estanco Barnet 7,High Street 409,Barnet,Greater London
+NIF-REI-BAR-8,3975,CP-9010,Estanco Barnet 8,Abbey Road 480,Barnet,Greater London
+NIF-REI-BAR-9,7738,CP-2320,Estanco Barnet 9,Baker Street 1422,Barnet,Greater London
+NIF-REI-BAR-10,2448,CP-4208,Estanco Barnet 10,Baker Street 1279,Barnet,Greater London
+NIF-REI-BAR-11,3112,CP-1392,Estanco Barnet 11,Regent Street 1071,Barnet,Greater London
+NIF-REI-BAR-12,2009,CP-4926,Estanco Barnet 12,Oxford Street 1974,Barnet,Greater London
+NIF-REI-BAR-13,6652,CP-6708,Estanco Barnet 13,High Street 184,Barnet,Greater London
+NIF-REI-BAR-14,6179,CP-5760,Estanco Barnet 14,Regent Street 1550,Barnet,Greater London
+NIF-REI-BAR-15,5628,CP-2665,Estanco Barnet 15,High Street 1681,Barnet,Greater London
+NIF-REI-EAL-1,2179,CP-8423,Estanco Ealing 1,Abbey Road 262,Ealing,Greater London
+NIF-REI-EAL-2,5833,CP-3700,Estanco Ealing 2,Abbey Road 139,Ealing,Greater London
+NIF-REI-EAL-3,8350,CP-6901,Estanco Ealing 3,High Street 1813,Ealing,Greater London
+NIF-REI-EAL-4,3863,CP-2593,Estanco Ealing 4,Abbey Road 995,Ealing,Greater London
+NIF-REI-EAL-5,3820,CP-2666,Estanco Ealing 5,Baker Street 135,Ealing,Greater London
+NIF-REI-EAL-6,5622,CP-9984,Estanco Ealing 6,High Street 1586,Ealing,Greater London
+NIF-REI-EAL-7,4984,CP-9859,Estanco Ealing 7,Abbey Road 419,Ealing,Greater London
+NIF-REI-EAL-8,3869,CP-3092,Estanco Ealing 8,Regent Street 324,Ealing,Greater London
+NIF-REI-EAL-9,7067,CP-2784,Estanco Ealing 9,Abbey Road 986,Ealing,Greater London
+NIF-REI-EAL-10,9353,CP-6171,Estanco Ealing 10,Regent Street 43,Ealing,Greater London
+NIF-REI-EAL-11,7330,CP-7197,Estanco Ealing 11,Oxford Street 1494,Ealing,Greater London
+NIF-REI-EAL-12,8569,CP-1598,Estanco Ealing 12,Baker Street 1948,Ealing,Greater London
+NIF-REI-EAL-13,2935,CP-5895,Estanco Ealing 13,Regent Street 603,Ealing,Greater London
+NIF-REI-EAL-14,2130,CP-9175,Estanco Ealing 14,Oxford Street 755,Ealing,Greater London
+NIF-REI-EAL-15,8009,CP-6140,Estanco Ealing 15,Baker Street 1162,Ealing,Greater London
+NIF-REI-BRO-1,6527,CP-2190,Estanco Bromley 1,Abbey Road 279,Bromley,Greater London
+NIF-REI-BRO-2,9177,CP-6321,Estanco Bromley 2,Baker Street 254,Bromley,Greater London
+NIF-REI-BRO-3,7998,CP-9066,Estanco Bromley 3,Baker Street 1701,Bromley,Greater London
+NIF-REI-BRO-4,2145,CP-6359,Estanco Bromley 4,Abbey Road 280,Bromley,Greater London
+NIF-REI-BRO-5,6528,CP-9965,Estanco Bromley 5,Baker Street 1658,Bromley,Greater London
+NIF-REI-BRO-6,8847,CP-8654,Estanco Bromley 6,Regent Street 1584,Bromley,Greater London
+NIF-REI-BRO-7,6979,CP-7057,Estanco Bromley 7,Regent Street 1796,Bromley,Greater London
+NIF-REI-BRO-8,7453,CP-7744,Estanco Bromley 8,Regent Street 1771,Bromley,Greater London
+NIF-REI-BRO-9,7613,CP-4076,Estanco Bromley 9,Baker Street 1186,Bromley,Greater London
+NIF-REI-BRO-10,5126,CP-2754,Estanco Bromley 10,Regent Street 1235,Bromley,Greater London
+NIF-REI-BRO-11,2007,CP-6639,Estanco Bromley 11,Baker Street 1959,Bromley,Greater London
+NIF-REI-BRO-12,2963,CP-3182,Estanco Bromley 12,Baker Street 513,Bromley,Greater London
+NIF-REI-BRO-13,5143,CP-2075,Estanco Bromley 13,Abbey Road 261,Bromley,Greater London
+NIF-REI-BRO-14,6279,CP-8021,Estanco Bromley 14,Regent Street 932,Bromley,Greater London
+NIF-REI-BRO-15,2945,CP-7890,Estanco Bromley 15,Baker Street 511,Bromley,Greater London
+NIF-REI-ENF-1,5870,CP-7964,Estanco Enfield 1,High Street 725,Enfield,Greater London
+NIF-REI-ENF-2,4832,CP-7219,Estanco Enfield 2,Oxford Street 1210,Enfield,Greater London
+NIF-REI-ENF-3,5606,CP-3043,Estanco Enfield 3,Baker Street 144,Enfield,Greater London
+NIF-REI-ENF-4,2814,CP-4464,Estanco Enfield 4,Regent Street 1941,Enfield,Greater London
+NIF-REI-ENF-5,8918,CP-8976,Estanco Enfield 5,Abbey Road 1126,Enfield,Greater London
+NIF-REI-ENF-6,4846,CP-7974,Estanco Enfield 6,Abbey Road 740,Enfield,Greater London
+NIF-REI-ENF-7,6339,CP-8222,Estanco Enfield 7,Abbey Road 135,Enfield,Greater London
+NIF-REI-ENF-8,9129,CP-8740,Estanco Enfield 8,Oxford Street 335,Enfield,Greater London
+NIF-REI-ENF-9,7503,CP-2154,Estanco Enfield 9,Baker Street 1422,Enfield,Greater London
+NIF-REI-ENF-10,1246,CP-5291,Estanco Enfield 10,Abbey Road 1235,Enfield,Greater London
+NIF-REI-ENF-11,6668,CP-7468,Estanco Enfield 11,Oxford Street 1334,Enfield,Greater London
+NIF-REI-ENF-12,7065,CP-2032,Estanco Enfield 12,Abbey Road 1269,Enfield,Greater London
+NIF-REI-ENF-13,3820,CP-3371,Estanco Enfield 13,Abbey Road 606,Enfield,Greater London
+NIF-REI-ENF-14,9304,CP-6050,Estanco Enfield 14,Oxford Street 454,Enfield,Greater London
+NIF-REI-ENF-15,2287,CP-9875,Estanco Enfield 15,Oxford Street 251,Enfield,Greater London
+NIF-REI-COV-1,7295,CP-8881,Estanco Coventry 1,Abbey Road 952,Coventry,West Midlands
+NIF-REI-COV-2,2137,CP-5356,Estanco Coventry 2,Oxford Street 1167,Coventry,West Midlands
+NIF-REI-COV-3,7476,CP-9184,Estanco Coventry 3,Oxford Street 334,Coventry,West Midlands
+NIF-REI-COV-4,4824,CP-7519,Estanco Coventry 4,High Street 1853,Coventry,West Midlands
+NIF-REI-COV-5,5751,CP-5097,Estanco Coventry 5,Oxford Street 588,Coventry,West Midlands
+NIF-REI-COV-6,7353,CP-9157,Estanco Coventry 6,Baker Street 313,Coventry,West Midlands
+NIF-REI-COV-7,7799,CP-2895,Estanco Coventry 7,Baker Street 921,Coventry,West Midlands
+NIF-REI-COV-8,5008,CP-8674,Estanco Coventry 8,Oxford Street 1416,Coventry,West Midlands
+NIF-REI-COV-9,6008,CP-2165,Estanco Coventry 9,Abbey Road 1308,Coventry,West Midlands
+NIF-REI-COV-10,7465,CP-1320,Estanco Coventry 10,Oxford Street 735,Coventry,West Midlands
+NIF-REI-COV-11,5212,CP-3487,Estanco Coventry 11,Abbey Road 705,Coventry,West Midlands
+NIF-REI-COV-12,2838,CP-1912,Estanco Coventry 12,Oxford Street 1422,Coventry,West Midlands
+NIF-REI-COV-13,2132,CP-5722,Estanco Coventry 13,Abbey Road 1802,Coventry,West Midlands
+NIF-REI-COV-14,1637,CP-6783,Estanco Coventry 14,Oxford Street 1237,Coventry,West Midlands
+NIF-REI-COV-15,9028,CP-9787,Estanco Coventry 15,High Street 282,Coventry,West Midlands
+NIF-REI-WOL-1,2799,CP-9947,Estanco Wolverhampton 1,Baker Street 1712,Wolverhampton,West Midlands
+NIF-REI-WOL-2,4626,CP-7653,Estanco Wolverhampton 2,Oxford Street 785,Wolverhampton,West Midlands
+NIF-REI-WOL-3,3009,CP-7686,Estanco Wolverhampton 3,Regent Street 1913,Wolverhampton,West Midlands
+NIF-REI-WOL-4,8031,CP-8323,Estanco Wolverhampton 4,Regent Street 858,Wolverhampton,West Midlands
+NIF-REI-WOL-5,9364,CP-7051,Estanco Wolverhampton 5,Baker Street 1585,Wolverhampton,West Midlands
+NIF-REI-WOL-6,8211,CP-7378,Estanco Wolverhampton 6,High Street 1540,Wolverhampton,West Midlands
+NIF-REI-WOL-7,2119,CP-1175,Estanco Wolverhampton 7,Abbey Road 974,Wolverhampton,West Midlands
+NIF-REI-WOL-8,7484,CP-7488,Estanco Wolverhampton 8,Abbey Road 1528,Wolverhampton,West Midlands
+NIF-REI-WOL-9,9980,CP-5501,Estanco Wolverhampton 9,Baker Street 1901,Wolverhampton,West Midlands
+NIF-REI-WOL-10,6114,CP-3499,Estanco Wolverhampton 10,Regent Street 1247,Wolverhampton,West Midlands
+NIF-REI-WOL-11,9144,CP-4151,Estanco Wolverhampton 11,Oxford Street 424,Wolverhampton,West Midlands
+NIF-REI-WOL-12,8428,CP-4915,Estanco Wolverhampton 12,High Street 1925,Wolverhampton,West Midlands
+NIF-REI-WOL-13,7309,CP-7516,Estanco Wolverhampton 13,Oxford Street 1460,Wolverhampton,West Midlands
+NIF-REI-WOL-14,3354,CP-5388,Estanco Wolverhampton 14,Baker Street 1580,Wolverhampton,West Midlands
+NIF-REI-WOL-15,1978,CP-7010,Estanco Wolverhampton 15,Baker Street 849,Wolverhampton,West Midlands
+NIF-REI-SOL-1,9545,CP-5593,Estanco Solihull 1,Baker Street 1026,Solihull,West Midlands
+NIF-REI-SOL-2,3719,CP-3341,Estanco Solihull 2,High Street 1496,Solihull,West Midlands
+NIF-REI-SOL-3,6954,CP-4577,Estanco Solihull 3,Regent Street 5,Solihull,West Midlands
+NIF-REI-SOL-4,9475,CP-4535,Estanco Solihull 4,Regent Street 1176,Solihull,West Midlands
+NIF-REI-SOL-5,3512,CP-6685,Estanco Solihull 5,High Street 1411,Solihull,West Midlands
+NIF-REI-SOL-6,4927,CP-1349,Estanco Solihull 6,Abbey Road 108,Solihull,West Midlands
+NIF-REI-SOL-7,9069,CP-4921,Estanco Solihull 7,Oxford Street 1860,Solihull,West Midlands
+NIF-REI-SOL-8,9154,CP-8110,Estanco Solihull 8,Baker Street 1026,Solihull,West Midlands
+NIF-REI-SOL-9,9265,CP-7910,Estanco Solihull 9,Regent Street 841,Solihull,West Midlands
+NIF-REI-SOL-10,1068,CP-5367,Estanco Solihull 10,Baker Street 1909,Solihull,West Midlands
+NIF-REI-SOL-11,7050,CP-5138,Estanco Solihull 11,Oxford Street 226,Solihull,West Midlands
+NIF-REI-SOL-12,5856,CP-7835,Estanco Solihull 12,Regent Street 743,Solihull,West Midlands
+NIF-REI-SOL-13,7506,CP-5919,Estanco Solihull 13,Baker Street 269,Solihull,West Midlands
+NIF-REI-SOL-14,7362,CP-9150,Estanco Solihull 14,Oxford Street 781,Solihull,West Midlands
+NIF-REI-SOL-15,3796,CP-6917,Estanco Solihull 15,Regent Street 1580,Solihull,West Midlands
+NIF-REI-SUT-1,3815,CP-4419,Estanco Sutton Coldfield 1,Baker Street 1527,Sutton Coldfield,West Midlands
+NIF-REI-SUT-2,7594,CP-1228,Estanco Sutton Coldfield 2,Abbey Road 1311,Sutton Coldfield,West Midlands
+NIF-REI-SUT-3,8526,CP-3229,Estanco Sutton Coldfield 3,High Street 1091,Sutton Coldfield,West Midlands
+NIF-REI-SUT-4,3152,CP-7058,Estanco Sutton Coldfield 4,Oxford Street 693,Sutton Coldfield,West Midlands
+NIF-REI-SUT-5,3577,CP-4556,Estanco Sutton Coldfield 5,Baker Street 1522,Sutton Coldfield,West Midlands
+NIF-REI-SUT-6,2563,CP-6424,Estanco Sutton Coldfield 6,High Street 918,Sutton Coldfield,West Midlands
+NIF-REI-SUT-7,1706,CP-1048,Estanco Sutton Coldfield 7,Abbey Road 1027,Sutton Coldfield,West Midlands
+NIF-REI-SUT-8,3003,CP-3607,Estanco Sutton Coldfield 8,Baker Street 535,Sutton Coldfield,West Midlands
+NIF-REI-SUT-9,8633,CP-4749,Estanco Sutton Coldfield 9,Abbey Road 84,Sutton Coldfield,West Midlands
+NIF-REI-SUT-10,9614,CP-6669,Estanco Sutton Coldfield 10,High Street 1616,Sutton Coldfield,West Midlands
+NIF-REI-SUT-11,9225,CP-1350,Estanco Sutton Coldfield 11,High Street 1579,Sutton Coldfield,West Midlands
+NIF-REI-SUT-12,6648,CP-3341,Estanco Sutton Coldfield 12,Regent Street 465,Sutton Coldfield,West Midlands
+NIF-REI-SUT-13,6860,CP-8037,Estanco Sutton Coldfield 13,Oxford Street 1316,Sutton Coldfield,West Midlands
+NIF-REI-SUT-14,4247,CP-2947,Estanco Sutton Coldfield 14,Regent Street 1345,Sutton Coldfield,West Midlands
+NIF-REI-SUT-15,2536,CP-8889,Estanco Sutton Coldfield 15,Oxford Street 298,Sutton Coldfield,West Midlands
+NIF-REI-DUD-1,4764,CP-5424,Estanco Dudley 1,Abbey Road 1955,Dudley,West Midlands
+NIF-REI-DUD-2,2931,CP-3269,Estanco Dudley 2,Regent Street 366,Dudley,West Midlands
+NIF-REI-DUD-3,6986,CP-1609,Estanco Dudley 3,High Street 689,Dudley,West Midlands
+NIF-REI-DUD-4,5907,CP-7488,Estanco Dudley 4,Oxford Street 1700,Dudley,West Midlands
+NIF-REI-DUD-5,9619,CP-9821,Estanco Dudley 5,Oxford Street 97,Dudley,West Midlands
+NIF-REI-DUD-6,9975,CP-4911,Estanco Dudley 6,Regent Street 417,Dudley,West Midlands
+NIF-REI-DUD-7,5122,CP-2912,Estanco Dudley 7,Abbey Road 509,Dudley,West Midlands
+NIF-REI-DUD-8,1610,CP-1285,Estanco Dudley 8,Abbey Road 351,Dudley,West Midlands
+NIF-REI-DUD-9,1021,CP-5514,Estanco Dudley 9,Baker Street 1444,Dudley,West Midlands
+NIF-REI-DUD-10,6023,CP-6359,Estanco Dudley 10,Baker Street 933,Dudley,West Midlands
+NIF-REI-DUD-11,8682,CP-1745,Estanco Dudley 11,Abbey Road 400,Dudley,West Midlands
+NIF-REI-DUD-12,2856,CP-1412,Estanco Dudley 12,Regent Street 1350,Dudley,West Midlands
+NIF-REI-DUD-13,2487,CP-3126,Estanco Dudley 13,Oxford Street 150,Dudley,West Midlands
+NIF-REI-DUD-14,2050,CP-7716,Estanco Dudley 14,High Street 285,Dudley,West Midlands
+NIF-REI-DUD-15,4383,CP-7280,Estanco Dudley 15,Abbey Road 1970,Dudley,West Midlands
+NIF-ALE-MUN-1,6719,CP-9016,Estanco Munich 1,Reeperbahn 1358,Munich,Baviera
+NIF-ALE-MUN-2,6747,CP-4665,Estanco Munich 2,Maximilianstraße 283,Munich,Baviera
+NIF-ALE-MUN-3,3103,CP-8638,Estanco Munich 3,Reeperbahn 729,Munich,Baviera
+NIF-ALE-MUN-4,9039,CP-1108,Estanco Munich 4,Königsallee 2000,Munich,Baviera
+NIF-ALE-MUN-5,1669,CP-9869,Estanco Munich 5,Kurfürstendamm 146,Munich,Baviera
+NIF-ALE-MUN-6,7278,CP-5402,Estanco Munich 6,Kurfürstendamm 1965,Munich,Baviera
+NIF-ALE-MUN-7,2315,CP-6044,Estanco Munich 7,Reeperbahn 1232,Munich,Baviera
+NIF-ALE-MUN-8,6636,CP-9214,Estanco Munich 8,Maximilianstraße 1215,Munich,Baviera
+NIF-ALE-MUN-9,8831,CP-9248,Estanco Munich 9,Kurfürstendamm 679,Munich,Baviera
+NIF-ALE-MUN-10,3663,CP-3117,Estanco Munich 10,Maximilianstraße 399,Munich,Baviera
+NIF-ALE-MUN-11,3444,CP-1648,Estanco Munich 11,Königsallee 670,Munich,Baviera
+NIF-ALE-MUN-12,6364,CP-2921,Estanco Munich 12,Königsallee 106,Munich,Baviera
+NIF-ALE-MUN-13,7352,CP-9271,Estanco Munich 13,Unter den Linden 889,Munich,Baviera
+NIF-ALE-MUN-14,8079,CP-7135,Estanco Munich 14,Unter den Linden 1913,Munich,Baviera
+NIF-ALE-MUN-15,9626,CP-9194,Estanco Munich 15,Maximilianstraße 526,Munich,Baviera
+NIF-ALE-NUR-1,3995,CP-1135,Estanco Nuremberg 1,Königsallee 649,Nuremberg,Baviera
+NIF-ALE-NUR-2,1830,CP-9029,Estanco Nuremberg 2,Unter den Linden 316,Nuremberg,Baviera
+NIF-ALE-NUR-3,9269,CP-7266,Estanco Nuremberg 3,Königsallee 337,Nuremberg,Baviera
+NIF-ALE-NUR-4,3584,CP-4395,Estanco Nuremberg 4,Königsallee 1527,Nuremberg,Baviera
+NIF-ALE-NUR-5,2245,CP-1436,Estanco Nuremberg 5,Reeperbahn 1360,Nuremberg,Baviera
+NIF-ALE-NUR-6,7680,CP-6893,Estanco Nuremberg 6,Kurfürstendamm 470,Nuremberg,Baviera
+NIF-ALE-NUR-7,1340,CP-6380,Estanco Nuremberg 7,Unter den Linden 59,Nuremberg,Baviera
+NIF-ALE-NUR-8,9757,CP-2679,Estanco Nuremberg 8,Königsallee 36,Nuremberg,Baviera
+NIF-ALE-NUR-9,7564,CP-5127,Estanco Nuremberg 9,Kurfürstendamm 43,Nuremberg,Baviera
+NIF-ALE-NUR-10,3308,CP-1488,Estanco Nuremberg 10,Reeperbahn 1643,Nuremberg,Baviera
+NIF-ALE-NUR-11,6043,CP-9521,Estanco Nuremberg 11,Maximilianstraße 1697,Nuremberg,Baviera
+NIF-ALE-NUR-12,5641,CP-5525,Estanco Nuremberg 12,Maximilianstraße 379,Nuremberg,Baviera
+NIF-ALE-NUR-13,7057,CP-7638,Estanco Nuremberg 13,Maximilianstraße 1452,Nuremberg,Baviera
+NIF-ALE-NUR-14,8491,CP-7772,Estanco Nuremberg 14,Unter den Linden 1609,Nuremberg,Baviera
+NIF-ALE-NUR-15,9376,CP-1187,Estanco Nuremberg 15,Reeperbahn 1310,Nuremberg,Baviera
+NIF-ALE-AUG-1,7418,CP-8286,Estanco Augsburg 1,Königsallee 208,Augsburg,Baviera
+NIF-ALE-AUG-2,3411,CP-4448,Estanco Augsburg 2,Reeperbahn 1843,Augsburg,Baviera
+NIF-ALE-AUG-3,4416,CP-9131,Estanco Augsburg 3,Unter den Linden 1555,Augsburg,Baviera
+NIF-ALE-AUG-4,8346,CP-8023,Estanco Augsburg 4,Kurfürstendamm 858,Augsburg,Baviera
+NIF-ALE-AUG-5,2324,CP-4314,Estanco Augsburg 5,Reeperbahn 1652,Augsburg,Baviera
+NIF-ALE-AUG-6,2963,CP-7876,Estanco Augsburg 6,Maximilianstraße 387,Augsburg,Baviera
+NIF-ALE-AUG-7,9808,CP-8543,Estanco Augsburg 7,Kurfürstendamm 1848,Augsburg,Baviera
+NIF-ALE-AUG-8,9080,CP-7384,Estanco Augsburg 8,Kurfürstendamm 427,Augsburg,Baviera
+NIF-ALE-AUG-9,7313,CP-6278,Estanco Augsburg 9,Königsallee 427,Augsburg,Baviera
+NIF-ALE-AUG-10,3882,CP-6672,Estanco Augsburg 10,Kurfürstendamm 1177,Augsburg,Baviera
+NIF-ALE-AUG-11,5224,CP-5647,Estanco Augsburg 11,Maximilianstraße 1429,Augsburg,Baviera
+NIF-ALE-AUG-12,5479,CP-6845,Estanco Augsburg 12,Königsallee 585,Augsburg,Baviera
+NIF-ALE-AUG-13,6383,CP-3349,Estanco Augsburg 13,Reeperbahn 1198,Augsburg,Baviera
+NIF-ALE-AUG-14,6318,CP-6663,Estanco Augsburg 14,Unter den Linden 1783,Augsburg,Baviera
+NIF-ALE-AUG-15,6394,CP-7479,Estanco Augsburg 15,Maximilianstraße 1428,Augsburg,Baviera
+NIF-ALE-REG-1,8855,CP-5976,Estanco Regensburg 1,Reeperbahn 152,Regensburg,Baviera
+NIF-ALE-REG-2,1419,CP-5167,Estanco Regensburg 2,Unter den Linden 922,Regensburg,Baviera
+NIF-ALE-REG-3,5666,CP-6027,Estanco Regensburg 3,Unter den Linden 1185,Regensburg,Baviera
+NIF-ALE-REG-4,3156,CP-3892,Estanco Regensburg 4,Reeperbahn 1381,Regensburg,Baviera
+NIF-ALE-REG-5,5345,CP-9931,Estanco Regensburg 5,Königsallee 1222,Regensburg,Baviera
+NIF-ALE-REG-6,3477,CP-6988,Estanco Regensburg 6,Unter den Linden 218,Regensburg,Baviera
+NIF-ALE-REG-7,3040,CP-4595,Estanco Regensburg 7,Unter den Linden 1896,Regensburg,Baviera
+NIF-ALE-REG-8,6137,CP-6885,Estanco Regensburg 8,Unter den Linden 1793,Regensburg,Baviera
+NIF-ALE-REG-9,9877,CP-4486,Estanco Regensburg 9,Kurfürstendamm 1244,Regensburg,Baviera
+NIF-ALE-REG-10,8467,CP-1026,Estanco Regensburg 10,Unter den Linden 1741,Regensburg,Baviera
+NIF-ALE-REG-11,7557,CP-7936,Estanco Regensburg 11,Kurfürstendamm 1316,Regensburg,Baviera
+NIF-ALE-REG-12,9436,CP-2699,Estanco Regensburg 12,Unter den Linden 1640,Regensburg,Baviera
+NIF-ALE-REG-13,5920,CP-5670,Estanco Regensburg 13,Königsallee 1568,Regensburg,Baviera
+NIF-ALE-REG-14,6600,CP-2173,Estanco Regensburg 14,Königsallee 1148,Regensburg,Baviera
+NIF-ALE-REG-15,2399,CP-7702,Estanco Regensburg 15,Reeperbahn 283,Regensburg,Baviera
+NIF-ALE-ING-1,9446,CP-1937,Estanco Ingolstadt 1,Reeperbahn 1504,Ingolstadt,Baviera
+NIF-ALE-ING-2,1641,CP-2425,Estanco Ingolstadt 2,Kurfürstendamm 1127,Ingolstadt,Baviera
+NIF-ALE-ING-3,6887,CP-2302,Estanco Ingolstadt 3,Unter den Linden 1036,Ingolstadt,Baviera
+NIF-ALE-ING-4,9099,CP-5192,Estanco Ingolstadt 4,Maximilianstraße 1811,Ingolstadt,Baviera
+NIF-ALE-ING-5,2884,CP-5231,Estanco Ingolstadt 5,Unter den Linden 402,Ingolstadt,Baviera
+NIF-ALE-ING-6,2485,CP-1702,Estanco Ingolstadt 6,Kurfürstendamm 132,Ingolstadt,Baviera
+NIF-ALE-ING-7,9302,CP-6173,Estanco Ingolstadt 7,Unter den Linden 427,Ingolstadt,Baviera
+NIF-ALE-ING-8,4437,CP-3460,Estanco Ingolstadt 8,Unter den Linden 1182,Ingolstadt,Baviera
+NIF-ALE-ING-9,2992,CP-1190,Estanco Ingolstadt 9,Kurfürstendamm 18,Ingolstadt,Baviera
+NIF-ALE-ING-10,8576,CP-4864,Estanco Ingolstadt 10,Maximilianstraße 1076,Ingolstadt,Baviera
+NIF-ALE-ING-11,4506,CP-2869,Estanco Ingolstadt 11,Kurfürstendamm 321,Ingolstadt,Baviera
+NIF-ALE-ING-12,4497,CP-5548,Estanco Ingolstadt 12,Unter den Linden 1078,Ingolstadt,Baviera
+NIF-ALE-ING-13,6831,CP-8148,Estanco Ingolstadt 13,Unter den Linden 251,Ingolstadt,Baviera
+NIF-ALE-ING-14,7965,CP-2982,Estanco Ingolstadt 14,Reeperbahn 1942,Ingolstadt,Baviera
+NIF-ALE-ING-15,2844,CP-1694,Estanco Ingolstadt 15,Kurfürstendamm 443,Ingolstadt,Baviera
+NIF-ALE-ALT-1,9672,CP-1895,Estanco Altona 1,Königsallee 1261,Altona,Hamburgo
+NIF-ALE-ALT-2,3765,CP-1962,Estanco Altona 2,Unter den Linden 212,Altona,Hamburgo
+NIF-ALE-ALT-3,3523,CP-8708,Estanco Altona 3,Königsallee 987,Altona,Hamburgo
+NIF-ALE-ALT-4,1550,CP-6332,Estanco Altona 4,Kurfürstendamm 1076,Altona,Hamburgo
+NIF-ALE-ALT-5,1326,CP-5060,Estanco Altona 5,Kurfürstendamm 1625,Altona,Hamburgo
+NIF-ALE-ALT-6,4359,CP-6686,Estanco Altona 6,Kurfürstendamm 633,Altona,Hamburgo
+NIF-ALE-ALT-7,4399,CP-6294,Estanco Altona 7,Reeperbahn 1553,Altona,Hamburgo
+NIF-ALE-ALT-8,1838,CP-6186,Estanco Altona 8,Unter den Linden 536,Altona,Hamburgo
+NIF-ALE-ALT-9,2378,CP-1127,Estanco Altona 9,Kurfürstendamm 1980,Altona,Hamburgo
+NIF-ALE-ALT-10,8384,CP-5150,Estanco Altona 10,Maximilianstraße 1109,Altona,Hamburgo
+NIF-ALE-ALT-11,2515,CP-4670,Estanco Altona 11,Unter den Linden 1895,Altona,Hamburgo
+NIF-ALE-ALT-12,7001,CP-1339,Estanco Altona 12,Kurfürstendamm 1056,Altona,Hamburgo
+NIF-ALE-ALT-13,9514,CP-5262,Estanco Altona 13,Reeperbahn 148,Altona,Hamburgo
+NIF-ALE-ALT-14,7690,CP-3093,Estanco Altona 14,Maximilianstraße 779,Altona,Hamburgo
+NIF-ALE-ALT-15,2181,CP-4063,Estanco Altona 15,Unter den Linden 31,Altona,Hamburgo
+NIF-ALE-BER-1,8030,CP-1259,Estanco Bergedorf 1,Kurfürstendamm 520,Bergedorf,Hamburgo
+NIF-ALE-BER-2,7593,CP-6554,Estanco Bergedorf 2,Unter den Linden 716,Bergedorf,Hamburgo
+NIF-ALE-BER-3,3851,CP-7889,Estanco Bergedorf 3,Kurfürstendamm 1739,Bergedorf,Hamburgo
+NIF-ALE-BER-4,9880,CP-8861,Estanco Bergedorf 4,Königsallee 1163,Bergedorf,Hamburgo
+NIF-ALE-BER-5,9107,CP-1456,Estanco Bergedorf 5,Unter den Linden 1129,Bergedorf,Hamburgo
+NIF-ALE-BER-6,9818,CP-8645,Estanco Bergedorf 6,Maximilianstraße 1519,Bergedorf,Hamburgo
+NIF-ALE-BER-7,8412,CP-9125,Estanco Bergedorf 7,Kurfürstendamm 1987,Bergedorf,Hamburgo
+NIF-ALE-BER-8,4931,CP-5625,Estanco Bergedorf 8,Unter den Linden 997,Bergedorf,Hamburgo
+NIF-ALE-BER-9,7408,CP-3525,Estanco Bergedorf 9,Kurfürstendamm 746,Bergedorf,Hamburgo
+NIF-ALE-BER-10,8740,CP-8254,Estanco Bergedorf 10,Reeperbahn 1999,Bergedorf,Hamburgo
+NIF-ALE-BER-11,3489,CP-3493,Estanco Bergedorf 11,Königsallee 1460,Bergedorf,Hamburgo
+NIF-ALE-BER-12,5332,CP-7923,Estanco Bergedorf 12,Maximilianstraße 1014,Bergedorf,Hamburgo
+NIF-ALE-BER-13,3491,CP-6118,Estanco Bergedorf 13,Kurfürstendamm 1441,Bergedorf,Hamburgo
+NIF-ALE-BER-14,5654,CP-7964,Estanco Bergedorf 14,Reeperbahn 1744,Bergedorf,Hamburgo
+NIF-ALE-BER-15,7724,CP-3520,Estanco Bergedorf 15,Königsallee 1660,Bergedorf,Hamburgo
+NIF-ALE-EIM-1,8565,CP-1881,Estanco Eimsbüttel 1,Reeperbahn 939,Eimsbüttel,Hamburgo
+NIF-ALE-EIM-2,9900,CP-1837,Estanco Eimsbüttel 2,Kurfürstendamm 1424,Eimsbüttel,Hamburgo
+NIF-ALE-EIM-3,2441,CP-7638,Estanco Eimsbüttel 3,Maximilianstraße 641,Eimsbüttel,Hamburgo
+NIF-ALE-EIM-4,4717,CP-6585,Estanco Eimsbüttel 4,Maximilianstraße 641,Eimsbüttel,Hamburgo
+NIF-ALE-EIM-5,7908,CP-5146,Estanco Eimsbüttel 5,Kurfürstendamm 208,Eimsbüttel,Hamburgo
+NIF-ALE-EIM-6,7557,CP-8020,Estanco Eimsbüttel 6,Königsallee 244,Eimsbüttel,Hamburgo
+NIF-ALE-EIM-7,1236,CP-3461,Estanco Eimsbüttel 7,Kurfürstendamm 1236,Eimsbüttel,Hamburgo
+NIF-ALE-EIM-8,4315,CP-1663,Estanco Eimsbüttel 8,Maximilianstraße 860,Eimsbüttel,Hamburgo
+NIF-ALE-EIM-9,9423,CP-3157,Estanco Eimsbüttel 9,Kurfürstendamm 1770,Eimsbüttel,Hamburgo
+NIF-ALE-EIM-10,3741,CP-6697,Estanco Eimsbüttel 10,Reeperbahn 767,Eimsbüttel,Hamburgo
+NIF-ALE-EIM-11,3424,CP-7223,Estanco Eimsbüttel 11,Kurfürstendamm 1767,Eimsbüttel,Hamburgo
+NIF-ALE-EIM-12,6633,CP-2976,Estanco Eimsbüttel 12,Königsallee 1713,Eimsbüttel,Hamburgo
+NIF-ALE-EIM-13,5964,CP-1626,Estanco Eimsbüttel 13,Königsallee 1828,Eimsbüttel,Hamburgo
+NIF-ALE-EIM-14,3131,CP-4372,Estanco Eimsbüttel 14,Kurfürstendamm 577,Eimsbüttel,Hamburgo
+NIF-ALE-EIM-15,6983,CP-7721,Estanco Eimsbüttel 15,Reeperbahn 894,Eimsbüttel,Hamburgo
+NIF-ALE-HAR-1,7939,CP-6063,Estanco Harburg 1,Reeperbahn 398,Harburg,Hamburgo
+NIF-ALE-HAR-2,1019,CP-9643,Estanco Harburg 2,Königsallee 732,Harburg,Hamburgo
+NIF-ALE-HAR-3,1243,CP-1543,Estanco Harburg 3,Kurfürstendamm 1603,Harburg,Hamburgo
+NIF-ALE-HAR-4,2297,CP-9071,Estanco Harburg 4,Reeperbahn 1609,Harburg,Hamburgo
+NIF-ALE-HAR-5,8687,CP-1287,Estanco Harburg 5,Reeperbahn 8,Harburg,Hamburgo
+NIF-ALE-HAR-6,4239,CP-9906,Estanco Harburg 6,Königsallee 1474,Harburg,Hamburgo
+NIF-ALE-HAR-7,5225,CP-5933,Estanco Harburg 7,Kurfürstendamm 898,Harburg,Hamburgo
+NIF-ALE-HAR-8,4831,CP-4609,Estanco Harburg 8,Reeperbahn 109,Harburg,Hamburgo
+NIF-ALE-HAR-9,1286,CP-7382,Estanco Harburg 9,Unter den Linden 671,Harburg,Hamburgo
+NIF-ALE-HAR-10,1176,CP-8048,Estanco Harburg 10,Unter den Linden 344,Harburg,Hamburgo
+NIF-ALE-HAR-11,7605,CP-2609,Estanco Harburg 11,Kurfürstendamm 1814,Harburg,Hamburgo
+NIF-ALE-HAR-12,7049,CP-9345,Estanco Harburg 12,Reeperbahn 594,Harburg,Hamburgo
+NIF-ALE-HAR-13,2276,CP-8493,Estanco Harburg 13,Kurfürstendamm 124,Harburg,Hamburgo
+NIF-ALE-HAR-14,9564,CP-5393,Estanco Harburg 14,Kurfürstendamm 1841,Harburg,Hamburgo
+NIF-ALE-HAR-15,3713,CP-5770,Estanco Harburg 15,Maximilianstraße 823,Harburg,Hamburgo
+NIF-ALE-NOR-1,2042,CP-9334,Estanco Nord 1,Maximilianstraße 1771,Nord,Hamburgo
+NIF-ALE-NOR-2,3324,CP-6374,Estanco Nord 2,Maximilianstraße 1248,Nord,Hamburgo
+NIF-ALE-NOR-3,3746,CP-6723,Estanco Nord 3,Kurfürstendamm 975,Nord,Hamburgo
+NIF-ALE-NOR-4,6507,CP-3358,Estanco Nord 4,Maximilianstraße 1751,Nord,Hamburgo
+NIF-ALE-NOR-5,1620,CP-6369,Estanco Nord 5,Unter den Linden 459,Nord,Hamburgo
+NIF-ALE-NOR-6,3561,CP-6301,Estanco Nord 6,Unter den Linden 634,Nord,Hamburgo
+NIF-ALE-NOR-7,8503,CP-8180,Estanco Nord 7,Kurfürstendamm 214,Nord,Hamburgo
+NIF-ALE-NOR-8,2994,CP-7869,Estanco Nord 8,Reeperbahn 1409,Nord,Hamburgo
+NIF-ALE-NOR-9,4543,CP-5541,Estanco Nord 9,Maximilianstraße 645,Nord,Hamburgo
+NIF-ALE-NOR-10,9017,CP-6735,Estanco Nord 10,Kurfürstendamm 1523,Nord,Hamburgo
+NIF-ALE-NOR-11,3384,CP-1471,Estanco Nord 11,Unter den Linden 766,Nord,Hamburgo
+NIF-ALE-NOR-12,1849,CP-4950,Estanco Nord 12,Kurfürstendamm 739,Nord,Hamburgo
+NIF-ALE-NOR-13,5745,CP-4259,Estanco Nord 13,Maximilianstraße 1450,Nord,Hamburgo
+NIF-ALE-NOR-14,3922,CP-6246,Estanco Nord 14,Königsallee 1597,Nord,Hamburgo
+NIF-ALE-NOR-15,9075,CP-8527,Estanco Nord 15,Maximilianstraße 305,Nord,Hamburgo
+NIF-JAP-SHI-1,1134,CP-2311,Estanco Shinjuku 1,Nakamise-dori 1753,Shinjuku,Tokyo
+NIF-JAP-SHI-2,4759,CP-7753,Estanco Shinjuku 2,Takeshita-dori 854,Shinjuku,Tokyo
+NIF-JAP-SHI-3,4938,CP-1536,Estanco Shinjuku 3,Dotonbori 146,Shinjuku,Tokyo
+NIF-JAP-SHI-4,1238,CP-9278,Estanco Shinjuku 4,Dotonbori 1564,Shinjuku,Tokyo
+NIF-JAP-SHI-5,2732,CP-7527,Estanco Shinjuku 5,Dotonbori 853,Shinjuku,Tokyo
+NIF-JAP-SHI-6,8068,CP-5495,Estanco Shinjuku 6,Omotesando 768,Shinjuku,Tokyo
+NIF-JAP-SHI-7,4978,CP-2159,Estanco Shinjuku 7,Takeshita-dori 1484,Shinjuku,Tokyo
+NIF-JAP-SHI-8,7372,CP-4343,Estanco Shinjuku 8,Takeshita-dori 393,Shinjuku,Tokyo
+NIF-JAP-SHI-9,2163,CP-9661,Estanco Shinjuku 9,Omotesando 1541,Shinjuku,Tokyo
+NIF-JAP-SHI-10,1266,CP-1594,Estanco Shinjuku 10,Ginza 1101,Shinjuku,Tokyo
+NIF-JAP-SHI-11,9540,CP-4124,Estanco Shinjuku 11,Nakamise-dori 195,Shinjuku,Tokyo
+NIF-JAP-SHI-12,9017,CP-8425,Estanco Shinjuku 12,Nakamise-dori 1156,Shinjuku,Tokyo
+NIF-JAP-SHI-13,7370,CP-2133,Estanco Shinjuku 13,Ginza 1464,Shinjuku,Tokyo
+NIF-JAP-SHI-14,4674,CP-9872,Estanco Shinjuku 14,Nakamise-dori 268,Shinjuku,Tokyo
+NIF-JAP-SHI-15,3475,CP-3664,Estanco Shinjuku 15,Ginza 592,Shinjuku,Tokyo
+NIF-JAP-SHI-1,7790,CP-6493,Estanco Shibuya 1,Ginza 1216,Shibuya,Tokyo
+NIF-JAP-SHI-2,3138,CP-6998,Estanco Shibuya 2,Dotonbori 331,Shibuya,Tokyo
+NIF-JAP-SHI-3,8792,CP-7242,Estanco Shibuya 3,Ginza 1836,Shibuya,Tokyo
+NIF-JAP-SHI-4,9354,CP-9144,Estanco Shibuya 4,Nakamise-dori 191,Shibuya,Tokyo
+NIF-JAP-SHI-5,6698,CP-2178,Estanco Shibuya 5,Nakamise-dori 825,Shibuya,Tokyo
+NIF-JAP-SHI-6,7638,CP-9929,Estanco Shibuya 6,Omotesando 1567,Shibuya,Tokyo
+NIF-JAP-SHI-7,4081,CP-8039,Estanco Shibuya 7,Omotesando 167,Shibuya,Tokyo
+NIF-JAP-SHI-8,3647,CP-5561,Estanco Shibuya 8,Nakamise-dori 1836,Shibuya,Tokyo
+NIF-JAP-SHI-9,2534,CP-8590,Estanco Shibuya 9,Takeshita-dori 1224,Shibuya,Tokyo
+NIF-JAP-SHI-10,4049,CP-3949,Estanco Shibuya 10,Takeshita-dori 1265,Shibuya,Tokyo
+NIF-JAP-SHI-11,2472,CP-2834,Estanco Shibuya 11,Takeshita-dori 1358,Shibuya,Tokyo
+NIF-JAP-SHI-12,3785,CP-9179,Estanco Shibuya 12,Nakamise-dori 411,Shibuya,Tokyo
+NIF-JAP-SHI-13,9051,CP-4477,Estanco Shibuya 13,Ginza 636,Shibuya,Tokyo
+NIF-JAP-SHI-14,7053,CP-6593,Estanco Shibuya 14,Takeshita-dori 1595,Shibuya,Tokyo
+NIF-JAP-SHI-15,5327,CP-9975,Estanco Shibuya 15,Ginza 24,Shibuya,Tokyo
+NIF-JAP-MIN-1,1330,CP-4376,Estanco Minato 1,Omotesando 744,Minato,Tokyo
+NIF-JAP-MIN-2,7664,CP-9788,Estanco Minato 2,Omotesando 99,Minato,Tokyo
+NIF-JAP-MIN-3,4916,CP-5765,Estanco Minato 3,Takeshita-dori 1100,Minato,Tokyo
+NIF-JAP-MIN-4,2733,CP-4308,Estanco Minato 4,Ginza 25,Minato,Tokyo
+NIF-JAP-MIN-5,1377,CP-6783,Estanco Minato 5,Nakamise-dori 1648,Minato,Tokyo
+NIF-JAP-MIN-6,6838,CP-5309,Estanco Minato 6,Nakamise-dori 264,Minato,Tokyo
+NIF-JAP-MIN-7,8737,CP-8610,Estanco Minato 7,Nakamise-dori 1281,Minato,Tokyo
+NIF-JAP-MIN-8,4450,CP-7727,Estanco Minato 8,Takeshita-dori 927,Minato,Tokyo
+NIF-JAP-MIN-9,3725,CP-4933,Estanco Minato 9,Takeshita-dori 814,Minato,Tokyo
+NIF-JAP-MIN-10,4485,CP-5423,Estanco Minato 10,Dotonbori 717,Minato,Tokyo
+NIF-JAP-MIN-11,4968,CP-1977,Estanco Minato 11,Takeshita-dori 289,Minato,Tokyo
+NIF-JAP-MIN-12,8551,CP-2478,Estanco Minato 12,Ginza 1076,Minato,Tokyo
+NIF-JAP-MIN-13,2018,CP-1248,Estanco Minato 13,Takeshita-dori 1901,Minato,Tokyo
+NIF-JAP-MIN-14,9156,CP-8262,Estanco Minato 14,Takeshita-dori 206,Minato,Tokyo
+NIF-JAP-MIN-15,4860,CP-2942,Estanco Minato 15,Ginza 1505,Minato,Tokyo
+NIF-JAP-CHI-1,9552,CP-9321,Estanco Chiyoda 1,Ginza 1729,Chiyoda,Tokyo
+NIF-JAP-CHI-2,4377,CP-6770,Estanco Chiyoda 2,Omotesando 862,Chiyoda,Tokyo
+NIF-JAP-CHI-3,9380,CP-9022,Estanco Chiyoda 3,Dotonbori 171,Chiyoda,Tokyo
+NIF-JAP-CHI-4,3767,CP-5853,Estanco Chiyoda 4,Takeshita-dori 1579,Chiyoda,Tokyo
+NIF-JAP-CHI-5,1948,CP-1084,Estanco Chiyoda 5,Nakamise-dori 1022,Chiyoda,Tokyo
+NIF-JAP-CHI-6,2372,CP-7013,Estanco Chiyoda 6,Dotonbori 815,Chiyoda,Tokyo
+NIF-JAP-CHI-7,5314,CP-3864,Estanco Chiyoda 7,Dotonbori 728,Chiyoda,Tokyo
+NIF-JAP-CHI-8,4720,CP-7939,Estanco Chiyoda 8,Takeshita-dori 339,Chiyoda,Tokyo
+NIF-JAP-CHI-9,8101,CP-5187,Estanco Chiyoda 9,Ginza 1529,Chiyoda,Tokyo
+NIF-JAP-CHI-10,7199,CP-5150,Estanco Chiyoda 10,Omotesando 672,Chiyoda,Tokyo
+NIF-JAP-CHI-11,7272,CP-1330,Estanco Chiyoda 11,Takeshita-dori 680,Chiyoda,Tokyo
+NIF-JAP-CHI-12,4438,CP-9149,Estanco Chiyoda 12,Ginza 679,Chiyoda,Tokyo
+NIF-JAP-CHI-13,8484,CP-4426,Estanco Chiyoda 13,Dotonbori 1744,Chiyoda,Tokyo
+NIF-JAP-CHI-14,2785,CP-3497,Estanco Chiyoda 14,Omotesando 832,Chiyoda,Tokyo
+NIF-JAP-CHI-15,1974,CP-3073,Estanco Chiyoda 15,Dotonbori 1199,Chiyoda,Tokyo
+NIF-JAP-TAI-1,5374,CP-7161,Estanco Taito 1,Dotonbori 65,Taito,Tokyo
+NIF-JAP-TAI-2,9102,CP-5525,Estanco Taito 2,Nakamise-dori 889,Taito,Tokyo
+NIF-JAP-TAI-3,4103,CP-5875,Estanco Taito 3,Nakamise-dori 1471,Taito,Tokyo
+NIF-JAP-TAI-4,1579,CP-6120,Estanco Taito 4,Nakamise-dori 1105,Taito,Tokyo
+NIF-JAP-TAI-5,6479,CP-2586,Estanco Taito 5,Omotesando 259,Taito,Tokyo
+NIF-JAP-TAI-6,1310,CP-7436,Estanco Taito 6,Omotesando 1330,Taito,Tokyo
+NIF-JAP-TAI-7,9363,CP-1468,Estanco Taito 7,Nakamise-dori 1791,Taito,Tokyo
+NIF-JAP-TAI-8,1478,CP-5070,Estanco Taito 8,Nakamise-dori 1357,Taito,Tokyo
+NIF-JAP-TAI-9,2065,CP-7154,Estanco Taito 9,Dotonbori 1166,Taito,Tokyo
+NIF-JAP-TAI-10,7987,CP-4172,Estanco Taito 10,Omotesando 920,Taito,Tokyo
+NIF-JAP-TAI-11,6721,CP-2267,Estanco Taito 11,Nakamise-dori 159,Taito,Tokyo
+NIF-JAP-TAI-12,2196,CP-4300,Estanco Taito 12,Nakamise-dori 1303,Taito,Tokyo
+NIF-JAP-TAI-13,4950,CP-1876,Estanco Taito 13,Omotesando 1101,Taito,Tokyo
+NIF-JAP-TAI-14,6522,CP-7843,Estanco Taito 14,Omotesando 529,Taito,Tokyo
+NIF-JAP-TAI-15,4163,CP-6365,Estanco Taito 15,Ginza 1674,Taito,Tokyo
+NIF-JAP-SAK-1,8551,CP-7029,Estanco Sakai 1,Nakamise-dori 520,Sakai,Osaka
+NIF-JAP-SAK-2,2167,CP-2314,Estanco Sakai 2,Takeshita-dori 563,Sakai,Osaka
+NIF-JAP-SAK-3,1428,CP-8167,Estanco Sakai 3,Takeshita-dori 312,Sakai,Osaka
+NIF-JAP-SAK-4,7629,CP-7617,Estanco Sakai 4,Dotonbori 1200,Sakai,Osaka
+NIF-JAP-SAK-5,4267,CP-2072,Estanco Sakai 5,Ginza 1028,Sakai,Osaka
+NIF-JAP-SAK-6,8790,CP-3110,Estanco Sakai 6,Dotonbori 1124,Sakai,Osaka
+NIF-JAP-SAK-7,4714,CP-1868,Estanco Sakai 7,Dotonbori 92,Sakai,Osaka
+NIF-JAP-SAK-8,1154,CP-3082,Estanco Sakai 8,Dotonbori 1584,Sakai,Osaka
+NIF-JAP-SAK-9,9110,CP-5049,Estanco Sakai 9,Takeshita-dori 1572,Sakai,Osaka
+NIF-JAP-SAK-10,4026,CP-5704,Estanco Sakai 10,Takeshita-dori 1652,Sakai,Osaka
+NIF-JAP-SAK-11,8214,CP-5311,Estanco Sakai 11,Ginza 1986,Sakai,Osaka
+NIF-JAP-SAK-12,9660,CP-6885,Estanco Sakai 12,Dotonbori 936,Sakai,Osaka
+NIF-JAP-SAK-13,2179,CP-8176,Estanco Sakai 13,Takeshita-dori 492,Sakai,Osaka
+NIF-JAP-SAK-14,7572,CP-9598,Estanco Sakai 14,Dotonbori 478,Sakai,Osaka
+NIF-JAP-SAK-15,7452,CP-9349,Estanco Sakai 15,Omotesando 505,Sakai,Osaka
+NIF-JAP-HIG-1,1729,CP-8665,Estanco Higashiosaka 1,Omotesando 1508,Higashiosaka,Osaka
+NIF-JAP-HIG-2,4155,CP-7573,Estanco Higashiosaka 2,Dotonbori 1036,Higashiosaka,Osaka
+NIF-JAP-HIG-3,7689,CP-9940,Estanco Higashiosaka 3,Ginza 1377,Higashiosaka,Osaka
+NIF-JAP-HIG-4,1287,CP-7865,Estanco Higashiosaka 4,Takeshita-dori 430,Higashiosaka,Osaka
+NIF-JAP-HIG-5,1335,CP-9243,Estanco Higashiosaka 5,Dotonbori 905,Higashiosaka,Osaka
+NIF-JAP-HIG-6,1524,CP-5480,Estanco Higashiosaka 6,Ginza 1970,Higashiosaka,Osaka
+NIF-JAP-HIG-7,5420,CP-8808,Estanco Higashiosaka 7,Takeshita-dori 1316,Higashiosaka,Osaka
+NIF-JAP-HIG-8,8335,CP-8597,Estanco Higashiosaka 8,Nakamise-dori 1517,Higashiosaka,Osaka
+NIF-JAP-HIG-9,9342,CP-3606,Estanco Higashiosaka 9,Dotonbori 254,Higashiosaka,Osaka
+NIF-JAP-HIG-10,4959,CP-9423,Estanco Higashiosaka 10,Ginza 1907,Higashiosaka,Osaka
+NIF-JAP-HIG-11,3029,CP-9055,Estanco Higashiosaka 11,Dotonbori 1036,Higashiosaka,Osaka
+NIF-JAP-HIG-12,4444,CP-1713,Estanco Higashiosaka 12,Omotesando 1618,Higashiosaka,Osaka
+NIF-JAP-HIG-13,5686,CP-5523,Estanco Higashiosaka 13,Omotesando 1142,Higashiosaka,Osaka
+NIF-JAP-HIG-14,1911,CP-8628,Estanco Higashiosaka 14,Takeshita-dori 912,Higashiosaka,Osaka
+NIF-JAP-HIG-15,9029,CP-8225,Estanco Higashiosaka 15,Dotonbori 1326,Higashiosaka,Osaka
+NIF-JAP-TOY-1,1008,CP-9806,Estanco Toyonaka 1,Omotesando 426,Toyonaka,Osaka
+NIF-JAP-TOY-2,7831,CP-9695,Estanco Toyonaka 2,Ginza 1384,Toyonaka,Osaka
+NIF-JAP-TOY-3,9378,CP-5161,Estanco Toyonaka 3,Omotesando 81,Toyonaka,Osaka
+NIF-JAP-TOY-4,8329,CP-8061,Estanco Toyonaka 4,Omotesando 514,Toyonaka,Osaka
+NIF-JAP-TOY-5,3959,CP-5264,Estanco Toyonaka 5,Dotonbori 1954,Toyonaka,Osaka
+NIF-JAP-TOY-6,8349,CP-2954,Estanco Toyonaka 6,Dotonbori 1700,Toyonaka,Osaka
+NIF-JAP-TOY-7,1260,CP-7539,Estanco Toyonaka 7,Takeshita-dori 1325,Toyonaka,Osaka
+NIF-JAP-TOY-8,7021,CP-9233,Estanco Toyonaka 8,Ginza 1840,Toyonaka,Osaka
+NIF-JAP-TOY-9,4348,CP-3156,Estanco Toyonaka 9,Dotonbori 181,Toyonaka,Osaka
+NIF-JAP-TOY-10,6255,CP-6904,Estanco Toyonaka 10,Nakamise-dori 363,Toyonaka,Osaka
+NIF-JAP-TOY-11,2983,CP-5380,Estanco Toyonaka 11,Omotesando 1619,Toyonaka,Osaka
+NIF-JAP-TOY-12,7150,CP-7002,Estanco Toyonaka 12,Omotesando 1220,Toyonaka,Osaka
+NIF-JAP-TOY-13,3949,CP-8936,Estanco Toyonaka 13,Omotesando 1554,Toyonaka,Osaka
+NIF-JAP-TOY-14,7555,CP-7408,Estanco Toyonaka 14,Omotesando 800,Toyonaka,Osaka
+NIF-JAP-TOY-15,7800,CP-9303,Estanco Toyonaka 15,Dotonbori 1487,Toyonaka,Osaka
+NIF-JAP-HIR-1,4688,CP-8877,Estanco Hirakata 1,Takeshita-dori 1265,Hirakata,Osaka
+NIF-JAP-HIR-2,7574,CP-6599,Estanco Hirakata 2,Nakamise-dori 1715,Hirakata,Osaka
+NIF-JAP-HIR-3,7557,CP-9140,Estanco Hirakata 3,Nakamise-dori 1596,Hirakata,Osaka
+NIF-JAP-HIR-4,3323,CP-1688,Estanco Hirakata 4,Takeshita-dori 546,Hirakata,Osaka
+NIF-JAP-HIR-5,5272,CP-3817,Estanco Hirakata 5,Dotonbori 908,Hirakata,Osaka
+NIF-JAP-HIR-6,9572,CP-7158,Estanco Hirakata 6,Takeshita-dori 1176,Hirakata,Osaka
+NIF-JAP-HIR-7,9783,CP-7834,Estanco Hirakata 7,Omotesando 1561,Hirakata,Osaka
+NIF-JAP-HIR-8,6397,CP-3170,Estanco Hirakata 8,Takeshita-dori 79,Hirakata,Osaka
+NIF-JAP-HIR-9,1111,CP-4104,Estanco Hirakata 9,Takeshita-dori 270,Hirakata,Osaka
+NIF-JAP-HIR-10,8407,CP-5020,Estanco Hirakata 10,Ginza 1970,Hirakata,Osaka
+NIF-JAP-HIR-11,5878,CP-3411,Estanco Hirakata 11,Omotesando 1031,Hirakata,Osaka
+NIF-JAP-HIR-12,8354,CP-2873,Estanco Hirakata 12,Ginza 405,Hirakata,Osaka
+NIF-JAP-HIR-13,8277,CP-3150,Estanco Hirakata 13,Takeshita-dori 1035,Hirakata,Osaka
+NIF-JAP-HIR-14,9989,CP-3539,Estanco Hirakata 14,Nakamise-dori 1360,Hirakata,Osaka
+NIF-JAP-HIR-15,5314,CP-8807,Estanco Hirakata 15,Nakamise-dori 638,Hirakata,Osaka
+NIF-JAP-SUI-1,2047,CP-2574,Estanco Suita 1,Dotonbori 147,Suita,Osaka
+NIF-JAP-SUI-2,9916,CP-1423,Estanco Suita 2,Takeshita-dori 87,Suita,Osaka
+NIF-JAP-SUI-3,2263,CP-5312,Estanco Suita 3,Ginza 1743,Suita,Osaka
+NIF-JAP-SUI-4,8317,CP-3571,Estanco Suita 4,Omotesando 1696,Suita,Osaka
+NIF-JAP-SUI-5,8225,CP-8736,Estanco Suita 5,Dotonbori 1431,Suita,Osaka
+NIF-JAP-SUI-6,9146,CP-6970,Estanco Suita 6,Takeshita-dori 1949,Suita,Osaka
+NIF-JAP-SUI-7,6402,CP-2196,Estanco Suita 7,Dotonbori 1075,Suita,Osaka
+NIF-JAP-SUI-8,8032,CP-6779,Estanco Suita 8,Omotesando 271,Suita,Osaka
+NIF-JAP-SUI-9,3994,CP-8062,Estanco Suita 9,Nakamise-dori 1352,Suita,Osaka
+NIF-JAP-SUI-10,1648,CP-7928,Estanco Suita 10,Omotesando 1977,Suita,Osaka
+NIF-JAP-SUI-11,6003,CP-4980,Estanco Suita 11,Omotesando 1912,Suita,Osaka
+NIF-JAP-SUI-12,2594,CP-5877,Estanco Suita 12,Dotonbori 970,Suita,Osaka
+NIF-JAP-SUI-13,7158,CP-1344,Estanco Suita 13,Takeshita-dori 1727,Suita,Osaka
+NIF-JAP-SUI-14,8369,CP-1394,Estanco Suita 14,Ginza 646,Suita,Osaka
+NIF-JAP-SUI-15,4448,CP-1411,Estanco Suita 15,Takeshita-dori 1008,Suita,Osaka
